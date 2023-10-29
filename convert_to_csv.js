@@ -1,35 +1,34 @@
 const { Parser } = require("json2csv");
 
 /**
+ * Creates the 'back' value for a card.
+ * @param {Object} card - The card object.
+ * @returns {string} The 'back' value for the card.
+ */
+function createBackValue(card) {
+  const { sentence, translation, reading, grammar, formattedSentence } = card;
+  return `${translation}<br>${reading}<br>${grammar}<br>${formattedSentence}`;
+}
+
+/**
  * Converts an array of cards to CSV format.
  * @param {Array} cards - The array of cards to convert.
  * @returns {string} The cards converted to CSV format.
+ * @throws {Error} If the cards parameter is not an array.
  */
 function convertToCsv(cards) {
-  // Define the fields for the CSV
+  if (!Array.isArray(cards)) {
+    throw new Error("The cards parameter must be an array.");
+  }
+
   const fields = [
     { label: "front", value: "sentence" },
-    {
-      label: "back",
-      value: (row) => {
-        // Extract the necessary fields from the row object
-        const { sentence, translation, reading, grammar, formattedSentence } =
-          row;
-
-        // Concatenate the fields with line breaks to create the "back" value
-        return `${translation}<br>${reading}<br>${grammar}<br>${formattedSentence}`;
-      },
-    },
+    { label: "back", value: createBackValue },
   ];
 
-  // Create a new instance of the Parser with the defined fields
   const parser = new Parser({ fields });
 
-  // Parse the cards array into CSV format
-  const csv = parser.parse(cards);
-
-  // Return the CSV string
-  return csv;
+  return parser.parse(cards);
 }
 
 module.exports = { convertToCsv };
