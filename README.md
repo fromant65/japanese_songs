@@ -1,4 +1,4 @@
-# Song Lyrics to Anki CSV Converter
+# Japanese Songs Lyrics to Anki CSV Converter
 
 This project is a JavaScript script that converts song lyrics in a specific format into a CSV file that can be imported into Anki, a popular flashcard application. The script takes an input.txt file containing the lyrics of a song and generates a CSV file with two fields: "front" and "back".
 
