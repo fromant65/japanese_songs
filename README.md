@@ -4,7 +4,7 @@ This project is a JavaScript script that converts song lyrics in a specific form
 
 ## Installation
 
-- Clone the repository: git clone https://github.com/your-username/song-lyrics-to-anki-csv.git
+- Clone the repository: git clone https://github.com/fromant65/japanese_songs.git
 - Navigate to the project directory: cd song-lyrics-to-anki-csv
 - Install the dependencies: npm install
 
