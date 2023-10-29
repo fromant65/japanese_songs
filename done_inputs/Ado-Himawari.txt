@@ -1,0 +1,164 @@
+Sentence: 好きなのに「悪くない」と
+Translation: Even though I like you, I can't honestly say "It's not bad"
+Reading: すきなのに「わるくない」と
+Grammar: 好き (adjective) - like, なのに (conjunction) - even though, 「悪くない」と (quotation) - "It's not bad"
+Sentence: 素直に喜べない私に
+Translation: To me who can't honestly be happy
+Reading: すなおによろこべないわたしに
+Grammar: 素直 (adjective) - honestly, 喜べない (verb - negative form) - can't be happy, 私 (pronoun) - I/me, に (particle) - to
+Sentence: 夏の日の海見ながら
+Translation: While looking at the summer sea
+Reading: なつのひのうみみながら
+Grammar: 夏 (noun) - summer, の (possessive particle) - of, 日 (noun) - day, の (possessive particle) - of, 海 (noun) - sea, 見ながら (verb) - while looking at
+Sentence: 「らしくていいね」と笑いかけた
+Translation: "It's like you, and that's nice," you said with a smile
+Reading: 「らしくていいね」とわらいかけた
+Grammar: 「らしくていいね」 (quotation) - "It's like you, and that's nice," と (quotation particle) - said, 笑いかけた (verb) - with a smile
+Sentence: 太陽が照らしすぎても
+Translation: Even if the sun shines too brightly
+Reading: たいようがてらすぎても
+Grammar: 太陽 (noun) - sun, が (subject particle) - indicates the subject, 照らしすぎても (verb) - shines too brightly, も (conjunction) - even if
+Sentence: 涙が枯れるまで
+Translation: Until the tears dry up
+Reading: なみだがかれるまで
+Grammar: 涙 (noun) - tears, が (subject particle) - indicates the subject, 枯れる (verb) - dry up, まで (conjunction) - until
+Sentence: 寄り添い合い支えてくれた
+Translation: We leaned on each other and supported each other
+Reading: よりそいあいさえてくれた
+Grammar: 寄り添い合い (verb) - leaned on each other, 支えてくれた (verb) - supported each other
+Sentence: ああ 向日葵のように咲いて
+Translation: Ah, blooming like a sunflower
+Reading: ああ ひまわりのようにさいて
+Grammar: ああ (exclamation) - ah, 向日葵 (noun) - sunflower, の (possessive particle) - of, ように (expression) - like/as, 咲いて (verb) - blooming
+Sentence: 天を仰いで笑って
+Translation: Looking up at the sky and smiling
+Reading: てんをあおいでわらって
+Grammar: 天 (noun) - sky, を (particle) - indicates the direct object, 仰いで (verb) - looking up, 笑って (verb) - smiling
+Sentence: ただ真っ直ぐな
+Translation: Just straightforward
+Reading: ただまっすぐな
+Grammar: ただ (adverb) - just, 真っ直ぐな (adjective) - straightforward
+Sentence: あなたのようになりたい
+Translation: I want to be like you
+Reading: あなたのようになりたい
+Grammar: あなた (pronoun) - you, の (possessive particle) - of, ように (expression) - like, なりたい (verb) - want to be
+Sentence: 臆病な私も
+Translation: Even my timid self
+Reading: おくびょうなわたしも
+Grammar: 臆病 (adjective) - timid, 私 (pronoun) - I/me, も (conjunction) - even
+Sentence: 少しだけ背伸びして
+Translation: Stretching just a bit
+Reading: すこしだけせのびして
+Grammar: 少しだけ (adverb) - just a bit, 背伸びして (verb) - stretching
+Sentence: 光の差す方へ歩いて行こう oh
+Translation: Let's walk toward the direction where the light shines, oh
+Reading: ひかりのさすほうへあるいていこう oh
+Grammar: 光 (noun) - light, の (possessive particle) - of, 差す (verb) - shines, 方へ (particle) - toward, 歩いて (verb) - walking, 行こう (verb) - let's go, oh (exclamation) - oh
+Sentence: 「もしいつか生まれ変わる
+Translation: "If I were to be born again someday
+Reading: 「もしいつかうまれかわる
+Grammar: もし (conditional particle) - if, いつか (adverb) - someday, 生まれ変わる (verb) - to be born again
+Sentence: 時が来てもまた私がいい」
+Translation: even if time comes, I want to be myself again"
+Reading: じがきてもまたわたしがいい」
+Grammar: 時 (noun) - time, が (subject particle) - indicates the subject, 来ても (verb) - comes, また (adverb) - again, 私 (pronoun) - myself, が (subject particle) - indicates the subject, いい (adjective) - want to be
+Sentence: そうやって迷いもなく
+Translation: Like that, without hesitation
+Reading: そうやってまよいもなく
+Grammar: そう (adverb) - like that, やって (verb) - doing, 迷い (noun) - hesitation, も (conjunction) - even, なく (adverb) - without
+Sentence: 答えてしまうあなたが好き
+Translation: I like that you answer without hesitation
+Reading: こたえてしまうあなたがすき
+Grammar: 答えてしまう (verb) - answer without hesitation, あなた (pronoun) - you, が (subject particle) - indicates the subject, 好き (adjective) - like
+Sentence: 太陽が沈んでしまっても
+Translation: Even if the sun sets
+Reading: たいようがしずんでしまっても
+Grammar: 太陽 (noun) - sun, が (subject particle) - indicates the subject, 沈んでしまっても (verb) - sets, も (conjunction) - even if
+Sentence: 照らして煌めいて輝いてる
+Translation: You still shine brilliantly
+Reading: てらしてきらめいててる
+Grammar: 照らして (verb) - shining, 煌めいて (verb) - brilliantly, 輝いてる (verb) - shining
+Sentence: あなたがいれば
+Translation: If you are here
+Reading: あなたがいれば
+Grammar: あなた (pronoun) - you, が (subject particle) - indicates the subject, いれば (verb) - are here
+Sentence: ああ 下を向くような日は
+Translation: Ah, on days when I look down
+Reading: ああ したをむくようなひは
+Grammar: ああ (exclamation) - ah, 下を向く (verb) - look down, ような (expression) - like/as, 日 (noun) - days, は (topic particle) - indicates the topic
+Sentence: 星を見上げて泣いて
+Translation: I look up at the stars and cry
+Reading: ほしおみあげてないて
+Grammar: 星 (noun) - stars, を (particle) - indicates the direct object, 見上げて (verb) - look up at, 泣いて (verb) - cry
+Sentence: 強くなれない私のまま愛して
+Translation: Love me as I am, unable to become strong
+Reading: つよくなれないわたしのままあいして
+Grammar: 強く (adverb) - strongly, なれない (verb) - cannot become, 私 (pronoun) - I/me, の (possessive particle) - of, まま (expression) - as, 愛して (verb) - love
+Sentence: 不器用な夏の日も
+Translation: Even on clumsy summer days
+Reading: ぶきようななつのひも
+Grammar: 不器用 (adjective) - clumsy, 夏 (noun) - summer, の (possessive particle) - of, 日 (noun) - days, も (conjunction) - even
+Sentence: 愛しさで溢れるように
+Translation: Like overflowing with love
+Reading: いとしさであふれるように
+Grammar: 愛しさ (noun) - love, で (particle) - with, 溢れる (verb) - overflowing, ように (expression) - like/as
+Sentence: 光の差す方へ歩いて行こう oh
+Translation: Let's walk toward the direction where the light shines, oh
+Reading: ひかりのさすほうへあるいていこう oh
+Grammar: 光 (noun) - light, の (possessive particle) - of, 差す (verb) - shines, 方へ (particle) - toward, 歩いて (verb) - walking, 行こう (verb) - let's go, oh (exclamation) - oh
+Sentence: どうしたって無茶なことだってあるけど
+Translation: No matter what, there are unreasonable things
+Reading: どうしたってむちゃなことだってあるけど
+Grammar: どうしたって (expression) - no matter what, 無茶な (adjective) - unreasonable, こと (noun) - things, だって (conjunction) - but, ある (verb) - there are, けど (conjunction) - but
+Sentence: 床に散ったティッシュが
+Translation: The tissues scattered on the floor
+Reading: ゆかにちらったてぃっしゅが
+Grammar: 床 (noun) - floor, に (particle) - on, 散った (verb) - scattered, ティッシュ (noun) - tissues, が (subject particle) - indicates the subject
+Sentence: 私の信じる夏の大三角
+Translation: The Summer Triangle I believe in
+Reading: わたしのしんじるなつのだいさんかく
+Grammar: 私 (pronoun) - I/me, の (possessive particle) - of, 信じる (verb) - believe, 夏 (noun) - summer, の (possessive particle) - of, 大三角 (noun) - Triangle
+Sentence: ああ 向日葵のように咲いて
+Translation: Ah, blooming like a sunflower
+Reading: ああ ひまわりのようにさいて
+Grammar: ああ (exclamation) - ah, 向日葵 (noun) - sunflower, の (possessive particle) - of, ように (expression) - like/as, 咲いて (verb) - blooming
+Sentence: 天を仰いで笑って
+Translation: Looking up at the sky and smiling
+Reading: てんをあおいでわらって
+Grammar: 天 (noun) - sky, を (particle) - indicates the direct object, 仰いで (verb) - looking up, 笑って (verb) - smiling
+Sentence: 向日葵のような愛を
+Translation: A love like a sunflower
+Reading: ひまわりのようなあいを
+Grammar: 向日葵 (noun) - sunflower, の (possessive particle) - of, ような (expression) - like, 愛 (noun) - love, を (particle) - indicates the direct object
+Sentence: 枯れることない時を
+Translation: A time that will never wither
+Reading: かれることないときを
+Grammar: 枯れる (verb) - wither, こと (noun) - thing, ない (negative) - never, 時 (noun) - time, を (particle) - indicates the direct object
+Sentence: ただ真っ直ぐな
+Translation: Just straightforward
+Reading: ただまっすぐな
+Grammar: ただ (adverb) - just, 真っ直ぐな (adjective) - straightforward
+Sentence: あなたがくれたから
+Translation: Because you gave it to me
+Reading: あなたがくれたから
+Grammar: あなた (pronoun) - you, が (subject particle) - indicates the subject, くれた (verb) - gave, から (conjunction) - because
+Sentence: 臆病な私も
+Translation: Even my timid self
+Reading: おくびょうなわたしも
+Grammar: 臆病 (adjective) - timid, 私 (pronoun) - I/me, も (conjunction) - even
+Sentence: 少しは強くなれたよ
+Translation: I've become a bit stronger
+Reading: すこしはつよくなれたよ
+Grammar: 少し (adverb) - a bit, は (topic particle) - indicates the topic, 強く (adverb) - stronger, なれた (verb) - have become, よ (exclamation) - indicates emphasis
+Sentence: 光の差す方へ歩いて行こう oh
+Translation: Let's walk toward the direction where the light shines, oh
+Reading: ひかりのさすほうへあるいていこう oh
+Grammar: 光 (noun) - light, の (possessive particle) - of, 差す (verb) - shines, 方へ (particle) - toward, 歩いて (verb) - walking, 行こう (verb) - let's go, oh (exclamation) - oh
+Sentence: 向日葵のような愛を
+Translation: A love like a sunflower
+Reading: ひまわりのようなあいを
+Grammar: 向日葵 (noun) - sunflower, の (possessive particle) - of, ような (expression) - like, 愛 (noun) - love, を (particle) - indicates the direct object
+Sentence: 枯れることない時を
+Translation: A time that will never wither
+Reading: かれることないときを
+Grammar: 枯れる (verb) - wither, こと (noun) - thing, ない (negative) - never, 時 (noun) - time, を (particle) - indicates the direct object

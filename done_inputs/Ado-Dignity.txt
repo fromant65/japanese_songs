@@ -1,0 +1,120 @@
+Sentence: 小さな泡きらり
+Translation: Small bubbles twinkle
+Reading: ちいさなあわきらり
+Grammar: 小さな (adjective) - small, 泡 (noun) - bubbles, きらり (adverb) - twinkle
+Sentence: 陽の差す方に昇り
+Translation: Rising towards the sunny side
+Reading: ひのさすほうにのぼり
+Grammar: 陽 (noun) - sun, の (possessive particle), 差す (verb) - to shine, 方 (noun) - direction, に (particle) - to, 昇り (verb) - rising
+Sentence: 自由を目指し飛び立つように
+Translation: Like flying away, aiming for freedom
+Reading: じゆうをめざしひとびたつように
+Grammar: 自由 (noun) - freedom, を (particle) - indicates the direct object, 目指し (verb) - aiming for, 飛び立つ (verb) - flying away, ように (expression) - like/as
+Sentence: パチンと弾ける
+Translation: It pops with a snap
+Reading: ぱちんとはじける
+Grammar: パチン (onomatopoeia) - snap, と (particle) - with, 弾ける (verb) - to pop
+Sentence: ねえ、大事なもの問われ
+Translation: Hey, when asked about what's important
+Reading: ねえ、だいじなものとわれ
+Grammar: ねえ (interjection) - hey, 大事な (adjective) - important, もの (noun) - thing, 問われ (verb) - asked
+Sentence: あなたなら何と答えるでしょう
+Translation: What would you answer?
+Reading: あなたならなにとこたえるでしょう
+Grammar: あなた (pronoun) - you, なら (conditional particle) - if, 何 (pronoun) - what, と (quotation particle) - with, 答える (verb) - to answer, でしょう (expression) - would
+Sentence: いつかわかるのかな, ah
+Translation: Will we ever understand someday, ah
+Reading: いつかわかるのかな, ah
+Grammar: いつか (adverb) - someday, わかる (verb) - to understand, の (question particle) - indicates a question, かな (expression) - I wonder, ah (exclamation)
+Sentence: 愛はどこに響くの
+Translation: Where does love resonate?
+Reading: あいはどこにひびくの
+Grammar: 愛 (noun) - love, は (topic particle) - indicates the topic, どこ (pronoun) - where, に (particle) - at/in, 響く (verb) - to resonate, の (question particle) - indicates a question
+Sentence: 愛は迷ってしまうの
+Translation: Love gets lost
+Reading: あいはまよってしまうの
+Grammar: 愛 (noun) - love, は (topic particle) - indicates the topic, 迷ってしまう (verb) - gets lost, の (explanatory particle) - indicates an explanation
+Sentence: 今はあなたの寝息に
+Translation: Right now, in your sleeping breath
+Reading: いまはあなたのねいきに
+Grammar: 今 (noun) - now, は (topic particle) - indicates the topic, あなた (pronoun) - you, の (possessive particle) - indicates possession, 寝息 (noun) - sleeping breath, に (particle) - in/to
+Sentence: 耳を澄ますだけ
+Translation: I just listen
+Reading: みみをすますだけ
+Grammar: 耳 (noun) - ears, を (particle) - indicates the direct object, 澄ます (verb) - to listen (literally: to clear), だけ (expression) - just/only
+Sentence: 幸せを奪い合う
+Translation: Fighting over happiness
+Reading: しあわせをうばいあう
+Grammar: 幸せ (noun) - happiness, を (particle) - indicates the direct object, 奪い合う (verb) - fighting over
+Sentence: ボクら水槽の中で
+Translation: We, inside the fish tank
+Reading: ぼくらすいそうのなかで
+Grammar: ボクら (pronoun) - we, 水槽 (noun) - fish tank, の (possessive particle) - indicates possession, 中 (noun) - inside, で (particle) - in/at
+Sentence: 誰もみな自分らしく
+Translation: Everyone remains true to themselves
+Reading: だれもみなじぶんらしく
+Grammar: 誰も (pronoun) - everyone, みな (adverb) - all, 自分 (pronoun) - themselves, らしく (adverb) - in a way that is characteristic of
+Sentence: いたいだけなんだよ
+Translation: It's just that they want to live
+Reading: いたいだけなんだよ
+Grammar: いたい (adjective) - want to live, だけ (expression) - just/only, なんだ (explanatory particle) - it's that, よ (exclamation) - emphasizes the statement
+Sentence: すべては運命に沈みゆく
+Translation: Everything sinks into fate
+Reading: すべてはうんめいにしずみゆく
+Grammar: すべて (pronoun) - everything, は (topic particle) - indicates the topic, 運命 (noun) - fate, に (particle) - into, 沈みゆく (verb) - sinks
+Sentence: もうできることなどない
+Translation: There's nothing more we can do
+Reading: もうできることなどない
+Grammar: もう (adverb) - anymore, できる (verb) - can do, こと (noun) - thing, など (particle) - etc., ない (negative ending) - not
+Sentence: ほんとにそうなのかな, ah
+Translation: Is that really true, ah
+Reading: ほんとにそうなのかな, ah
+Grammar: ほんとに (adverb) - really, そう (adjective) - true, なの (explanatory particle) - is it that, かな (expression) - I wonder, ah (exclamation)
+Sentence: 愛は誰を照らすの
+Translation: Who does love shine upon?
+Reading: あいはだれをてらすの
+Grammar: 愛 (noun) - love, は (topic particle) - indicates the topic, 誰 (pronoun) - who, を (particle) - indicates the direct object, 照らす (verb) - to shine upon, の (question particle) - indicates a question
+Sentence: 愛は傷つけてしまうの
+Translation: Love ends up hurting
+Reading: あいはきずつけてしまうの
+Grammar: 愛 (noun) - love, は (topic particle) - indicates the topic, 傷つけてしまう (verb) - ends up hurting, の (explanatory particle) - indicates an explanation
+Sentence: 時間が足りないこと
+Translation: Not having enough time
+Reading: じかんがたりないこと
+Grammar: 時間 (noun) - time, が (subject particle) - indicates the subject, 足りない (adjective) - not enough, こと (noun) - thing/matter
+Sentence: 気付いているのに
+Translation: Even though we're aware
+Reading: きづいているのに
+Grammar: 気付いている (verb) - are aware, のに (conjunction) - even though
+Sentence: いつかわかるのかな, ah
+Translation: Will we ever understand someday, ah
+Reading: いつかわかるのかな, ah
+Grammar: いつか (adverb) - someday, わかる (verb) - to understand, の (question particle) - indicates a question, かな (expression) - I wonder, ah (exclamation)
+Sentence: 愛は越えてゆけるの
+Translation: Can love surpass it?
+Reading: あいはこえてゆけるの
+Grammar: 愛 (noun) - love, は (topic particle) - indicates the topic, 越えてゆける (verb) - can surpass, の (question particle) - indicates a question
+Sentence: 愛はひとつになれるの
+Translation: Can love become one?
+Reading: あいはひとつになれるの
+Grammar: 愛 (noun) - love, は (topic particle) - indicates the topic, ひとつになれる (verb) - can become one, の (question particle) - indicates a question
+Sentence: 試されてるのは
+Translation: What is being tested
+Reading: ためされてるのは
+Grammar: 試されてる (verb) - being tested, の (explanatory particle) - indicates an explanation
+Sentence: 奏でられる命
+Translation: The lives that are played
+Reading: かなでられるいのち
+Grammar: 奏でられる (verb) - are played, 命 (noun) - life
+Sentence: 揺るぎないその命
+Translation: Unwavering, those lives
+Reading: ゆるぎないそのいのち
+Grammar: 揺るぎない (adjective) - unwavering, その (demonstrative pronoun) - that, 命 (noun) - lives
+Sentence: 小さな泡くっついて
+Translation: Small bubbles come together
+Reading: ちいさなあわくっついて
+Grammar: 小さな (adjective) - small, 泡 (noun) - bubbles, くっついて (verb) - come together
+Sentence: 陽の差す方に昇る
+Translation: Rising towards the sunny side
+Reading: ひのさすほうにのぼる
+Grammar: 陽 (noun) - sun, の (possessive particle), 差す (verb) - to shine, 方 (noun) - direction, に (particle) - to, 昇る (verb) - rising

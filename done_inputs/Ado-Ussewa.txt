@@ -1,0 +1,212 @@
+Sentence: ちっちゃな頃から優等生
+Translation: A model student since a small age
+Reading: ちっちゃなころからゆうとうせい
+Grammar: ちっちゃな (adjective) - small, 頃 (noun) - age, から (conjunction) - since, 優等生 (noun) - model student
+Sentence: 気づいたら大人になっていた
+Translation: Before I knew it, I had become an adult
+Reading: きづいたらおとなになっていた
+Grammar: 気づいたら (expression) - Before I knew it, 大人 (noun) - adult, になっていた (verb) - had become
+Sentence: ナイフの様な思考回路
+Translation: Thought processes like a knife
+Reading: ナイフのようなしこうかいろ
+Grammar: ナイフ (noun) - knife, の (possessive particle) - of, 様な (expression) - like, 思考回路 (noun) - thought processes
+Sentence: 持ち合わせる訳もなく
+Translation: Without having the means
+Reading: もちあわせるわけもなく
+Grammar: 持ち合わせる (verb) - have, 訳もなく (expression) - without the means, も (conjunction) - even
+Sentence: でも遊び足りない 何か足りない
+Translation: But I'm not satisfied with playing; something is missing
+Reading: でもあそびたりない なにかたりない
+Grammar: でも (conjunction) - but, 遊び足りない (expression) - not satisfied with playing, 何か (pronoun) - something, 足りない (adjective) - is missing
+Sentence: 困っちまうこれは誰かのせい
+Translation: I'm troubled; this is someone's fault
+Reading: こまっちまうこれはだれかのせい
+Grammar: 困っちまう (expression) - I'm troubled, これは (pronoun) - this is, 誰か (pronoun) - someone, の (possessive particle) - of, せい (noun) - fault
+Sentence: あてもなくただ混乱するエイデイ
+Translation: I'm just confused without a destination, eh-day
+Reading: あてもなくただこんらんするえいでい
+Grammar: あてもなく (expression) - without a destination, ただ (adverb) - just, 混乱する (verb) - confused, エイデイ (noun) - eh-day
+Sentence: それもそっか
+Translation: I see, that's right
+Reading: それもそっか
+Grammar: それ (pronoun) - that, も (conjunction) - also, そっか (exclamation) - I see
+Sentence: 最新の流行は当然の把握
+Translation: Naturally, I understand the latest trends
+Reading: さいしんのりゅうこうはとうぜんのはあく
+Grammar: 最新 (noun) - latest, の (possessive particle) - of, 流行 (noun) - trends, は (topic particle) - indicates the topic, 当然 (adverb) - naturally, の (possessive particle) - of, 把握 (noun) - understanding
+Sentence: 経済の動向も通勤時チェック
+Translation: I also check the economic trends during my commute
+Reading: けいざいのどうこうもつうきんじチェック
+Grammar: 経済 (noun) - economy, の (possessive particle) - of, 動向 (noun) - trends, も (conjunction) - also, 通勤時 (noun) - during my commute, チェック (noun) - check
+Sentence: 純情な精神で入社しワーク
+Translation: I joined the company with a pure heart and started working
+Reading: じゅんじょうなせいしんでにゅうしゃしわーく
+Grammar: 純情 (adjective) - pure, 精神 (noun) - heart/mind/spirit, で (particle) - with, 入社 (noun) - joining the company, し (conjunction) - and, ワーク (noun) - work
+Sentence: 社会人じゃ当然のルールです
+Translation: It's the natural rule for a working adult
+Reading: しゃかいじんじゃとうぜんのるーるです
+Grammar: 社会人 (noun) - working adult, じゃ (particle) - as, 当然 (adverb) - natural, の (possessive particle) - of, ルール (noun) - rule, です (copula) - is
+Sentence: はぁ？
+Translation: Huh?
+Reading: はぁ？
+Grammar: はぁ (exclamation) - huh?
+Sentence: はぁ？ うっせぇうっせぇうっせぇわ
+Translation: Huh? Shut up, shut up, shut up
+Reading: はぁ？ うっせぇうっせぇうっせぇわ
+Grammar: はぁ (exclamation) - huh?, うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: あなたが思うより健康です
+Translation: I'm healthier than you think
+Reading: あなたがおもうよりけんこうです
+Grammar: あなた (pronoun) - you, が (subject particle) - indicates the subject, 思う (verb) - think, より (conjunction) - than, 健康 (noun) - healthy, です (copula) - is
+Sentence: 一切合切凡庸な
+Translation: Everything is ordinary
+Reading: いっさいごうせつぼんような
+Grammar: 一切合切 (noun) - everything, 凡庸 (adjective) - ordinary, な (adjective suffix) - is
+Sentence: あなたじゃ分からないかもね
+Translation: You might not understand
+Reading: あなたじゃわからないかもね
+Grammar: あなた (pronoun) - you, じゃ (particle) - as, 分からない (verb) - don't understand, かも (expression) - might, ね (exclamation) - emphasis
+Sentence: 嗚呼よく似合う
+Translation: Ah, it suits you well
+Reading: ああよくにあう
+Grammar: 嗚呼 (exclamation) - Ah, よく (adverb) - well, 似合う (verb) - suits
+Sentence: その可もなく不可もないメロディー
+Translation: That melody is neither good nor bad
+Reading: そのかもなくふかもないめろでぃー
+Grammar: その (demonstrative pronoun) - that, 可もなく (expression) - neither good, 不可もなく (expression) - nor bad, メロディー (noun) - melody
+Sentence: うっせぇうっせぇうっせぇわ
+Translation: Shut up, shut up, shut up
+Reading: うっせぇうっせぇうっせぇわ
+Grammar: うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: 頭の出来が違うので問題はナシ
+Translation: Since the quality of my head is different, there are no issues
+Reading: あたまのできがちがうのでもんだいはなし
+Grammar: 頭 (noun) - head, の (possessive particle) - of, 出来が (noun) - quality of, 違う (verb) - is different, ので (conjunction) - since, 問題 (noun) - issues, は (topic particle) - indicates the topic, ナシ (abbreviation) - no
+Sentence: つっても私模範人間
+Translation: That said, I'm a model citizen
+Reading: つってもわたしもはんにんげん
+Grammar: つっても (expression) - that said, 私 (pronoun) - I/me, 模範人間 (noun) - model citizen
+Sentence: 殴ったりするのはノーセンキュー
+Translation: I don't hit people, no thank you
+Reading: なぐったりするのはのーせんきゅー
+Grammar: 殴ったり (verb) - hit, する (verb) - do, の (possessive particle) - of, は (topic particle) - indicates the topic, ノーセンキュー (expression) - no thank you
+Sentence: だったら言葉の銃口を
+Translation: In that case, point the barrel of words
+Reading: だったらことばのじゅうこうを
+Grammar: だったら (expression) - in that case, 言葉 (noun) - words, の (possessive particle) - of, 銃口 (noun) - barrel, を (particle) - indicates the direct object
+Sentence: その頭に突きつけて撃てば
+Translation: Aim it at your head and shoot
+Reading: そのあたまにつきつけてうてば
+Grammar: その (demonstrative pronoun) - that, 頭 (noun) - head, に (particle) - at, 突きつけて (verb) - aim, 撃てば (verb) - shoot
+Sentence: マジヤバない？止まれやしない
+Translation: Isn't it seriously dangerous? Can't stop it
+Reading: まじやばない？とまれやしない
+Grammar: マジ (expression) - seriously, ヤバい (slang) - dangerous, ない (negative) - isn't, 止まれ (verb) - can't stop, やしない (slang) - it
+Sentence: 不平不満垂れて成れの果て
+Translation: Overflowing with dissatisfaction, the end result
+Reading: ふへいふまんたれてなれのはて
+Grammar: 不平不満 (noun) - dissatisfaction, 垂れて (verb) - overflowing, 成れ (verb) - the end result, の (possessive particle) - of, 果て (noun) - end
+Sentence: サディスティックに変貌する精神
+Translation: A sadistic transformation of the mind
+Reading: さでぃすてぃっくにへんぼうするせいしん
+Grammar: サディスティック (adjective) - sadistic, に (particle) - to, 変貌 (noun) - transformation, する (verb) - do, 精神 (noun) - mind
+Sentence: クソだりぃな
+Translation: This is shitty
+Reading: くそだりぃな
+Grammar: クソ (noun) - shit, だりぃ (slang) - this is, な (exclamation) - emphasis
+Sentence: 酒が空いたグラスあれば直ぐに注ぎなさい
+Translation: If your glass is empty, pour right away
+Reading: さけがあいたぐらすあればすぐにそそぎなさい
+Grammar: 酒 (noun) - alcohol, が (subject particle) - indicates the subject, 空いた (verb) - is empty, グラス (noun) - glass, あれば (expression) - if there is, 直ぐに (expression) - right away, 注ぎなさい (verb) - pour
+Sentence: 皆がつまみ易いように串外しなさい
+Translation: So that everyone can easily pick some, put it on skewers
+Reading: みながつまみやすいようにくしばなしなさい
+Grammar: 皆 (pronoun) - everyone, が (subject particle) - indicates the subject, つまみ (noun) - snacks/pickings, 易い (adjective) - easy, ように (expression) - so that, 串 (noun) - skewers, 外しなさい (verb) - put/remove
+Sentence: 会計や注文は先陣を切る
+Translation: Lead the way in settling the bill and ordering
+Reading: かいけいやちゅうもんはせんじんをきる
+Grammar: 会計 (noun) - settling the bill, や (conjunction) - and, 注文 (noun) - ordering, は (topic particle) - indicates the topic, 先陣 (noun) - leading the way, を (particle) - indicates the direct object, 切る (verb) - cut/lead
+Sentence: 不文律最低限のマナーです
+Translation: It's an unwritten rule, the minimum etiquette
+Reading: ふぶんりつさいていげんのまなーです
+Grammar: 不文律 (noun) - unwritten rule, 最低限 (noun) - minimum, の (possessive particle) - of, マナー (noun) - etiquette, です (copula) - is
+Sentence: はぁ？うっせぇうっせぇうっせぇわ
+Translation: Huh? Shut up, shut up, shut up
+Reading: はぁ？うっせぇうっせぇうっせぇわ
+Grammar: はぁ (exclamation) - huh?, うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: くせぇ口塞げや限界です
+Translation: Shut your annoying mouth, it's the limit
+Reading: くせぇくちふせげやげんかいです
+Grammar: くせぇ (slang) - annoying, 口 (noun) - mouth, 塞げ (verb) - shut, や (conjunction) - and, 限界 (noun) - limit, です (copula) - is
+Sentence: 絶対絶対現代の代弁者は私やろがい
+Translation: Absolutely, absolutely, I'm the spokesperson of the modern era, right?
+Reading: ぜったいぜったいげんだいのだいべんしゃはわたしやろがい
+Grammar: 絶対 (adverb) - absolutely, 現代 (noun) - modern era, の (possessive particle) - of, 代弁者 (noun) - spokesperson, は (topic particle) - indicates the topic, 私 (pronoun) - I/me, やろがい (expression) - right?
+Sentence: もう見飽きたわ
+Translation: I'm already tired of it
+Reading: もうみあきたわ
+Grammar: もう (adverb) - already, 見飽きた (expression) - tired of, わ (exclamation) - emphasis
+Sentence: 二番煎じ言い換えのパロディ
+Translation: A second-rate, reworded parody
+Reading: にばんせんじいいかえのぱろでぃ
+Grammar: 二番煎じ (noun) - second-rate, 言い換え (noun) - rewording, の (possessive particle) - of, パロディ (noun) - parody
+Sentence: うっせぇうっせぇうっせぇわ
+Translation: Shut up, shut up, shut up
+Reading: うっせぇうっせぇうっせぇわ
+Grammar: うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: 丸々と肉付いたその顔面にバツ
+Translation: Round and chubby, your face with an X
+Reading: まるまるとにくついたそのかおめんにばつ
+Grammar: 丸々 (adjective) - round and chubby, と (conjunction) - and, 肉付いた (expression) - with flesh, その (demonstrative pronoun) - that, 顔面 (noun) - face, に (particle) - with, バツ (noun) - X
+Sentence: うっせぇうっせぇうっせぇわ
+Translation: Shut up, shut up, shut up
+Reading: うっせぇうっせぇうっせぇわ
+Grammar: うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: 私が俗に言う天才です
+Translation: I'm what's commonly known as a genius
+Reading: わたしがぞくにいうてんさいです
+Grammar: 私 (pronoun) - I, が (subject particle) - indicates the subject, 俗に (expression) - commonly known as, 言う (verb) - say, 天才 (noun) - genius, です (copula) - is
+Sentence: うっせぇうっせぇうっせぇわ
+Translation: Shut up, shut up, shut up
+Reading: うっせぇうっせぇうっせぇわ
+Grammar: うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: あなたが思うより健康です
+Translation: I'm healthier than you think
+Reading: あなたがおもうよりけんこうです
+Grammar: あなた (pronoun) - you, が (subject particle) - indicates the subject, 思う (verb) - think, より (conjunction) - than, 健康 (noun) - healthy, です (copula) - is
+Sentence: 一切合切凡庸な
+Translation: Everything is ordinary
+Reading: いっさいごうせつぼんような
+Grammar: 一切合切 (noun) - everything, 凡庸 (adjective) - ordinary, な (adjective suffix) - is
+Sentence: あなたじゃ分からないかもね
+Translation: You might not understand
+Reading: あなたじゃわからないかもね
+Grammar: あなた (pronoun) - you, じゃ (particle) - as, 分からない (verb) - don't understand, かも (expression) - might, ね (exclamation) - emphasis
+Sentence: 嗚呼つまらねぇ
+Translation: Ah, it's boring
+Reading: ああつまらねぇ
+Grammar: 嗚呼 (exclamation) - Ah, つまらねぇ (slang) - boring
+Sentence: 何回聞かせるんだそのメモリー
+Translation: How many times do I have to let you hear that memory?
+Reading: なんかいきかせるんだそのめもりー
+Grammar: 何回 (expression) - how many times, 聞かせる (verb) - let hear, んだ (explanation) - indicates explanation, その (demonstrative pronoun) - that, メモリー (noun) - memory
+Sentence: うっせぇうっせぇうっせぇわ
+Translation: Shut up, shut up, shut up
+Reading: うっせぇうっせぇうっせぇわ
+Grammar: うっせぇ (exclamation) - shut up, わ (exclamation) - emphasis
+Sentence: アタシも大概だけど
+Translation: I'm no exception, but
+Reading: あたしもたいかいだけど
+Grammar: アタシ (slang) - I/me, も (conjunction) - also, 大概 (noun) - no exception, だけど (conjunction) - but
+Sentence: どうだっていいぜ問題はナシ
+Translation: It doesn't matter how it is, there are no issues
+Reading: どうだっていいぜもんだいはなし
+Grammar: どう (expression) - how, だって (conjunction) - is, いい (adjective) - good, ぜ (exclamation) - emphasis, 問題 (noun) - issues, は (topic particle) - indicates the topic, ナシ (abbreviation) - no
+Sentence: 正しさとは 愚かさとは
+Translation: What is righteousness, and what is foolishness?
+Reading: ただしさとは おろかさとは
+Grammar: 正しさ (noun) - righteousness, と (quotation particle) - indicates a quote, 愚かさ (noun) - foolishness, と (quotation particle) - indicates a quote
+Sentence: それが何か見せつけてやる
+Translation: I'll show you what that is
+Reading: それがなにかみせつけてやる
+Grammar: それ (pronoun) - that, が (subject particle) - indicates the subject, 何か (pronoun) - what, 見せつけて (verb) - show, やる (verb) - do

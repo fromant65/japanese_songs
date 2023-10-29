@@ -1,0 +1,35 @@
+.card {
+    font-family: arial;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+.adjective {
+    color: red;
+}
+
+.noun {
+    color: blue;
+}
+
+.verb {
+    color: green;
+}
+
+.particle {
+    color: purple;
+}
+
+.adverb {
+    color: orange;
+}
+
+.conjunction {
+    color: yellow;
+}
+
+.quotation {
+    color: gray;
+}
