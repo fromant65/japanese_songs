@@ -1,0 +1,148 @@
+Sentence: あーもう本当になんて素晴らしき世界
+Translation: Ah, what a truly wonderful world
+Reading: あーもうほんとうになんてすばらしきせかい
+Grammar: あー (exclamation) - Ah, もう (exclamation) - Oh, 本当に (adverb) - truly, なんて (exclamation) - what, 素晴らしき (adjective) - wonderful, 世界 (noun) - world
+Sentence: んで今日もまた己の醜悪さに惑う
+Translation: And today, I'm bewildered by my own ugliness again
+Reading: んできょうもまたおのれのしゅうあくさにまどう
+Grammar: んで (conjunction) - and, 今日 (noun) - today, も (conjunction) - also, また (adverb) - again, 己 (pronoun) - own, の (possessive particle) - of, 醜悪さ (noun) - ugliness, に (particle) - indicates the target, 惑う (verb) - be bewildered
+Sentence: だのに人を好きって思う気持ちだけは
+Translation: Nevertheless, the feeling of loving someone
+Reading: だのにひとをすきっておもうきもちだけは
+Grammar: だのに (conjunction) - nevertheless, 人 (noun) - people, を (direct object particle) - indicates the direct object, 好き (adjective) - love, って (quotation particle) - indicates a quote, 思う (verb) - think, 気持ち (noun) - feeling, だけ (particle) - only, は (topic particle) - indicates the topic
+Sentence: 一丁前にあるから悶えてるんでしょう
+Translation: It's because I have that one grown-up feeling, that I'm tormented
+Reading: いっちょうまえにあるからもだえてるんでしょう
+Grammar: 一丁前 (noun) - grown-up, に (particle) - in, ある (verb) - have, から (conjunction) - because, 悶えてる (verb) - tormented, んでしょう (expression) - I wonder
+Sentence: Ugly 正直言って私の顔は
+Translation: Honestly, to be frank, my face
+Reading: あぐり しょうじきいってわたしのかおは
+Grammar: Ugly (noun) - ugly, 正直言って (expression) - honestly; frankly, 私 (pronoun) - I/me, の (possessive particle) - of, 顔 (noun) - face, は (topic particle) - indicates the topic
+Sentence: そう神様が左手で描いたみたい
+Translation: Looks like God drew it with His left hand
+Reading: そうかみさまがひだりてでえがいたみたい
+Grammar: そう (expression) - looks like, 神様 (noun) - God, が (subject particle) - indicates the subject, 左手 (noun) - left hand, で (particle) - with, 描いた (verb) - drew, みたい (expression) - looks like
+Sentence: 必然 この世にあるラブソングはどれひとつ
+Translation: Inevitably, there isn't a single love song in this world
+Reading: ひつぜん このよにあるらぶそんぐはどれひとつ
+Grammar: 必然 (noun) - inevitability, この (demonstrative adjective) - this, 世 (noun) - world, に (particle) - in, ある (verb) - is, ラブソング (noun) - love song, は (topic particle) - indicates the topic, どれ (pronoun) - which, ひとつ (noun) - one
+Sentence: 絶対 私向けなんかじゃないでしょう
+Translation: Absolutely not meant for someone like me, right?
+Reading: ぜったい わたしむけなんかじゃないでしょう
+Grammar: 絶対 (adverb) - absolutely, 私 (pronoun) - I/me, 向け (verb) - meant for, なんか (expression) - like, じゃない (negative form) - not, でしょう (expression) - right?
+Sentence: 使い道のないくちづけ 憐みを欲しいままに
+Translation: Pointless kisses, wanting pity at will
+Reading: つかいみちのないくちづけ あわれみをほしいままに
+Grammar: 使い道 (noun) - use, の (possessive particle) - of, ない (negative form) - not, くちづけ (noun) - kiss, 憐み (noun) - pity, を (direct object particle) - indicates the direct object, 欲しいままに (expression) - at will
+Sentence: スパンコールの瘡蓋で身を守る
+Translation: Protecting myself with sequined scars
+Reading: すぱんこーるのさゆうでみをまもる
+Grammar: スパンコール (noun) - sequin, の (possessive particle) - of, 瘡蓋 (noun) - scar, で (particle) - with, 身 (noun) - body, を (direct object particle) - indicates the direct object, 守る (verb) - protect
+Sentence: 愛されないくらいなんだ
+Translation: It's to the extent of not being loved
+Reading: あいされないくらいなんだ
+Grammar: 愛されない (verb) - not being loved, くらい (conjunction) - to the extent, なんだ (explanation) - it is
+Sentence: ギラギラ輝いて私は夜を呑み
+Translation: I dazzle and drink the night
+Reading: ぎらぎらこいてわたしはよるをのみ
+Grammar: ギラギラ (onomatopoeia) - dazzle, 輝いて (verb) - dazzle, 私 (pronoun) - I/me, は (topic particle) - indicates the topic, 夜 (noun) - night, を (direct object particle) - indicates the direct object, 呑み (verb) - drink
+Sentence: 今に見てろこの Love
+Translation: Just you wait, this love
+Reading: いまにみてろこのらぶ
+Grammar: 今に (expression) - just you wait, 見てろ (expression) - see, この (demonstrative adjective) - this, Love (noun) - love
+Sentence: 目に染みるは1mgの花火
+Translation: What burns into my eyes is a 1mg fireworks
+Reading: めにしみるは1ミリのはなび
+Grammar: 目に (expression) - into my eyes, 染みる (verb) - burn, は (topic particle) - indicates the topic, 1mg (measurement) - 1 milligram, の (possessive particle) - of, 花火 (noun) - fireworks
+Sentence: なんてファニー この世はビザール
+Translation: How funny, this world is bizarre
+Reading: なんてふぁにー このよはびざーる
+Grammar: なんて (exclamation) - how, ファニー (loanword) - funny, この (demonstrative adjective) - this, 世 (noun) - world, は (topic particle) - indicates the topic, ビザール (loanword) - bizarre
+Sentence: Unknown お釈迦様も存ぜぬうちに
+Translation: Unknown, before even Lord Buddha existed
+Reading: あんのうん おしゃかさまもそんぜぬうちに
+Grammar: Unknown (noun) - unknown, お釈迦様 (honorific) - Lord Buddha, も (conjunction) - even, 存ぜぬ (verb) - existed, うちに (expression) - before
+Sentence: もう健やかに狂っていたみたい
+Translation: It seems I was already healthily crazy
+Reading: もうすこやかにくるっていたみたい
+Grammar: もう (expression) - already, 健やか (adjective) - healthy, に (particle) - in, 狂っていた (verb) - was crazy, みたい (expression) - seems like
+Sentence: それは世界の方かそれとも私の方ですか？
+Translation: Is that the way of the world, or is it my way?
+Reading: それはせかいのほうかそれともわたしのほうですか？
+Grammar: それ (pronoun) - that, は (topic particle) - indicates the topic, 世界 (noun) - world, の (possessive particle) - of, 方 (noun) - way, か (question particle) - or, それ (pronoun) - that, とも (conjunction) - or, 私 (pronoun) - I/me, の (possessive particle) - of, 方 (noun) - way, ですか (question marker) - is it?
+Sentence: 共生は端からムリでしょう
+Translation: Coexistence is impossible from the start
+Reading: きょうせいははしからむりでしょう
+Grammar: 共生 (noun) - coexistence, は (topic particle) - indicates the topic, 端から (expression) - from the start, ムリ (noun) - impossible, でしょう (expression) - I think
+Sentence: マガイモノこそかなしけれ 無我夢中疾る疾る
+Translation: The oddities are pitiable, rushing headlong without self-awareness
+Reading: まがいものこそかなしけれ むがむちゅうはしるばしる
+Grammar: マガイモノ (noun) - oddities, こそ (particle) - emphasizing, かなしけれ (adjective) - pitiable, 無我夢中 (noun) - headlong rush without self-awareness, 疾る (verb) - rush, 疾る (verb) - rush
+Sentence: 強い酸性雨が洗い流す前に
+Translation: Before the strong acidic rain washes it away
+Reading: つよいさんせいうがあらいながすまえに
+Grammar: 強い (adjective) - strong, 酸性雨 (noun) - acidic rain, が (subject particle) - indicates the subject, 洗い流す (verb) - wash away, 前に (expression) - before
+Sentence: 蛍光色の痣抱いて
+Translation: Embracing fluorescent-colored bruises
+Reading: けいこうしょくのあざいて
+Grammar: 蛍光色 (noun) - fluorescent color, の (possessive particle) - of, 痣 (noun) - bruise, 抱いて (verb) - embrace
+Sentence: メラメラ火を噴いて私は夜の狼
+Translation: Spewing flames, I am the wolf of the night
+Reading: めらめらひをふいてわたしはよるのおおかみ
+Grammar: メラメラ (onomatopoeia) - spewing flames, 火 (noun) - fire, を (direct object particle) - indicates the direct object, 噴いて (verb) - spew, 私 (pronoun) - I/me, は (topic particle) - indicates the topic, 夜 (noun) - night, の (possessive particle) - of, 狼 (noun) - wolf
+Sentence: そこで見てろこの乱舞
+Translation: So watch this dance
+Reading: そこでみてろこのらんぶ
+Grammar: そこで (expression) - there, 見てろ (expression) - watch, この (demonstrative adjective) - this, 乱舞 (noun) - dance
+Sentence: 強くおなり あなたなりのメイクアップで
+Translation: Be strong and do your own makeup
+Reading: つよくおなり あなたなりのめいくあっぷで
+Grammar: 強く (adverb) - strongly, おなり (expression) - become, あなた (pronoun) - you, なり (expression) - become, の (possessive particle) - of, メイクアップ (noun) - makeup, で (particle) - with
+Sentence: 不意に不安に
+Translation: Suddenly, uneasily
+Reading: ふいにふあんに
+Grammar: 不意に (adverb) - suddenly, 不安に (adverb) - uneasily
+Sentence: 孤独はガソリン 卑屈な町を行く
+Translation: Solitude is the fuel, traveling through a humble town
+Reading: こどくはがそりん ひくつなまちをいく
+Grammar: 孤独 (noun) - solitude, は (topic particle) - indicates the topic, ガソリン (noun) - fuel, 卑屈な (adjective) - humble, 町 (noun) - town, を (direct object particle) - indicates the direct object, 行く (verb) - go
+Sentence: 目を閉じて もういいかい もういいかい
+Translation: Close your eyes, is it okay now? Is it okay now?
+Reading: めをとじて もういいかい もういいかい
+Grammar: 目 (noun) - eyes, を (direct object particle) - indicates the direct object, 閉じて (verb) - close, もう (expression) - now, いいかい (expression) - is it okay?
+Sentence: もしも神様が左利きならどんなに幸せか知れない
+Translation: If only God were left-handed, who knows how happy we'd be
+Reading: もしもかみさまがひだりききならどんなにしあわせかしれない
+Grammar: もしも (expression) - if only, 神様 (honorific) - God, が (subject particle) - indicates the subject, 左利き (noun) - left-handed, なら (conditional particle) - if, どんなに (expression) - how, 幸せ (noun) - happiness, か (question particle) - question, 知れない (verb) - know
+Sentence: ギラギラ輝いて私は夜を呑み
+Translation: I dazzle and drink the night
+Reading: ぎらぎらこいてわたしはよるをのみ
+Grammar: ギラギラ (onomatopoeia) - dazzle, 輝いて (verb) - dazzle, 私 (pronoun) - I/me, は (topic particle) - indicates the topic, 夜 (noun) - night, を (direct object particle) - indicates the direct object, 呑み (verb) - drink
+Sentence: 今に見てろこの Love
+Translation: Just you wait, this love
+Reading: いまにみてろこのらぶ
+Grammar: 今に (expression) - just you wait, 見てろ (expression) - see, この (demonstrative adjective) - this, Love (noun) - love
+Sentence: 目に染みるは1mgの花火
+Translation: What burns into my eyes is a 1mg fireworks
+Reading: めにしみるは1ミリのはなび
+Grammar: 目に (expression) - into my eyes, 染みる (verb) - burn, は (topic particle) - indicates the topic, 1mg (measurement) - 1 milligram, の (possessive particle) - of, 花火 (noun) - fireworks
+Sentence: なんてファニー この世はビザール
+Translation: How funny, this world is bizarre
+Reading: なんてふぁにー このよはびざーる
+Grammar: なんて (exclamation) - how, ファニー (loanword) - funny, この (demonstrative adjective) - this, 世 (noun) - world, は (topic particle) - indicates the topic, ビザール (loanword) - bizarre
+Sentence: Give love 花は満ちて（ギラギラ）
+Translation: Give love, the flowers are in full bloom (dazzling)
+Reading: ぎぶらぶ はなはみちて（ぎらぎら）
+Grammar: Give love (noun phrase) - give love, 花 (noun) - flowers, は (topic particle) - indicates the topic, 満ちて (verb) - in full bloom, ギラギラ (onomatopoeia) - dazzling
+Sentence: ありのまんまじゃいられない 誰も彼も
+Translation: No one can stay as they are, everyone
+Reading: ありのまんまじゃいられない だれもかれも
+Grammar: ありのまんま (expression) - as they are, じゃ (contraction) - can't, いられない (verb) - stay, 誰も (pronoun) - everyone, 彼も (pronoun) - he/she
+Sentence: なんて素晴らしき世界だ！
+Translation: What a wonderful world!
+Reading: なんてすばらしきせかいだ！
+Grammar: なんて (exclamation) - what, 素晴らしき (adjective) - wonderful, 世界 (noun) - world, だ (copula) - is!
+Sentence: ギラついてこう
+Translation: Let's dazzle
+Reading: ぎらついてこう
+Grammar: ギラついて (verb) - dazzle, こう (expression) - let's
