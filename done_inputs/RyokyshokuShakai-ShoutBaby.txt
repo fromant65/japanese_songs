@@ -1,0 +1,325 @@
+Sentence: いつもと違う髪のにおい
+
+Translation: The scent of my hair is different from usual
+
+Reading: いつもとちがうかみのにおい
+
+Grammar: いつも (adverb) - usual, と (quotation particle) - with, 違う (verb) - different, 髪 (noun) - hair, の (possessive particle) - of, におい (noun) - scent
+
+Sentence: 踊らされてしまう悔しいな
+
+Translation: It's frustrating to be danced along
+
+Reading: おどらされてしまうくやしいな
+
+Grammar: 踊らされてしまう (verb phrase) - to be danced along, 悔しい (adjective) - frustrating, な (explanatory particle) - emphasizes emotion
+
+Sentence: 緩んでしまう口元 マフラーにそっと沈めた
+
+Translation: My mouth loosens, and I gently bury it in the scarf
+
+Reading: ゆるんでしまうくちもと まふらーにそっとしずめた
+
+Grammar: 緩んでしまう (verb phrase) - loosens, 口元 (noun) - mouth, マフラー (noun) - scarf, に (directional particle) - in, そっと (adverb) - gently, 沈めた (verb) - bury
+
+Sentence: いつから私こんな風に
+
+Translation: Since when have I been like this?
+
+Reading: いつからわたしこんなふうに
+
+Grammar: いつから (expression) - since when, 私 (pronoun) - I/me, こんな (demonstrative adjective) - like this, 風に (noun) - manner
+
+Sentence: 我慢強くなれていたんだろう
+
+Translation: I wonder when I became patient
+
+Reading: がまんづよくなれていたんだろう
+
+Grammar: 我慢強く (adverb) - patiently, なれていたんだろう (verb phrase) - I wonder if I have become
+
+Sentence: 子供の頃から泣き虫だって馬鹿にされたのに
+
+Translation: Even though I was teased for being a crybaby since childhood
+
+Reading: こどものころからなきむしだってばかにされたのに
+
+Grammar: 子供の頃から (expression) - since childhood, 泣き虫 (noun) - crybaby, だって (conjunction) - even though, 馬鹿にされた (verb phrase) - was teased, のに (conjunction) - despite
+
+Sentence: 内緒にしていてね なんて残酷な言葉
+
+Translation: Keep it a secret, what a cruel phrase
+
+Reading: ないしょにしていてね なんてざんこくなことば
+
+Grammar: 内緒にしていて (verb phrase) - keep it a secret, ね (explanatory particle) - emphasizes the request, なんて (exclamation) - what a, 残酷な (adjective) - cruel, 言葉 (noun) - words
+
+Sentence: 叫び声霞んでく
+
+Translation: The screaming voices become hazy
+
+Reading: さけびごえかすんでく
+
+Grammar: 叫び声 (noun) - screaming voices, 霞んでく (verb phrase) - become hazy
+
+Sentence: ありふれてるはずの未来には遠くて
+
+Translation: The supposedly ordinary future feels distant
+
+Reading: ありふれてるはずのみらいにはとおくて
+
+Grammar: ありふれてる (verb) - is ordinary, はずの (expression) - supposedly, 未来 (noun) - future, には (directional particle) - to, 遠くて (verb phrase) - feels distant
+
+Sentence: 誰に聞かずとも分かる
+
+Translation: Even without asking anyone, I understand
+
+Reading: だれにきかずともわかる
+
+Grammar: 誰に (pronoun) - anyone, 聞かずとも (verb phrase) - without asking, 分かる (verb) - understand
+
+Sentence: あいつの元には届きやしない
+
+Translation: It won't reach to that person's side
+
+Reading: あいつのもとにはとどきやしない
+
+Grammar: あいつの (pronoun) - that person's, 元には (expression) - to that side, 届きやしない (verb phrase) - won't reach
+Sentence: どこに辿り着けばいい?
+
+Translation: Where should I arrive at?
+
+Reading: どこにたどりつけばいい
+
+Grammar: どこに (pronoun) - where, 辿り着けば (verb phrase) - should arrive, いい (expression) - good
+
+Sentence: 分からなくてただ縋り付いて
+
+Translation: Not knowing, just clinging
+
+Reading: わからなくてただすがりついて
+
+Grammar: 分からなくて (expression) - not knowing, ただ (adverb) - just, 縋り付いて (verb phrase) - clinging
+
+Sentence: 毎日の不安をかき消すほど
+
+Translation: To the extent that it erases the daily anxiety
+
+Reading: まいにちのふあんをかきけすほど
+
+Grammar: 毎日の (expression) - daily, 不安 (noun) - anxiety, を (direct object particle) - indicates the direct object, かき消す (verb) - erase, ほど (expression) - to the extent
+
+Sentence: 胸を焦がす憧れなど消えない
+
+Translation: The yearning that burns in my chest doesn't disappear
+
+Reading: むねをこがすあこがれなどきえない
+
+Grammar: 胸を (expression) - in my chest, 焦がす (verb) - burns, 憧れなど (noun) - yearning and others, 消えない (verb phrase) - doesn't disappear
+
+Sentence: 変わりたい
+
+Translation: I want to change
+
+Reading: かわりたい
+
+Grammar: 変わりたい (verb phrase) - want to change
+
+Sentence: 何でもすぐに後回しに
+
+Translation: Always putting everything off for later
+
+Reading: なんでもすぐにあとまわしに
+
+Grammar: 何でも (expression) - everything, すぐに (expression) - immediately, 後回しに (verb phrase) - put off for later
+
+Sentence: してしまうような私だから
+
+Translation: Because I'm the type to end up doing that
+
+Reading: してしまうようなわたしだから
+
+Grammar: してしまう (verb phrase) - end up doing, ような (expression) - like, 私 (pronoun) - I/me, だから (conjunction) - because
+
+Sentence: 僅かな繋がりだけでもずっと守りたかった
+
+Translation: I wanted to protect even the slightest connection forever
+
+Reading: わずかなつながりだけでもずっとまもりたかった
+
+Grammar: 僅かな (adjective) - slightest, 繋がり (noun) - connection, だけでも (expression) - even only, ずっと (adverb) - forever, 守りたかった (verb phrase) - wanted to protect
+
+Sentence: 内緒にしていたら あってもないようなものだね
+
+Translation: If kept a secret, it's like it never existed
+
+Reading: ないしょにしていたら あってもないようなものだね
+
+Grammar: 内緒にしていたら (verb phrase) - if kept a secret, あっても (verb phrase) - even if it exists, ないような (expression) - like it doesn't exist, ものだね (expression) - it's like
+
+Sentence: 忘れてしまえる程 ちっぽけな想いではないよ分かってる?
+
+Translation: It's not a tiny feeling that can be forgotten, you know?
+
+Reading: わすれてしまえるほど ちっぽけなおもいではないよわかってる
+
+Grammar: 忘れてしまえる (verb phrase) - can be forgotten, ほど (expression) - to the extent, ちっぽけな (adjective) - tiny, 想いではない (noun phrase) - feeling, よ (explanatory particle) - emphasizes the statement, 分かってる (expression) - I know
+
+Sentence: 夜が明ける頃にまた 真面目な姿だけ身に付けて
+
+Translation: By the time morning comes, I'll put on only a serious appearance again
+
+Reading: よがあけるころにまた まじめなすがただけみにつけて
+
+Grammar: 夜が明ける頃に (expression) - by the time morning comes, また (adverb) - again, 真面目な (adjective) - serious, 姿 (noun) - appearance, だけ (particle) - only, 身に付けて (verb phrase) - put on
+
+Sentence: だってそれしかなかったの
+
+Translation: Because that's all there was
+
+Reading: だってそれしかなかったの
+
+Grammar: だって (conjunction) - because, それしかなかった (expression) - that's all there was, の (explanatory particle) - emphasizes the statement
+
+Sentence: 初めてのことに戸惑ってる
+
+Translation: I'm bewildered by something new
+
+Reading: はじめてのことにとまどってる
+
+Grammar: 初めてのことに (expression) - by something new, 戸惑ってる (verb phrase) - bewildered
+
+Sentence: 退屈な時間をかき消すほど
+
+Translation: To the extent that it erases boring time
+
+Reading: たいくなじかんをかきけすほど
+
+Grammar: 退屈な (adjective) - boring, 時間 (noun) - time, を (direct object particle) - indicates the direct object, かき消す (verb) - erase, ほど (expression) - to the extent
+
+Sentence: 胸を占めるあいつなんて もう もう
+
+Translation: That person who occupies my heart, no more, no more
+
+Reading: むねをしめるあいつなんて もう もう
+
+Grammar: 胸を占める (verb phrase) - occupies my heart, あいつ (pronoun) - that person, なんて (exclamation) - emphasizing expression, もう (adverb) - no more
+
+Sentence: こんなもの知りたくなかった
+
+Translation: I didn't want to know about such things
+
+Reading: こんなものしりたくなかった
+
+Grammar: こんなもの (expression) - such things, 知りたくなかった (verb phrase) - didn't want to know
+
+Sentence: あの時ああすれば良かった
+
+Translation: I should have done things differently at that time
+
+Reading: あのときああすればよかった
+
+Grammar: あの時 (expression) - at that time, ああすれば (verb phrase) - should have done, 良かった (expression) - should have been good
+
+Sentence: こんなに脆いものだけど
+
+Translation: Even though it's such a fragile thing
+
+Reading: こんなにももろいものだけど
+
+Grammar: こんなに (expression) - such, 脆い (adjective) - fragile, もの (noun) - thing, だけど (conjunction) - but
+
+Sentence: 自分を肯定したかった
+
+Translation: I wanted to affirm myself
+
+Reading: じぶんをこうていしたかった
+
+Grammar: 自分を (expression) - myself, 肯定したかった (verb phrase) - wanted to affirm
+
+Sentence: 悪いことをしてるようで
+
+Translation: It feels like I'm doing something wrong
+
+Reading: わるいことをしてるようで
+
+Grammar: 悪いこと (expression) - something wrong, をしてる (verb phrase) - doing, ようで (expression) - feels like
+
+Sentence: 自分が情けなかった
+
+Translation: I felt pathetic about myself
+
+Reading: じぶんがなさけなかった
+
+Grammar: 自分が (expression) - myself, 情けなかった (adjective) - felt pathetic
+
+Sentence: だけど全て初めてで
+
+Translation: But everything was for the first time
+
+Reading: だけどすべてはじめてで
+
+Grammar: だけど (conjunction) - but, 全て (pronoun) - everything, 初めてで (expression) - for the first time
+
+Sentence: まだ信じていたかった
+
+Translation: I still wanted to believe
+
+Reading: まだしんじていたかった
+
+Grammar: まだ (adverb) - still, 信じていたかった (verb phrase) - wanted to believe
+
+Sentence: 誰に聞かずとも分かる
+
+Translation: Even without asking anyone, I understand
+
+Reading: だれにきかずともわかる
+
+Grammar: 誰に (pronoun) - anyone, 聞かずとも (verb phrase) - without asking, 分かる (verb) - understand
+
+Sentence: あいつは幸せをくれやしない
+
+Translation: That person won't give me happiness, I suppose
+
+Reading: あいつはしあわせをくれやしない
+
+Grammar: あいつは (pronoun) - that person, 幸せをくれやしない (verb phrase) - won't give happiness, し (emphasis particle), やしない (expression) - I suppose
+
+Sentence: それでもあいつがくれたもの
+
+Translation: Nevertheless, the things that person gave me
+
+Reading: それでもあいつがくれたもの
+
+Grammar: それでも (conjunction) - nevertheless, あいつが (pronoun) - that person gave, くれたもの (verb phrase) - gave me things
+Sentence: 何もなかったわけじゃないから
+
+Translation: Because it's not like there was nothing
+
+Reading: なにもなかったわけじゃないから
+
+Grammar: 何も (expression) - nothing, なかった (verb) - was not, わけじゃない (expression) - because it's not like
+
+Sentence: 毎日の不安をかき消すほど
+
+Translation: To the extent that it erases the daily anxiety
+
+Reading: まいにちのふあんをかきけすほど
+
+Grammar: 毎日の (expression) - daily, 不安 (noun) - anxiety, を (direct object particle) - indicates the direct object, かき消す (verb) - erase, ほど (expression) - to the extent
+
+Sentence: ずるい嘘が嬉しくて消えない
+
+Translation: Unfair lies, happily lingering without disappearing
+
+Reading: ずるいうそがうれしくてきえない
+
+Grammar: ずるい (adjective) - unfair, 嘘 (noun) - lies, が (subject particle) - indicates the subject, 嬉しくて (verb phrase) - happily, 消えない (verb phrase) - doesn't disappear
+
+Sentence: 変わりたい
+
+Translation: I want to change
+
+Reading: かわりたい
+
+Grammar: 変わりたい (verb phrase) - want to change
