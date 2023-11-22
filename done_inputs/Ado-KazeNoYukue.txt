@@ -1,0 +1,179 @@
+Sentence: この風は どこからきたのと
+
+Translation: Where did this wind come from?
+
+Reading: このかぜは どこからきたのと
+
+Grammar: どこ (pronoun) - where, から (particle) - from, きた (verb) - came, の (particle) - possessive
+
+Sentence: 問いかけても 空は何も言わない
+
+Translation: Even if I ask, the sky won't say anything.
+
+Reading: といかけても そらはなにもいわない
+
+Grammar: 問いかけても (verb) - even if I ask, 空 (noun) - sky, 何も (adverb) - anything, 言わない (verb) - won't say
+
+Sentence: この歌は どこへ辿り着くの
+
+Translation: Where will this song lead to?
+
+Reading: このうたは どこへたどりつくの
+
+Grammar: どこへ (pronoun) - where to, 辿り着く (verb) - lead to, の (particle) - questioning
+
+Sentence: 見つけたいよ 自分だけの答えを
+
+Translation: I want to find my own answer.
+
+Reading: みつけたいよ じぶんだけのこたえを
+
+Grammar: 見つけたい (verb) - want to find, 自分だけの (pronoun) - my own, 答えを (noun) - answer
+
+Sentence: まだ知らない海の果てへと 漕ぎ出そう
+
+Translation: Let's row towards the unknown end of the sea.
+
+Reading: まだしらないうみのはてへと こぎだそう
+
+Grammar: まだ (adverb) - still, 知らない (verb) - don't know, 海 (noun) - sea, 果て (noun) - end, へと (particle) - towards, 漕ぎ出そう (verb) - let's row out
+
+
+Sentence: ただひとつの夢 決して譲れない
+
+Translation: I will never yield my one and only dream.
+
+Reading: ただひとつのゆめ けっしてゆずれない
+
+Grammar: ただ (adverb) - only, ひとつ (pronoun) - one, の (particle) - possessive, 夢 (noun) - dream, 決して (adverb) - never, 譲れない (verb) - will not yield
+
+Sentence: 心に帆を揚げて 願いのまま進め
+
+Translation: Hoist the sail in your heart and proceed as you wish.
+
+Reading: こころにほをあげて ねがいのまますすめ
+
+Grammar: 心 (noun) - heart, 帆 (noun) - sail, 揚げて (verb) - hoist, 願いのまま (noun) - as you wish, 進め (verb) - proceed
+
+Sentence: いつだって あなたへ 届くように 歌うわ
+
+Translation: I will always sing so it reaches you.
+
+Reading: いつだって あなたへ とどくように うたうわ
+
+Grammar: いつだって (adverb) - always, あなたへ (pronoun) - to you, 届くように (verb) - so it reaches, 歌う (verb) - sing
+
+Sentence: 大海原を駆ける 新しい風になれ
+
+Translation: Become a new wind racing across the open sea.
+
+Reading: おおうなはらをかける あたらしいふうになれ
+
+Grammar: 大海原 (noun) - open sea, 駆ける (verb) - race, 新しい (adjective) - new, 風 (noun) - wind, になれ (verb) - become
+
+
+Sentence: それぞれに 幸せを目指し
+
+Translation: Each one aims for happiness.
+
+Reading: それぞれに しあわせをめざし
+
+Grammar: それぞれ (pronoun) - each, 幸せ (noun) - happiness, を (particle) - object marker, 目指し (verb) - aims for
+
+Sentence: 傷ついても それでも 手を伸ばすよ
+
+Translation: Even if hurt, I'll still reach out my hand.
+
+Reading: きずついても それでも てをのばすよ
+
+Grammar: 傷ついても (verb) - even if hurt, それでも (adverb) - still, 手 (noun) - hand, 伸ばす (verb) - reach out, よ (sentence-ending particle)
+
+Sentence: 悲しみも強さに変わるなら
+
+Translation: If sorrow can turn into strength,
+
+Reading: かなしみもつよさにかわるなら
+
+Grammar: 悲しみも (noun) - sorrow, 強さに (noun) - strength, 変わる (verb) - turn into, なら (conjunction) - if
+
+Sentence: 荒れ狂う嵐も越えていけるはず
+
+Translation: We should be able to overcome even the raging storm.
+
+Reading: あれくるうあらしもこえていけるはず
+
+Grammar: 荒れ狂う (verb) - raging, 嵐 (noun) - storm, も (particle) - also, 越えていける (verb) - be able to overcome, はず (expectation)
+
+Sentence: 信じるその旅の果てで また 会いたい
+
+Translation: I want to meet you again at the end of that journey I believe in.
+
+Reading: しんじるそのたびのはてで また あいたい
+
+Grammar: 信じる (verb) - believe in, その (pronoun) - that, 旅 (noun) - journey, の (particle) - possessive, 果てで (noun) - at the end, また (adverb) - again, 会いたい (verb) - want to meet
+
+
+Sentence: 目覚めたまま見る夢 決して醒めはしない
+
+Translation: The dream I see while awake will never fade away.
+
+Reading: めざめたままみるゆめ けっしてさめはしない
+
+Grammar: 目覚めたまま (adverb) - while awake, 見る (verb) - see, 夢 (noun) - dream, 決して (adverb) - never, 醒めはしない (verb) - will not fade away
+
+Sentence: 水平線の彼方 その影に手を振るよ
+
+Translation: Beyond the horizon, I'll wave my hand in that silhouette.
+
+Reading: すいへいせんのかなた そのかげにてをふるよ
+
+Grammar: 水平線 (noun) - horizon, の (particle) - possessive, 彼方 (noun) - beyond, その (pronoun) - that, 影 (noun) - silhouette, に (particle) - to, 手を振る (verb) - wave my hand, よ (sentence-ending particle)
+
+Sentence: いつまでも あなたへ 届くように 歌うわ
+
+Translation: I will sing forever so it reaches you.
+
+Reading: いつまでも あなたへ とどくように うたうわ
+
+Grammar: いつまでも (adverb) - forever, あなたへ (pronoun) - to you, 届くように (verb) - so it reaches, 歌う (verb) - sing
+
+Sentence: 大きく広げた帆が 纏う 青い風になれ
+
+Translation: The widely spread sail becomes a wrapped, blue wind.
+
+Reading: おおきくひろげたほが まとう あおいふうになれ
+
+Grammar: 大きく広げた (verb) - widely spread, 帆 (noun) - sail, が (particle) - subject marker, 纏う (verb) - wrap, 青い (adjective) - blue, 風 (noun) - wind, になれ (verb) - become
+
+
+Sentence: ただひとつの夢 誰も奪えない
+
+Translation: No one can take away my one and only dream.
+
+Reading: ただひとつのゆめ だれもうばえない
+
+Grammar: 誰も (pronoun) - no one, 奪えない (verb) - can't take away
+
+Sentence: 私が消え去っても 歌は響き続ける
+
+Translation: Even if I vanish, the song will continue to resonate.
+
+Reading: わたしがきえさっても うたはひびきつづける
+
+Grammar: 私が (pronoun) - I, 消え去っても (verb) - even if I vanish, 歌 (noun) - song, は (particle) - topic marker, 響き続ける (verb) - will continue to resonate
+
+Sentence: どこまでも あなたへ 届くように 歌うわ
+
+Translation: I will sing so it reaches you wherever you are.
+
+Reading: どこまでも あなたへ とどくように うたうわ
+
+Grammar: どこまでも (adverb) - wherever, あなたへ (pronoun) - to you, 届くように (verb) - so it reaches, 歌う (verb) - sing
+
+Sentence: 大海原を駆ける 新しい風になれ ooh
+
+Translation: Become a new wind racing across the open sea, oh!
+
+Reading: おおうなはらをかける あたらしいふうになれ おー
+
+Grammar: 大海原 (noun) - open sea, 駆ける (verb) - race, 新しい (adjective) - new, 風 (noun) - wind, になれ (verb) - become, ooh (exclamation) - oh

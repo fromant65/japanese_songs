@@ -1,0 +1,167 @@
+Sentence: 風に乗って流れる 私達の今は
+
+Translation: Riding the wind, our present flows.
+
+Reading: かぜにのってながれる わたしたちのいまは
+
+Grammar: 風に乗って (expression) - riding the wind, 流れる (verb) - flows, 私達 (pronoun) - we, の (particle) - possessive, 今は (adverb) - now
+
+Sentence: どんな国 どんな世界へ行けるんだろう
+
+Translation: I wonder to what country, to what world we can go.
+
+Reading: どんなくに どんなせかいへいけるんだろう
+
+Grammar: どんな (pronoun) - what kind of, 国 (noun) - country, どんな (pronoun) - what kind of, 世界 (noun) - world, へ (particle) - to, 行けるんだろう (verb) - can go, だろう (conjecture)
+
+Sentence: メロディの産声に 歓喜して感極まって
+
+Translation: In the melody's first cry, rejoicing and being moved,
+
+Reading: めろでぃのうぶごえに かんきして かんきょうまって
+
+Grammar: メロディ (noun) - melody, の (particle) - possessive, 産声 (noun) - first cry, に (particle) - in, 歓喜して (verb) - rejoicing, 感極まって (verb) - being moved
+
+Sentence: 明けては暮れてゆく 小さな毎日
+
+Translation: Days pass from dawn to dusk, small everyday moments.
+
+Reading: あけてはくれてゆく ちいさなまいにち
+
+Grammar: 明けては (verb) - from dawn, 暮れてゆく (verb) - to dusk, 小さな (adjective) - small, 毎日 (noun) - everyday
+
+Sentence: 嘘なんてつけないよ 大事な仲間(ひと)の前で
+
+Translation: I won't tell lies, especially not in front of my important friends.
+
+Reading: うそなんてつけないよ だいじななかまのまえで
+
+Grammar: 嘘 (noun) - lies, なんて (particle) - such as, つけない (verb) - won't tell, よ (sentence-ending particle), 大事な (adjective) - important, 仲間 (noun) - friends, の (particle) - possessive, 前で (expression) - in front of
+
+Sentence: 好きにブレーキないよね
+
+Translation: There's no stopping for personal preferences, right?
+
+Reading: すきにぶれーきないよね
+
+Grammar: 好きに (expression) - personal preferences, ブレーキない (expression) - no stopping, よね (sentence-ending particle)
+
+Sentence: 道なき道でも進もうよ 一緒に放つ音が地図だよ
+
+Translation: Let's advance even on an unknown path; the sound we create together is our map.
+
+Reading: みちなきみちでもすすもうよ いっしょにはなつおとがちずだよ
+
+Grammar: 道なき (expression) - unknown path, 道でも (particle) - even on a path, 進もう (verb) - let's advance, よ (sentence-ending particle), 一緒に (expression) - together, 放つ (verb) - create, 音 (noun) - sound, が (particle) - subject marker, 地図 (noun) - map
+
+Sentence: ビートで胸に刻む誓い
+
+Translation: A promise engraved in our hearts with the beat.
+
+Reading: びーとでむねにきざむちかい
+
+Grammar: ビート (noun) - beat, で (particle) - with, 胸に (expression) - in the heart, 刻む (verb) - engrave, 誓い (noun) - promise
+
+Sentence: 額から指から 滲んで散る汗は
+
+Translation: From our foreheads to our fingers, the sweat that drips and scatters,
+
+Reading: ひたいからゆびから にじんでちるあせは
+
+Grammar: 額から (expression) - from the forehead, 指から (expression) - from the fingers, 滲んで (verb) - drips, 散る (verb) - scatters, 汗 (noun) - sweat
+
+Sentence: 走ったりスロウなリズム すれ違いや衝突
+
+Translation: Running or in a slow rhythm, encountering and colliding,
+
+Reading: はしったりすろうなりずむ すれちがいやしょうとつ
+
+Grammar: 走ったり (verb) - running, スロウな (expression) - slow, リズム (noun) - rhythm, すれ違い (verb) - encountering, 衝突 (noun) - collision
+
+Sentence: ありふれていて 一生で一度きりのステージ
+
+Translation: These commonplace moments are a once-in-a-lifetime stage.
+
+Reading: ありふれていて いっしょうでいちどきりのすてーじ
+
+Grammar: ありふれていて (verb) - commonplace, 一生で (expression) - in a lifetime, 一度きりの (expression) - once-in-a-lifetime, ステージ (noun) - stage
+
+Sentence: 傷なんてつかないよ 笑顔が教えてくれた
+
+Translation: No scars will form; my smile has taught me.
+
+Reading: きずなんてつかないよ えがおがおしえてくれた
+
+Grammar: 傷 (noun) - scars, なんて (particle) - such as, つかない (verb) - will form, よ (sentence-ending particle), 笑顔 (noun) - smile, が (particle) - subject marker, 教えてくれた (verb) - has taught
+
+Sentence: 勇気にリミットないこと
+
+Translation: There's no limit to courage.
+
+Reading: ゆうきにりみっとないこと
+
+Grammar: 勇気 (noun) - courage, に (particle) - to, リミットない (expression) - no limit, こと (noun) - thing
+
+Sentence: 名もなき歌でも歌おうよ 一緒に描く夢が羽根だよ
+
+Translation: Let's sing even an unnamed song; the dreams we paint together are our wings.
+
+Reading: なもなきうただでもうたおうよ いっしょにえがくゆめがはねだよ
+
+Grammar: 名もなき (expression) - unnamed, 歌でも (particle) - even a song, 歌おう (verb) - let's sing, よ (sentence-ending particle), 一緒に (expression) - together, 描く (verb) - paint, 夢 (noun) - dreams, が (particle) - subject marker, 羽根 (noun) - wings, だよ (sentence-ending particle)
+
+Sentence: 瞳合えば通じる想い
+
+Translation: If our eyes meet, our feelings will connect.
+
+Reading: ひとみあえばつうじるおもい
+
+Grammar: 瞳 (noun) - eyes, 合えば (verb) - if meet, 通じる (verb) - connect, 想い (noun) - feelings
+
+Sentence: 瞬間瞬間は ああ、止まれず終わってくけど
+
+Translation: Each moment, ah, it doesn't stop and continues, but
+
+Reading: しゅんかんしゅんかんは ああ、とまれずおわってくけど
+
+Grammar: 瞬間瞬間 (expression) - each moment, は (particle) - topic marker, ああ (exclamation) - ah, 止まれず (verb) - doesn't stop, 終わってく (verb) - continues, けど (conjunction) - but
+
+Sentence: 終わり続けるから始まり続ける
+
+Translation: Because it continues to end, it continues to begin.
+
+Reading: おわりつづけるからはじまりつづける
+
+Grammar: 終わり続ける (verb) - continues to end, から (conjunction) - because, 始まり続ける (verb) - continues to begin
+
+Sentence: 未来 信じてく
+
+Translation: Believe in the future.
+
+Reading: みらい しんじてく
+
+Grammar: 未来 (noun) - future, 信じてく (verb) - believe in
+
+Sentence: 道なき道でも進もうよ 一緒に踏み出すそこが道だよ
+
+Translation: Let's advance even on an unknown path; the moment we step forward together is the path.
+
+Reading: みちなきみちでもすすもうよ いっしょにふみだすそこがみちだよ
+
+Grammar: 道なき (expression) - unknown path, 道でも (particle) - even on a path, 進もう (verb) - let's advance, よ (sentence-ending particle), 一緒に (expression) - together, 踏み出す (verb) - step forward, そこが (expression) - that moment, 道だよ (expression) - is the path
+
+Sentence: ビートで胸に刻む誓い
+
+Translation: A promise engraved in our hearts with the beat.
+
+Reading: びーとでむねにきざむちかい
+
+Grammar: ビート (noun) - beat, で (particle) - with, 胸に (expression) - in the heart, 刻む (verb) - engrave, 誓い (noun) - promise
+
+Sentence: いつまでもずっと…Yes, We are Singing NOW!
+
+Translation: Forever and always... Yes, We are Singing NOW!
+
+Reading: いつまでもずっと… イエス ウィーアー シンギング ナウ
+
+Grammar: いつまでもずっと (adverb) - forever and always
