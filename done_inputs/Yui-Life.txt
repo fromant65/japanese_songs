@@ -1,0 +1,215 @@
+Sentence: 泥だらけよ 馴染めない都会で
+
+Translation: Covered in mud, in a city where I can't fit in.
+
+Reading: どろだらけよ なじめないとかいで
+
+Grammar: 泥だらけ (adjective) - covered in mud, 馴染めない (verb) - can't fit in, 都会で (noun) - in the city
+
+Sentence: 同じように笑えない うつむいて歩いたの
+
+Translation: I couldn't smile like others, so I walked with my head down.
+
+Reading: おなじように わらえない うつむいて あるいたの
+
+Grammar: 同じように (expression) - like others, 笑えない (verb) - couldn't smile, うつむいて (verb) - with head down, 歩いたの (verb) - walked
+
+Sentence: 急ぎ足で すれ違う人たち
+
+Translation: People pass by in a hurry.
+
+Reading: いそぎあしで すれちがう ひとたち
+
+Grammar: 急ぎ足で (expression) - in a hurry, すれ違う (verb) - pass by, 人たち (pronoun) - people
+
+Sentence: 「夢は叶いましたか？」アタシまだモガいてる
+
+Translation: "Have your dreams come true?" I'm still struggling.
+
+Reading: 「ゆめは かないましたか？」アタシ まだ もがいてる
+
+Grammar: 夢は (noun) - dreams, 叶いましたか (verb) - have come true, アタシまだ (pronoun) - I'm still, モガいてる (verb) - struggling
+
+Block 2:
+
+Sentence: 子供の頃に戻るよりも
+
+Translation: Rather than going back to my childhood...
+
+Reading: こどものころに もどるよりも
+
+Grammar: 子供の頃に (expression) - in childhood, 戻るよりも (verb) - rather than going back,
+
+Sentence: 今をうまく生きてみたいよ
+
+Translation: I want to live the present well.
+
+Reading: いまを うまく いきてみたいよ
+
+Grammar: 今を (expression) - the present, うまく (adverb) - well, 生きてみたいよ (verb) - want to live
+
+Sentence: 怖がりは 生まれつき
+
+Translation: I've been timid from the beginning.
+
+Reading: こわがりは うまれつき
+
+Grammar: 怖がりは (noun) - timid, 生まれつき (adverb) - from the beginning
+
+Sentence: 陽のあたる場所に出て 両手を広げてみたなら
+
+Translation: If I go to a place where the sun shines and spread my arms...
+
+Reading: ひのあたる ばしょに てを ひろげてみたなら
+
+Grammar: 陽のあたる場所に (expression) - to a place where the sun shines, 出て (verb) - go, 両手を (expression) - both hands, 広げてみたなら (verb) - spread and try
+
+Sentence: あの空 越えてゆけるかな？ なんて思ったんだ
+
+Translation: Can I cross that sky? I wondered.
+
+Reading: あのそら こえてゆけるかな？ なんて おもったんだ
+
+Grammar: あの空 (expression) - that sky, 越えてゆけるかな (verb) - can I cross, なんて (expression) - I wondered, 思ったんだ (verb) - thought
+
+Block 3:
+
+Sentence: 飛び立つ為の翼 それは まだ見えない
+
+Translation: The wings to take flight are still invisible.
+
+Reading: とびたつ ための つは それは まだ みえない
+
+Grammar: 飛び立つ (verb) - take flight, 為の (expression) - for, 翼 (noun) - wings, それは (expression) - that is, まだ (adverb) - still, 見えない (verb) - invisible
+
+Sentence: カンタンに 行かないから 生きてゆける
+
+Translation: Because life is not easy, I can keep living.
+
+Reading: かんたんに いかないから いきてゆける
+
+Grammar: カンタンに (expression) - easily, 行かないから (verb) - not easy, 生きてゆける (verb) - can keep living
+
+Sentence: 濡れた子犬 拾いあげただけで
+
+Translation: Just by picking up a wet puppy...
+
+Reading: ぬれた こいぬ ひろいあげただけで
+
+Grammar: 濡れた (verb) - wet, 子犬 (noun) - puppy, 拾いあげただけで (verb) - just by picking up
+
+Sentence: ちょっと笑えちゃうほど 涙がこぼれてきた
+
+Translation: Tears spilled enough to make me smile a little.
+
+Reading: ちょっと わらえちゃうほど なみだが こぼれてきた
+
+Grammar: ちょっと (adverb) - a little, 笑えちゃうほど (verb) - enough to make me smile, 涙が (expression) - tears, こぼれてきた (verb) - spilled
+
+Sentence: 愛されたい 愛されたいばかり
+
+Translation: I want to be loved, just want to be loved.
+
+Reading: あいされたい あいされたいばかり
+
+Grammar: 愛されたい (verb) - want to be loved, 愛されたいばかり (verb) - just want to be loved
+
+Block 4:
+
+Sentence: アタシ言っていたよね 求めるだけじゃダメね
+
+Translation: I was saying, just seeking is not enough.
+
+Reading: アタシ いっていたよね もとめるだけじゃ ダメね
+
+Grammar: アタシ (pronoun) - I, 言っていたよね (verb) - was saying, 求めるだけじゃ (verb) - just seeking is not enough, ダメね (expression) - not enough
+
+Sentence: 子供の頃はママの事
+
+Translation: In my childhood, about my mom...
+
+Reading: こどものころは ママの こと
+
+Grammar: 子供の頃は (expression) - in childhood, ママの事 (expression) - about my mom
+
+Sentence: ひどく傷つけた日もあったよね
+
+Translation: There were days I hurt her terribly, right?
+
+Reading: ひどく きずつけたひも あったよね
+
+Grammar: ひどく (adverb) - terribly, 傷つけた日も (verb) - days I hurt, あったよね (expression) - right?
+
+Sentence: 変わりたい いま全部
+
+Translation: I want to change everything now.
+
+Reading: かわりたい いま ぜんぶ
+
+Grammar: 変わりたい (verb) - want to change, いま (expression) - now, 全部 (expression) - everything
+
+Sentence: 陽のあたる場所に出て この手を強く握ってみた
+
+Translation: I went to where the sun shines and tried to squeeze this hand tightly.
+
+Reading: ひのあたる ばしょに てを つよく にぎってみた
+
+Grammar: 陽のあたる場所に (expression) - to a place where the sun shines, 出て (verb) - went, この手を (expression) - this hand, 強く握ってみた (verb) - tried to squeeze tightly
+
+Block 5:
+
+Sentence: あの場所 あの時を壊して I can change my life
+
+Translation: Breaking that place, breaking that time, I can change my life.
+
+Reading: あの ばしょ あのときを こわして I can change my life
+
+Grammar: あの場所 (expression) - that place, あの時を (expression) - that time, 壊して (verb) - breaking, I can change my life (expression)
+
+Sentence: でも 心の中 すべてを とても伝えきれない
+
+Translation: But in my heart, I can't convey everything.
+
+Reading: でも こころのなか すべてを とても つたえきれない
+
+Grammar: でも (conjunction) - but, 心の中 (expression) - in my heart, すべてを (expression) - everything, とても (adverb) - very, 伝えきれない (verb) - can't convey
+
+Sentence: カンタンに 行かないから 生きてゆける
+
+Translation: Because life is not easy, I can keep living.
+
+Reading: かんたんに いかないから いきてゆける
+
+Grammar: カンタンに (expression) - easily, 行かないから (verb) - not easy, 生きてゆける (verb) - can keep living
+
+Sentence: 陽のあたる場所に出て 地図を広げてみるけど
+
+Translation: I go to where the sun shines and try to spread the map, but...
+
+Reading: ひのあたる ばしょに ちずを ひろげてみるけど
+
+Grammar: 陽のあたる場所に (expression) - to a place where the sun shines, 出て (verb) - go, 地図を (expression) - map, 広げてみるけど (verb) - try to spread but
+
+Sentence: I know, you know 迷い道も仕方ない
+
+Translation: I know, you know, there's no helping the path of hesitation.
+
+Reading: I know, you know まよいみちも しかたない
+
+Grammar: I know you know (expression) - both know, 迷い道も (expression) - path of hesitation, 仕方ない (expression) - no helping
+
+Sentence: 過ぎてきた日々全部で 今のあたしなんだよ
+
+Translation: The days that have passed are all part of who I am now.
+
+Reading: すぎてきた ひび ぜんぶで いまのあたし なんだよ
+
+Grammar: 過ぎてきた日々 (expression) - days that have passed, 全部で (expression) - all part of, 今のあたし (expression) - who I am now, なんだよ (expression) - is
+
+Sentence: カンタンに 行かないから 生きてゆける
+
+Translation: Because life is not easy, I can keep living.
+
+Reading: かんたんに いかないから いきてゆける
+
+Grammar: カンタンに (expression) - easily, 行かないから (verb) - not easy, 生きてゆける (verb) - can keep living

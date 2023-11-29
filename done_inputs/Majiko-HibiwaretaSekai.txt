@@ -1,0 +1,327 @@
+Sentence: 君の心と共鳴するように
+
+Translation: Like resonating with your heart.
+
+Reading: きみのこころと きょうめいするように
+
+Grammar: 君の (pronoun) - your, 心と (noun) - heart with, 共鳴する (verb) - resonating, ように (expression) - like
+
+Sentence: 泣き出しそうな空を見て決めたんだ
+
+Translation: I decided while looking at the sky that seemed about to cry.
+
+Reading: なきだしそうなそらを みて きめたんだ
+
+Grammar: 泣き出しそうな (expression) - seemed about to cry, 空を (noun) - sky, 見て (verb) - looking, 決めたんだ (verb) - decided
+
+Sentence: 悲しい雨に打たれないように
+
+Translation: So as not to be struck by the sad rain.
+
+Reading: かなしいあめに うたれないように
+
+Grammar: 悲しい (adjective) - sad, 雨に (noun) - rain, 打たれない (verb) - not be struck, ように (expression) - so as
+
+Sentence: 君の全部 そう全部 僕が守るよ
+
+Translation: I'll protect all of you, yes, all of you.
+
+Reading: きみの ぜんぶ そう ぜんぶ ぼくが まもるよ
+
+Grammar: 君の (pronoun) - your, 全部 (noun) - all, そう (expression) - yes, ぜんぶ (noun) - all, 僕が (pronoun) - I, 守る (verb) - protect, よ (expression) - will
+
+Block 2:
+
+Sentence: 今日まで僕が生きて来たのは
+
+Translation: The reason I've lived until today is...
+
+Reading: きょうまで ぼくが いきてきたのは
+
+Grammar: 今日まで (expression) - until today, 僕が (pronoun) - I, 生きてきた (verb) - lived, のは (sentence-ending particle)
+
+Sentence: 今日から僕を導いてくれるのは
+
+Translation: From today, what will guide me is...
+
+Reading: きょうから ぼくを みちびいてくれるのは
+
+Grammar: 今日から (expression) - from today, 僕を (pronoun) - me, 導いてくれる (verb) - will guide, のは (sentence-ending particle)
+
+Sentence: 言葉にすると消えてしまうくらい
+
+Translation: To the extent that it disappears when put into words.
+
+Reading: ことばにすると きえてしまうくらい
+
+Grammar: 言葉にすると (expression) - when put into words, 消えてしまう (verb) - disappears, くらい (expression) - to the extent
+
+Sentence: 君のための 純粋で 強い光
+
+Translation: A pure and strong light for you.
+
+Reading: きみのための じゅんすいで つよいひかり
+
+Grammar: 君のための (expression) - for you, 純粋で (adjective) - pure and, 強い (adjective) - strong, 光 (noun) - light
+
+Block 3:
+
+Sentence: この繋いだ手を離さないで
+
+Translation: Don't let go of these connected hands.
+
+Reading: このつないだてを はなさないで
+
+Grammar: この (expression) - these, 繋いだ手を (expression) - connected hands, 離さないで (verb) - don't let go
+
+Sentence: ずっと隣にいるから
+
+Translation: Because I'll always be by your side.
+
+Reading: ずっととなりに いるから
+
+Grammar: ずっと (expression) - always, 隣に (expression) - by your side, いるから (verb) - will be
+
+Sentence: ひび割れた世界でも構わない
+
+Translation: It doesn't matter even in a cracked world.
+
+Reading: ひびわれたせかいでも かまわない
+
+Grammar: ひび割れた (verb) - cracked, 世界でも (expression) - even in the world, 構わない (verb) - doesn't matter
+
+Sentence: 君が 君が 笑っていれば
+
+Translation: If you, if you are smiling...
+
+Reading: きみが きみが えみっていれば
+
+Grammar: 君が (pronoun) - you, 笑っていれば (verb) - if you are smiling
+
+Block 4:
+
+Sentence: もしも君が世界を嫌うなら
+
+Translation: If, if you hate the world...
+
+Reading: もしも きみが せかいを きらうなら
+
+Grammar: もしも (expression) - if, 君が (pronoun) - you, 世界を (expression) - the world, 嫌うなら (verb) - hate
+
+Sentence: 僕が 僕が 壊してあげる
+
+Translation: I'll, I'll break it for you.
+
+Reading: ぼくが ぼくが こわしてあげる
+
+Grammar: 僕が (pronoun) - I, 壊して (verb) - break, あげる (verb) - for you
+
+Sentence: ここに君がいなければ
+
+Translation: If you weren't here...
+
+Reading: ここに きみが いなければ
+
+Grammar: ここに (expression) - here, 君が (pronoun) - you, いなければ (verb) - weren't
+
+Sentence: 嗚呼 意味のない世界だ
+
+Translation: Ah, it's a meaningless world.
+
+Reading: ああ いみのないせかいだ
+
+Grammar: 嗚呼 (interjection) - ah, 意味のない (noun) - meaningless, 世界だ (expression) - world
+
+Block 5:
+
+Sentence: 僕らが生きる世界はまるで
+
+Translation: The world we live in is just like...
+
+Reading: ぼくらが いきる せかいは まるで
+
+Grammar: 僕らが (pronoun) - we, 生きる (verb) - live, 世界は (expression) - the world is, まるで (expression) - just like
+
+Sentence: 触れれば割れる 脆く儚い硝子
+
+Translation: A fragile and transient glass that breaks if touched.
+
+Reading: ふれれば われる もろく はかない がらす
+
+Grammar: 触れれば (verb) - if touched, 割れる (verb) - breaks, 脆く (adjective) - fragile, 儚い (adjective) - transient, 硝子 (noun) - glass
+
+Sentence: 怖かったのは ただ一つだけ
+
+Translation: The only thing I was afraid of was...
+
+Reading: こわかったのは ただひとつだけ
+
+Grammar: 怖かった (verb) - was afraid, のは (sentence-ending particle), ただ (expression) - only, ひとつ (noun) - thing, だけ (particle) - only
+
+Sentence: 破片が君の心を傷付けないか
+
+Translation: I wonder if the fragments will hurt your heart.
+
+Reading: はへんが きみのこころを きずつけないか
+
+Grammar: 破片が (noun) - fragments, 君の (pronoun) - your, 心を (noun) - heart, 傷つけないか (verb) - will hurt, のか (expression) - I wonder if
+
+Block 6:
+
+Sentence: ねえ忘れないで この温もりを
+
+Translation: Hey, don't forget this warmth.
+
+Reading: ねえ わすれないで このぬくもりを
+
+Grammar: ねえ (interjection) - hey, 忘れないで (verb) - don't forget, この (expression) - this, 温もりを (noun) - warmth
+
+Sentence: 僕は君を離れない
+
+Translation: I won't leave you.
+
+Reading: ぼくは きみを はなれない
+
+Grammar: 僕は (pronoun) - I, 君を (pronoun) - you, 離れない (verb) - won't leave
+
+Sentence: ひび割れた世界でも護りたい
+
+Translation: I want to protect even in a cracked world.
+
+Reading: ひびわれたせかいでも まもりたい
+
+Grammar: ひび割れた (verb) - cracked, 世界でも (expression) - even in the world, 護りたい (verb) - want to protect
+
+Sentence: 君が 君が ここにいるから
+
+Translation: Because you, because you are here...
+
+Reading: きみが きみが ここに いるから
+
+Grammar: 君が (pronoun) - you, ここに (expression) - here, いるから (verb) - are
+
+Sentence: 誰かの過ちが 優しい君を
+
+Translation: If someone's mistake ridicules the gentle you...
+
+Reading: だれかの あやまちが やさしいきみを
+
+Grammar: 誰かの (pronoun) - someone's, 過ちが (noun) - mistake, 優しい (adjective) - gentle, 君を (pronoun) - you
+
+Sentence: 揶揄ったなら 消してあげるよ
+
+Translation: If they ridicule, I'll erase it for you.
+
+Reading: あざけったなら けしてあげるよ
+
+Grammar: 揶揄ったなら (verb) - if they ridicule, 消して (verb) - erase, あげるよ (verb) - for you
+
+Sentence: 僕には君がいればいい 君には僕がいればいい
+
+Translation: It's enough for me if you're here; it's enough for you if I'm here.
+
+Reading: ぼくには きみが いればいい きみには ぼくが いればいい
+
+Grammar: 僕には (pronoun) - for me, 君が (pronoun) - you, いればいい (verb) - it's enough if, 君には (pronoun) - for you, 僕が (pronoun) - I, いればいい (verb) - it's enough if
+
+Block 8:
+
+Sentence: なんて綺麗な世界だ なんて綺麗な世界だ
+
+Translation: What a beautiful world, what a beautiful world.
+
+Reading: なんて きれいな せかいだ なんて きれいな せかいだ
+
+Grammar: なんて (expression) - what a, 綺麗な (adjective) - beautiful, 世界だ (expression) - world, だ (sentence-ending particle)
+
+Sentence: もう何もいらないよ もう何もいらないよ
+
+Translation: I don't need anything anymore, I don't need anything anymore.
+
+Reading: もう なにも いらないよ もう なにも いらないよ
+
+Grammar: もう (expression) - anymore, 何も (expression) - anything, いらないよ (verb) - don't need
+
+Sentence: 邪魔なものばっかりだ 嗚呼 いらないものばっかりだ
+
+Translation: It's all just annoying things, ah, nothing needed.
+
+Reading: じゃまな ものばっかりだ ああ いらない ものばっかりだ
+
+Grammar: 邪魔な (adjective) - annoying, ものばっかりだ (expression) - it's all, 嗚呼 (interjection) - ah, いらない (adjective) - not needed, ものばっかりだ (expression) - it's all
+
+Sentence: 君がいればいい
+
+Translation: It's enough if you're here.
+
+Reading: きみが いればいい
+
+Grammar: 君が (pronoun) - you, いればいい (verb) - it's enough if
+
+Block 9:
+
+Sentence: 其れだけの世界だ 其れだけの世界だ
+
+Translation: It's just that kind of world, it's just that kind of world.
+
+Reading: それだけの せかいだ それだけの せかいだ
+
+Grammar: それだけの (expression) - just that kind of, 世界だ (expression) - world, だ (sentence-ending particle)
+
+Sentence: 継接ぎだらけの幸せでもいい
+
+Translation: Even happiness full of patches is fine.
+
+Reading: けづぎだらけの しあわせでもいい
+
+Grammar: 継接ぎだらけの (adjective) - full of patches, 幸せでもいい (expression) - happiness is fine
+
+Sentence: ずっと ずっと 二人このまま
+
+Translation: Always, always, just the two of us like this.
+
+Reading: ずっと ずっと ふたり このまま
+
+Grammar: ずっと (expression) - always, ずっと (expression) - always, 二人 (pronoun) - two people, このまま (expression) - like this
+
+Sentence: ひび割れた世界でも構わない
+
+Translation: It doesn't matter even in a cracked world.
+
+Reading: ひびわれたせかいでも かまわない
+
+Grammar: ひび割れた (verb) - cracked, 世界でも (expression) - even in the world, 構わない (verb) - doesn't matter
+
+Block 10:
+
+Sentence: 君が 君が 笑っていれば
+
+Translation: If you, if you are smiling...
+
+Reading: きみが きみが えみっていれば
+
+Grammar: 君が (pronoun) - you, 笑っていれば (verb) - if you are smiling
+
+Sentence: もしも君が世界を嫌うなら
+
+Translation: If, if you hate the world...
+
+Reading: もしも きみが せかいを きらうなら
+
+Grammar: もしも (expression) - if, 君が (pronoun) - you, 世界を (expression) - the world, 嫌うなら (verb) - hate
+
+Sentence: 僕が 僕が 壊してあげる
+
+Translation: I'll, I'll break it for you.
+
+Reading: ぼくが ぼくが こわしてあげる
+
+Grammar: 僕が (pronoun) - I, 壊して (verb) - break, あげる (verb) - for you
+
+Sentence: ここに君がいなければ 嗚呼 意味のない世界だ
+
+Translation: If you weren't here... Ah, it's a meaningless world.
+
+Reading: ここに きみが いなければ ああ いみのない せかいだ
+
+Grammar: ここに (expression) - here, 君が (pronoun) - you, いなければ (verb) - weren't, 嗚呼 (interjection) - ah, 意味のない (noun) - meaningless, 世界だ (expression) - world

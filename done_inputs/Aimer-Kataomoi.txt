@@ -1,0 +1,199 @@
+Sentence: 例えば 君の 顔に昔より
+
+Translation: For example, even if wrinkles appear on your face compared to before,
+
+Reading: たとえば きみの かおに むかしより
+
+Grammar: 例えば (expression) - for example, 君の (pronoun) - your, 顔 (noun) - face, に (particle) - on, 昔より (expression) - compared to before
+
+Sentence: シワが 増えても それでも良いんだ
+
+Translation: Even if wrinkles increase, it's still okay.
+
+Reading: しわが ふえても それでも いいんだ
+
+Grammar: シワ (noun) - wrinkles, が (particle) - subject marker, 増えても (verb) - even if increase, それでも (expression) - still, 良いんだ (adjective) - okay
+
+Sentence: 僕が ギターを 思うように 弾けなくなっても
+
+Translation: Even if I can't play the guitar the way I want,
+
+Reading: ぼくが ぎたーを おもうように ひけなくなっても
+
+Grammar: 僕が (pronoun) - I, ギター (noun) - guitar, を (particle) - direct object marker, 思うように (expression) - the way I want, 弾けなくなっても (verb) - even if can't play
+
+Sentence: 心の歌は君で溢れているよ
+
+Translation: The song in my heart is overflowing with you.
+
+Reading: こころのうたは きみで あふれているよ
+
+Grammar: 心の (expression) - heart's, 歌 (noun) - song, は (particle) - topic marker, 君で (pronoun) - with you, 溢れている (verb) - is overflowing, よ (sentence-ending particle)
+
+Sentence: 高い声も 出せずに 思い通り歌えない
+
+Translation: Unable to sing with a high voice and as I wish,
+
+Reading: たかいこえも だせずに おもいどおり うたえない
+
+Grammar: 高い声 (expression) - high voice, も (particle) - also, 出せずに (verb) - unable to produce, 思い通り (expression) - as I wish, 歌えない (verb) - unable to sing
+
+Sentence: それでも頷きながら一緒に歌ってくれるかな
+
+Translation: Still, I wonder if you'll nod and sing with me.
+
+Reading: それでも うなずきながら いっしょに うたってくれるかな
+
+Grammar: それでも (expression) - still, 頷きながら (verb) - nodding, 一緒に (expression) - together, 歌ってくれる (verb) - will sing for me, かな (conjecture)
+
+Sentence: 割れんばかりの拍手も 響き渡る歓声もいらない
+
+Translation: I don't need thunderous applause or echoing cheers.
+
+Reading: われんばかりのはくしゅも ひびきわたるかんせいも いらない
+
+Grammar: 割れんばかりの (expression) - thunderous, 拍手 (noun) - applause, も (particle) - also, 響き渡る (verb) - echoing, 歓声 (noun) - cheers, も (particle) - also, いらない (adjective) - don't need
+
+Sentence: 君だけ わかってよ わかってよ
+
+Translation: Only you understand, understand.
+
+Reading: きみだけ わかってよ わかってよ
+
+Grammar: 君だけ (pronoun) - only you, わかって (verb) - understand, よ (sentence-ending particle)
+
+Sentence: Darling 夢が叶ったの
+
+Translation: Darling, my dream has come true.
+
+Reading: ダーリン ゆめがかなったの
+
+Grammar: Darling (noun) - Darling, 夢 (noun) - dream, が (particle) - subject marker, 叶ったの (verb) - has come true
+
+Sentence: お似合いの言葉が見つからないよ
+
+Translation: I can't find fitting words.
+
+Reading: おにあいのことばがみつからないよ
+
+Grammar: お似合い (expression) - fitting, 言葉 (noun) - words, が (particle) - subject marker, 見つからない (verb) - can't find, よ (sentence-ending particle)
+
+Sentence: Darling 夢が叶ったの
+
+Translation: Darling, my dream has come true.
+
+Reading: ダーリン ゆめがかなったの
+
+Grammar: Darling (noun) - Darling, 夢 (noun) - dream, が (particle) - subject marker, 叶ったの (verb) - has come true
+
+Sentence: 愛してる
+
+Translation: I love you.
+
+Reading: あいしてる
+
+Grammar: 愛してる (verb) - I love you
+
+Sentence: たった一度の たった一人の
+
+Translation: The only time, the only person,
+
+Reading: たったいちどの たったひとりの
+
+Grammar: たった一度の (expression) - the only time, たった一人の (expression) - the only person
+
+Sentence: 生まれてきた幸せ味わってるんだよ
+
+Translation: I'm savoring the happiness of being born.
+
+Reading: うまれてきたしあわせあじわってるんだよ
+
+Grammar: 生まれてきた (verb) - being born, 幸せ (noun) - happiness, 味わってる (verb) - savoring, んだよ (explanatory particle)
+
+Sentence: 今日がメインディッシュで 終わりの日には
+
+Translation: Today is the main course; on the day it ends,
+
+Reading: きょうが めいんでぃっしゅで おわりのひには
+
+Grammar: 今日が (expression) - today is, メインディッシュ (expression) - main course, で (particle) - at, 終わりの日には (expression) - on the day it ends
+
+Sentence: 甘酸っぱいデザートを食べるの
+
+Translation: I'll eat a sweet and sour dessert.
+
+Reading: あまずっぱいでざーとを たべるの
+
+Grammar: 甘酸っぱい (expression) - sweet and sour, デザート (noun) - dessert, を (particle) - direct object marker, 食べるの (verb) - will eat
+
+Sentence: 山も谷も全部フルコースで
+
+Translation: Mountains and valleys, the whole full course,
+
+Reading: やまも たにも ぜんぶふるこーすで
+
+Grammar: 山も (expression) - mountains too, 谷も (expression) - valleys too, 全部 (pronoun) - whole, フルコース (expression) - full course, で (particle) - at
+
+Sentence: 気がきくような言葉はいらない 素晴らしい特別もいらない
+
+Translation: I don't need words that make sense or splendid special things.
+
+Reading: きがきくようなことばはいらない すばらしいとくべつもいらない
+
+Grammar: 気がきくような (expression) - making sense, 言葉 (noun) - words, は (particle) - topic marker, いらない (adjective) - don't need, 素晴らしい (adjective) - splendid, 特別も (expression) - special things too
+
+Sentence: ただずっと ずっとそばに 置いておいてよ
+
+Translation: Just always, always keep it by my side.
+
+Reading: ただ ずっと ずっと そばに おいておいてよ
+
+Grammar: ただ (adverb) - just, ずっと (adverb) - always, ずっと (adverb) - always, そばに (expression) - by my side, 置いておいてよ (verb) - keep it
+
+Sentence: 僕の想いは歳をとると 増えてくばっかだ
+
+Translation: As I age, my feelings just keep increasing.
+
+Reading: ぼくのおもいはとしをとると ふえてくばっかだ
+
+Grammar: 僕の (pronoun) - my, 想いは (noun) - feelings, 歳をとると (expression) - as I age, 増えてく (verb) - increasing, ばっかだ (expression) - just keep
+
+Sentence: 好きだよ わかってよ わかってよ
+
+Translation: I love you, understand, understand.
+
+Reading: すきだよ わかってよ わかってよ
+
+Grammar: 好きだよ (expression) - I love you, わかって (verb) - understand, よ (sentence-ending particle)
+
+Sentence: ねえ darling 夢が叶ったの
+
+Translation: Hey, darling, my dream has come true.
+
+Reading: ねえ だーりん ゆめがかなったの
+
+Grammar: ねえ (interjection) - hey, darling (noun) - darling, 夢 (noun) - dream, が (particle) - subject marker, 叶ったの (verb) - has come true
+
+Sentence: お似合いの言葉が見つからないよ
+
+Translation: I can't find fitting words.
+
+Reading: おにあいのことばがみつからないよ
+
+Grammar: お似合い (expression) - fitting, 言葉 (noun) - words, が (particle) - subject marker, 見つからない (verb) - can't find, よ (sentence-ending particle)
+
+Sentence: Darling 夢が叶ったの
+
+Translation: Darling, my dream has come true.
+
+Reading: ダーリン ゆめがかなったの
+
+Grammar: Darling (noun) - Darling, 夢 (noun) - dream, が (particle) - subject marker, 叶ったの (verb) - has come true
+
+Sentence: ねえ darling 愛してる
+
+Translation: Hey, darling, I love you.
+
+Reading: ねえ だーりん あいしてる
+
+Grammar: ねえ (interjection) - hey, darling (noun) - darling, 愛してる (verb) - I love you

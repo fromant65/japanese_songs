@@ -1,0 +1,183 @@
+Sentence: 恋をしてしまった 涙の痕
+
+Translation: I fell in love, traces of tears.
+
+Reading: こいをしてしまった なみだのあと
+
+Grammar: 恋をしてしまった (verb) - I fell in love, 涙の痕 (expression) - traces of tears
+
+Sentence: 洗う雨は虹の予告編だ
+
+Translation: The washing rain is a trailer for a rainbow.
+
+Reading: あらうあめは にじのよこくへんだ
+
+Grammar: 洗う (verb) - washing, 雨 (noun) - rain, は (particle) - topic marker, 虹 (noun) - rainbow, の (particle) - possessive marker, 予告編 (noun) - trailer
+
+Sentence: なぜ君がここにいないんだろう
+
+Translation: I wonder why you're not here.
+
+Reading: なぜきみが ここにいないんだろう
+
+Grammar: なぜ (expression) - why, 君が (pronoun) - you, ここに (expression) - here, いない (verb) - are not, んだろう (verb) - I wonder,
+
+Sentence: "世界一有名な言葉" 強がって恨んでみたり
+
+Translation: "The world's most famous words," pretending to be strong and trying to resent.
+
+Reading: せかいいちゆうめいなことば つよがって うらんでみたり
+
+Grammar: "世界一有名な言葉" (expression) - "The world's most famous words," 強がって (verb) - pretending to be strong, 恨んでみたり (verb) - trying to resent
+
+Sentence: まるで映画のエンドロールだ
+
+Translation: It's like the end credits of a movie.
+
+Reading: まるでえいがのえんどろーるだ
+
+Grammar: まるで (expression) - it's like, 映画の (expression) - movie's, エンドロール (noun) - end credits, だ (sentence-ending particle)
+
+Sentence: Oh あいしてる あいしてる あいしてるなんて
+
+Translation: Oh, saying "I love you," "I love you," "I love you"...
+
+Reading: おー あいしてる あいしてる あいしてるなんて
+
+Grammar: Oh (interjection) - Oh, あいしてる (verb) - I love you, なんて (expression) - saying
+
+Sentence: 「さよなら」みたいに云わないでよね
+
+Translation: Don't say it like "goodbye," okay?
+
+Reading: さよなら みたいに いわないでよね
+
+Grammar: さよなら (expression) - goodbye, みたいに (expression) - like, 云わないで (verb) - don't say, よね (expression) - okay?
+
+Sentence: もうあいしてる あいしてる あいしてるなんていらない
+
+Translation: I don't need to say "I love you," "I love you," "I love you" anymore.
+
+Reading: もう あいしてる あいしてる あいしてるなんて いらない
+
+Grammar: もう (expression) - anymore, あいしてる (verb) - I love you, いらない (adjective) - don't need
+
+Sentence: 「今 時間を止めたね 1秒くらい」
+
+Translation: "Now, time has stopped, just for a second."
+
+Reading: いま じかんをとめたね 1びょうくらい
+
+Grammar: 今 (expression) - now, 時間を止めた (verb) - time has stopped, ね (sentence-ending particle), 1秒くらい (expression) - just for a second
+
+Sentence: 見惚れていたなんて云えなかったよ
+
+Translation: I couldn't say that I was enchanted.
+
+Reading: みほれていたなんて いえなかったよ
+
+Grammar: 見惚れていた (verb) - was enchanted, なんて (expression) - couldn't say, 云えなかった (verb) - couldn't say, よ (sentence-ending particle)
+
+Sentence: 君だけがいなくて 永遠のあくる日みたい
+
+Translation: Without only you, it's like an eternal tomorrow.
+
+Reading: きみだけが いなくて えいえんの あくるひみたい
+
+Grammar: 君だけが (pronoun) - only you, いなくて (verb) - without, 永遠の (expression) - eternal, あくる日みたい (expression) - like tomorrow
+
+Sentence: 神様それはあんまりじゃないか
+
+Translation: God, isn't that a bit too much?
+
+Reading: かみさま それは あんまりじゃないか
+
+Grammar: 神様 (noun) - God, それは (expression) - that, あんまりじゃないか (expression) - isn't that a bit too much?
+
+Sentence: まるでベタな映画のエンドロールだ
+
+Translation: It's like the cheesy end credits of a movie.
+
+Reading: まるでべたなえいがのえんどろーるだ
+
+Grammar: まるで (expression) - it's like, ベタな (expression) - cheesy, 映画の (expression) - movie's, エンドロール (noun) - end credits, だ (sentence-ending particle)
+
+Sentence: Oh あいしてる あいしてる あいしてるなんて
+
+Translation: Oh, saying "I love you," "I love you," "I love you"...
+
+Reading: おー あいしてる あいしてる あいしてるなんて
+
+Grammar: Oh (interjection) - Oh, あいしてる (verb) - I love you, なんて (expression) - saying
+
+Sentence: 正しいことばっか云わないでくれ
+
+Translation: Don't always say the right things.
+
+Reading: ただしことばっかいわないでくれ
+
+Grammar: 正しい (adjective) - right, ことばっか (expression) - things always, 云わないで (verb) - don't say, くれ (expression) - please
+
+Sentence: もうあいしてる あいしてる あいしてるなんて
+
+Translation: I don't need to say "I love you," "I love you," "I love you" anymore.
+
+Reading: もう あいしてる あいしてる あいしてるなんて
+
+Grammar: もう (expression) - anymore, あいしてる (verb) - I love you
+
+Sentence: 聞き飽きたでしょう? ありふれた言葉
+
+Translation: You must be tired of hearing it, right? Ordinary words.
+
+Reading: ききあきたでしょう ありふれたことば
+
+Grammar: 聞き飽きた (verb) - must be tired of hearing, でしょう (expression) - right, ありふれた (adjective) - ordinary, 言葉 (noun) - words
+
+Sentence: それでもロックバンドもアイドル歌手も
+
+Translation: Still, rock bands and idol singers,
+
+Reading: それでもろっくばんども あいどるかしゅも
+
+Grammar: それでも (expression) - still, ロックバンド (noun) - rock bands, も (particle) - also, アイドル歌手 (noun) - idol singers
+
+Sentence: 「あいしてる」「あいしてる」だったんだ
+
+Translation: It was "I love you," "I love you."
+
+Reading: あいしてる あいしてる だったんだ
+
+Grammar: 「あいしてる」「あいしてる」 (expression) - "I love you," "I love you," だったんだ (expression) - it was
+
+Sentence: どうして云わずにいられないんだろう (醜い)
+
+Translation: Why can't I help but say it? (Ugly.)
+
+Reading: どうしていわずにいられないんだろう みにくい
+
+Grammar: どうして (expression) - why, 云わずに (verb) - without saying, いられない (verb) - can't help but, んだろう (expression) - I wonder, 醜い (adjective) - ugly
+
+Sentence: (あいしてる あいしてる あいしてる)
+
+Translation: (I love you, I love you, I love you)
+
+Reading: あいしてる あいしてる あいしてる
+
+Grammar: あいしてる (expression) - I love you
+
+Sentence: おんなじ言葉繰り返している (ラブソング)
+
+Translation: Repeating the same words (love song).
+
+Reading: おんなじことばくりかえしている らぶそんぐ
+
+Grammar: おんなじ (adjective) - same, 言葉 (noun) - words, 繰り返している (verb) - repeating, ラブソング (expression) - love song
+
+Sentence: (あいしてる あいしてる あいしてる) あいしてる
+
+Translation: (I love you, I love you, I love you) I love you.
+
+Reading: あいしてる あいしてる あいしてる あいしてる
+
+Grammar: あいしてる (expression) - I love you
