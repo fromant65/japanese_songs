@@ -166,6 +166,78 @@ Reading: すきだよ わかってよ わかってよ
 
 Grammar: 好きだよ (expression) - I love you, わかって (verb) - understand, よ (sentence-ending particle)
 
+Sentence: 愛が溢れていく
+
+Translation: Love is overflowing.
+
+Reading: あいが あふれていく
+
+Grammar: 愛 (noun) - love, が (particle) - subject marker, 溢れていく (verb) - is overflowing
+
+Sentence: 君が僕を忘れてしまっても
+
+Translation: Even if you forget about me,
+
+Reading: きみが ぼくを わすれてしまっても
+
+Grammar: 君 (pronoun) - you, が (particle) - subject marker, 僕 (pronoun) - me, を (particle) - object marker, 忘れてしまっても (verb) - even if forgets
+
+Sentence: ちょっとつらいけど それでもいいから
+
+Translation: It's a bit painful, but even so, it's okay.
+
+Reading: ちょっと つらいけど それでもいいから
+
+Grammar: ちょっと (adverb) - a bit, つらい (adjective) - painful, けど (conjunction) - but, それでも (conjunction) - even so, いいから (verb) - it's okay
+
+Sentence: 僕より先に どこか遠くに
+
+Translation: Before me, somewhere far away,
+
+Reading: ぼくよりさきに どこかとおくに
+
+Grammar: 僕 (pronoun) - me, より (particle) - than, 先に (adverb) - before, どこか (pronoun) - somewhere, 遠くに (adverb) - far away
+
+Sentence: 旅立つことは絶対 許さないから
+
+Translation: Because I absolutely won't allow you to embark on a journey.
+
+Reading: たびだつことは ぜったい ゆるさないから
+
+Grammar: 旅立つこと (verb) - embark on a journey, は (particle) - topic marker, 絶対 (adverb) - absolutely, 許さないから (verb) - won't allow
+
+Sentence: 生まれ変わったとしても 出会い方が最悪でも
+
+Translation: Even if I were to be reborn, even if our meeting were the worst,
+
+Reading: うまれかわったとしても であいかたが さいあくでも
+
+Grammar: 生まれ変わったとしても (verb) - even if were to be reborn, 出会い方 (noun) - way of meeting, が (particle) - subject marker, 最悪でも (adverb) - even if the worst
+
+Sentence: また僕は君に恋するんだよ
+
+Translation: Again, I will fall in love with you.
+
+Reading: また ぼくは きみに こいするんだよ
+
+Grammar: また (adverb) - again, 僕 (pronoun) - I, は (particle) - topic marker, 君 (pronoun) - you, に (particle) - target marker, 恋するんだよ (verb) - will fall in love
+
+Sentence: 僕の心は 君にいつも片思い
+
+Translation: My heart is always a one-sided love for you.
+
+Reading: ぼくの こころは きみに いつも かたおもい
+
+Grammar: 僕の (pronoun) - my, 心 (noun) - heart, は (particle) - topic marker, 君に (pronoun) - for you, いつも (adverb) - always, 片思い (noun) - one-sided love
+
+Sentence: 好きだよ わかってよ わかってよ わかってよ
+
+Translation: I love you, understand, understand, understand.
+
+Reading: すきだよ わかってよ わかってよ わかってよ
+
+Grammar: 好きだよ (expression) - I love you, わかってよ (verb) - understand
+
 Sentence: ねえ darling 夢が叶ったの
 
 Translation: Hey, darling, my dream has come true.
