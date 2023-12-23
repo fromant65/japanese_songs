@@ -1,0 +1,191 @@
+Sentence: 君はほんとにわかってないよ
+
+Translation: You really don't understand.
+
+Reading: きみは ほんとに わかってないよ
+
+Grammar: 君 (pronoun) - you, は (particle) - topic marker, ほんとに (adverb) - really, わかってない (verb) - don't understand, よ (sentence-ending particle) - emphasis
+
+Sentence: 例えばハッピーエンドより
+
+Translation: For example, more than a happy ending,
+
+Reading: たとえば はっぴーえんど より
+
+Grammar: 例えば (expression) - for example, ハッピーエンド (noun) - happy ending, より (particle) - than
+
+Sentence: 甘くて豪華なデザートより
+
+Translation: More than sweet and luxurious desserts,
+
+Reading: あまくて ごうかな でざーと より
+
+Grammar: 甘くて (adjective) - sweet and, 豪華な (adjective) - luxurious, デザート (noun) - dessert, より (particle) - than
+
+Sentence: 君がいいんだよ
+
+Translation: I want you.
+
+Reading: きみが いいんだよ
+
+Grammar: 君 (pronoun) - you, が (particle) - subject marker, いいんだよ (expression) - want
+
+Sentence: ふたつの傘より相合い傘
+
+Translation: Sharing an umbrella is better than two umbrellas.
+
+Reading: ふたつの かさ より あいあいがさ
+
+Grammar: ふたつの (adjective) - two, 傘 (noun) - umbrella, より (particle) - than, 相合い傘 (noun) - sharing an umbrella
+
+Sentence: ちょっと冷たいけど
+
+Translation: It's a bit cold, but
+
+Reading: ちょっと つめたい けど
+
+Grammar: ちょっと (adverb) - a bit, 冷たい (adjective) - cold, けど (conjunction) - but
+
+Sentence: 「愛するための」代償ならいくらでもどうぞ
+
+Translation: If it's the price to love, take as much as you want.
+
+Reading: 「あいするための」だいしょう なら いくらでも どうぞ
+
+Grammar: 「愛するための」 (phrase) - for the sake of love, 代償 (noun) - price, なら (conditional particle) - if, いくらでも (adverb) - as much as you want, どうぞ (expression) - please
+
+Sentence: ただずっと側にいたい
+
+Translation: I just want to be by your side forever.
+
+Reading: ただ ずっと そばに いたい
+
+Grammar: ただ (adverb) - just, ずっと (adverb) - forever, 側に (noun) - by the side, いたい (verb) - want to be
+
+Sentence: ねえ ダーリン
+
+Translation: Hey, darling,
+
+Reading: ねえ だーりん
+
+Grammar: ねえ (interjection) - hey, ダーリン (noun) - darling
+
+Sentence: Oh 星屑もない
+
+Translation: Oh, there are no stardust.
+
+Reading: おー ほしくず も ない
+
+Grammar: Oh (interjection) - Oh, 星屑 (noun) - stardust, も (particle) - also, ない (adjective) - not exist
+
+Sentence: ふたりぼっちの世界でずっと
+
+Translation: Forever in a world just for the two of us,
+
+Reading: ふたりぼっちの せかい で ずっと
+
+Grammar: ふたりぼっちの (adjective) - just the two of us, 世界 (noun) - world, で (particle) - in, ずっと (adverb) - forever
+
+Sentence: 最後の花火をあげて
+
+Translation: Let's set off the final fireworks,
+
+Reading: さいごの はなび を あげて
+
+Grammar: 最後の (adjective) - final, 花火 (noun) - fireworks, を (particle) - object marker, あげて (verb) - let's set off
+
+Sentence: フィナーレを飾って
+
+Translation: Decorating the finale,
+
+Reading: ふぃなーれ を かざって
+
+Grammar: フィナーレ (noun) - finale, を (particle) - object marker, 飾って (verb) - decorating
+
+Sentence: 奇跡の降る恋に落ちて
+
+Translation: Falling into a love where miracles happen,
+
+Reading: きせきの ふる こい に おちて
+
+Grammar: 奇跡の (adjective) - miraculous, 降る (verb) - happen, 恋 (noun) - love, に (particle) - in, 落ちて (verb) - falling
+
+Sentence: ダーリン もう離さないで
+
+Translation: Darling, don't let go anymore,
+
+Reading: だーりん もう はなさないで
+
+Grammar: ダーリン (noun) - darling, もう (adverb) - anymore, 離さないで (verb) - don't let go
+
+Sentence: 味気ない世界も悪くないね
+
+Translation: The tasteless world isn't so bad, right?
+
+Reading: あじけない せかい も わるくない ね
+
+Grammar: 味気ない (adjective) - tasteless, 世界 (noun) - world, も (particle) - also, 悪くない (expression) - not bad, ね (sentence-ending particle) - right?
+
+Sentence: どんなに恋をしたって 出逢えないよきっと
+
+Translation: No matter how much I fall in love, I probably won't meet you,
+
+Reading: どんなに こい を したって であえないよ きっと
+
+Grammar: どんなに (adverb) - no matter how much, 恋をしたって (verb) - fall in love, 出逢えない (verb) - won't meet, よきっと (adverb) - probably
+
+Sentence: 終りのない幸せにキスをしよ
+
+Translation: Let's kiss in this endless happiness,
+
+Reading: おわり の ない しあわせ に きす を しよ
+
+Grammar: 終りの (adjective) - endless, 幸せ (noun) - happiness, に (particle) - in, キスをしよ (expression) - let's kiss
+
+Sentence: いつか今日を忘れても君がいいんだよ
+
+Translation: Even if someday I forget today, I want you.
+
+Reading: いつか きょう を わすれても きみが いいんだよ
+
+Grammar: いつか (adverb) - someday, 今日を (noun) - today, 忘れても (verb) - forget, 君が (pronoun) - you, いいんだよ (expression) - want
+
+Sentence: 天気雨の日
+
+Translation: On a day with scattered showers,
+
+Reading: てんきあめ の ひ
+
+Grammar: 天気雨 (noun) - scattered showers, の (particle) - possessive marker, 日 (noun) - day
+
+Sentence: いい合いっこして はじめて目があった
+
+Translation: When we were playing nicely together, our eyes met for the first time.
+
+Reading: いいあいっこして はじめて めが あった
+
+Grammar: いい合いっこして (verb) - playing nicely together, はじめて (adverb) - for the first time, 目が (noun) - eyes, あった (verb) - met
+
+Sentence: ずっと覚えとくよ
+
+Translation: I'll remember it forever.
+
+Reading: ずっと おぼえとくよ
+
+Grammar: ずっと (adverb) - forever, 覚えとくよ (verb) - I'll remember
+
+Sentence: 味気ないね
+
+Translation: It's tasteless, isn't it?
+
+Reading: あじけない ね
+
+Grammar: 味気ない (adjective) - tasteless, ね (sentence-ending particle) - isn't it?
+
+Sentence: でもそれがね ふたりの幸せ
+
+Translation: But you know, that's our happiness.
+
+Reading: でも それが ね ふたりの しあわせ
+
+Grammar: でも (conjunction) - but, それが (pronoun) - that's, ね (sentence-ending particle) - you know, ふたりの (adjective) - our, 幸せ (noun) - happiness

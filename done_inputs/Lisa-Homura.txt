@@ -1,0 +1,255 @@
+Sentence: 「さよなら」「ありがとう」声の限り
+
+Translation: "Goodbye," "Thank you," with all my voice,
+
+Reading: 「さよなら」「ありがとう」 こえ の かぎり
+
+Grammar: 「さよなら」 (expression) - goodbye, 「ありがとう」 (expression) - thank you, 声 (noun) - voice, の (particle) - possessive marker, 限り (noun) - limit
+
+Sentence: 悲しみよりもっと大事なこと
+
+Translation: Something more important than sadness,
+
+Reading: かなしみ より もっと だいじ な こと
+
+Grammar: 悲しみ (noun) - sadness, よりもっと (expression) - more than, 大事な (adjective) - important, こと (noun) - thing
+
+Sentence: 去りゆく背中に伝えたくて
+
+Translation: Wanting to convey to the departing back,
+
+Reading: さりゆく せなか に つたえたくて
+
+Grammar: 去りゆく (verb) - departing, 背中 (noun) - back, に (particle) - to, 伝えたくて (verb) - wanting to convey
+
+Sentence: 温もりと痛みに間に合うように
+
+Translation: So it matches the warmth and pain,
+
+Reading: ぬくもり と いたみ に まにあう よう に
+
+Grammar: 温もり (noun) - warmth, と (particle) - and, 痛み (noun) - pain, に (particle) - in, 間に合う (verb) - match, ように (expression) - so that
+
+Sentence: このまま続くと思っていた
+
+Translation: I thought it would continue like this,
+
+Reading: このまま つづく と おもっていた
+
+Grammar: このまま (expression) - like this, 続く (verb) - continue, と (quotation particle) - that, 思っていた (verb) - thought
+
+Sentence: 僕らの明日を描いていた
+
+Translation: We were painting our tomorrow,
+
+Reading: ぼくら の あす を えがいていた
+
+Grammar: 僕ら (pronoun) - we, の (particle) - possessive marker, 明日 (noun) - tomorrow, を (particle) - object marker, 描いていた (verb) - were painting
+
+Sentence: 呼び合っては (呼び合っては)
+
+Translation: Calling out to each other (calling out to each other),
+
+Reading: よびあって は (よびあって は)
+
+Grammar: 呼び合って (verb) - calling out to each other, は (topic marker) - indicating a topic
+
+Sentence: 光がまだ (光が)
+
+Translation: The light is still (the light is),
+
+Reading: ひかり が まだ (ひかり が)
+
+Grammar: 光 (noun) - light, が (particle) - subject marker, まだ (adverb) - still
+
+Sentence: 胸の奥に熱いのに
+
+Translation: Even though there's warmth deep in my chest,
+
+Reading: むね の おく に あたたかい の に
+
+Grammar: 胸 (noun) - chest, の (particle) - possessive marker, 奥に (noun) - deep in, 熱い (adjective) - warm, のに (conjunction) - even though
+
+Sentence: 僕たちは燃え盛る 旅の途中で出逢い
+
+Translation: We meet in the midst of a blazing journey,
+
+Reading: ぼくたち は もえさかる たび の とちゅう で であい
+
+Grammar: 僕たち (pronoun) - we, は (particle) - topic marker, 燃え盛る (verb) - blazing, 旅 (noun) - journey, の (possessive particle) - of, 途中で (noun) - in the midst of, 出逢い (noun) - meeting
+
+Sentence: 手を通りそして離した 未来のために
+
+Translation: Passing by each other's hands, for the future we let go,
+
+Reading: て を とおり そして はなした みらい の ため に
+
+Grammar: 手 (noun) - hand, を (particle) - object marker, 通り (verb) - passing by, そして (conjunction) - and then, 離した (verb) - let go, 未来 (noun) - future, の (possessive particle) - of, ために (expression) - for
+
+Sentence: 夢が一つ叶う度 僕は君を思うだろう
+
+Translation: Each time a dream comes true, I'll think of you,
+
+Reading: ゆめ が ひとつ かなう たび ぼく は きみ を おもう だろう
+
+Grammar: 夢 (noun) - dream, が (particle) - subject marker, 一つ (counter) - one, 叶う (verb) - come true, 度 (counter) - time, 僕は (pronoun) - I, 君を (pronoun) - you, 思うだろう (verb) - will think
+
+Sentence: 強くなりたいと願い 泣いた
+
+Translation: I wished to become stronger and cried,
+
+Reading: つよく なりたい と ねがい ないた
+
+Grammar: 強く (adverb) - strongly, なりたい (verb) - want to become, と (quotation particle) - that, 願い (verb) - wished, 泣いた (verb) - cried
+
+Sentence: 決意を餞に
+
+Translation: A determination as a farewell gift,
+
+Reading: けつい を はなむけ に
+
+Grammar: 決意 (noun) - determination, を (particle) - object marker, 餞に (expression) - as a farewell gift
+
+Sentence: 懐かしい想いに囚われたい
+
+Translation: I want to be captivated by nostalgic feelings,
+
+Reading: なつかしい おもい に とらわれたい
+
+Grammar: 懐かしい (adjective) - nostalgic, 想い (noun) - feelings, に (particle) - in, 囚われたい (verb) - want to be captivated
+
+Sentence: 残酷な世界に泣き叫んで
+
+Translation: Crying out in this cruel world,
+
+Reading: ざんこく な せかい に なきさけんで
+
+Grammar: 残酷な (adjective) - cruel, 世界 (noun) - world, に (particle) - in, 泣き叫んで (verb) - crying out
+
+Sentence: 大人になるほど増えてゆく
+
+Translation: The more I become an adult, the more it increases,
+
+Reading: おとな に なる ほど ふえて ゆく
+
+Grammar: 大人 (noun) - adult, に (particle) - become, なる (verb) - become, ほど (expression) - the more, 増えてゆく (verb) - increases
+
+Sentence: もう何一つだって失いたくない
+
+Translation: I don't want to lose anything anymore,
+
+Reading: もう なに ひとつ だって うしない たく ない
+
+Grammar: もう (adverb) - anymore, 何一つ (expression) - anything, だって (conjunction) - even, 失いたくない (verb) - don't want to lose
+
+Sentence: 悲しみに飲まれ落ちてしまえば
+
+Translation: If I'm swallowed by sadness and fall,
+
+Reading: かなしみ に のまれ おちてしまえば
+
+Grammar: 悲しみ (noun) - sadness, に (particle) - by, 飲まれ (verb) - swallowed, 落ちてしまえば (verb) - fall
+
+Sentence: 痛みを感じなくなるけれど
+
+Translation: Even though I won't feel the pain,
+
+Reading: いたみ を かんじなくなる けれど
+
+Grammar: 痛み (noun) - pain, を (particle) - object marker, 感じなくなる (verb) - won't feel, けれど (conjunction) - even though
+
+Sentence: 君のことが (君のことが)
+
+Translation: About you (about you),
+
+Reading: きみ の こと が (きみ の こと が)
+
+Grammar: 君のこと (pronoun) - about you, が (particle) - subject marker
+
+Sentence: 君の願い (君の声)
+
+Translation: Your wish (your voice),
+
+Reading: きみ の ねがい (きみ の こえ)
+
+Grammar: 君の願い (pronoun) - your wish, 君の声 (pronoun) - your voice
+
+Sentence: 僕は守り抜くと誓ったんだ
+
+Translation: I vowed to protect,
+
+Reading: ぼく は まもりぬく と ちかった ん だ
+
+Grammar: 僕 (pronoun) - I, は (particle) - topic marker, 守り抜く (verb) - protect, と (quotation particle) - that, 誓った (verb) - vowed, ん (explanatory particle) - explanatory, だ (copula) - is
+
+Sentence: 音を立てて崩れ落ちてゆく
+
+Translation: Collapsing with a sound,
+
+Reading: おと を たてて くずれ おちて ゆく
+
+Grammar: 音 (noun) - sound, を (particle) - object marker, 立てて (verb) - making, 崩れ落ちてゆく (verb) - collapsing
+
+Sentence: 一つだけの(一つだけの)
+
+Translation: The one and only (the one and only),
+
+Reading: ひとつ だけ の (ひとつ だけ の)
+
+Grammar: 一つ (counter) - one, だけの (expression) - the only
+
+Sentence: かけがえのない世界
+
+Translation: An irreplaceable world,
+
+Reading: かけがえ の ない せかい
+
+Grammar: かけがえ (noun) - irreplaceable, の (possessive particle) - of, ない (adjective) - no, 世界 (noun) - world
+
+Sentence: 手を伸ばし抱き止めた 激しい光の束
+
+Translation: I reached out and embraced a bundle of intense light,
+
+Reading: て を のばし だきとめた はげしい ひかり の たば
+
+Grammar: 手 (noun) - hand, を (particle) - object marker, 伸ばし (verb) - reaching out, 抱き止めた (verb) - embraced, 激しい (adjective) - intense, 光 (noun) - light, の (possessive particle) - of, 束 (counter) - bundle
+
+Sentence: 輝いて消えてった 未来のために
+
+Translation: Shining and disappearing for the future,
+
+Reading: かがやいて きえてった みらい の ため に
+
+Grammar: 輝いて (verb) - shining, 消えてった (verb) - disappearing, 未来 (noun) - future, の (possessive particle) - of, ために (expression) - for
+
+Sentence: 託された幸せと 約束を超えていく
+
+Translation: Going beyond entrusted happiness and promises,
+
+Reading: たくされた しあわせ と やくそく を こえていく
+
+Grammar: 託された (verb) - entrusted, 幸せ (noun) - happiness, と (particle) - and, 約束 (noun) - promise, を (particle) - object marker, 超えていく (verb) - going beyond
+
+Sentence: 振り返らずに進むから
+
+Translation: Because we advance without looking back,
+
+Reading: ふりかえらず に すすむ から
+
+Grammar: 振り返らずに (expression) - without looking back, 進む (verb) - advance, から (conjunction) - because
+
+Sentence: 前だけ向いて叫ぶから
+
+Translation: Because we face only forward and shout,
+
+Reading: まえ だけ むいて さけぶ から
+
+Grammar: 前 (noun) - front, だけ (particle) - only, 向いて (verb) - facing, 叫ぶ (verb) - shout, から (conjunction) - because
+
+Sentence: 心に炎を灯して 遠い未来まで
+
+Translation: Lighting a flame in our hearts until the distant future,
+
+Reading: こころ に ほのお を ともして とおい みらい まで
+
+Grammar: 心 (noun) - heart, に (particle) - in, 炎 (noun) - flame, を (particle) - object marker, 灯して (verb) - lighting, 遠い (adjective) - distant, 未来 (noun) - future, まで (particle) - until
