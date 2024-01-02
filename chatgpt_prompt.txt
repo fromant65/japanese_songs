@@ -1,9 +1,7 @@
 I'm gonna send you the lyrics of a japanese song. You shall translate it to english and return it in the following format:
--sentence
--translation
--reading
+-sentence: original reading
+-translation: translation to english
+-reading: sentence in hiragana
 -grammar: <word> <word type> <meaning>
 The word type refers to the grammatical type (particule, verb, adverb, sustantive, adjective, etc)
 Each grammar point is separated by commas: ", ". If you have to separate any info inside each grammar point, separate it with " - ".
-The reading is in hiragana
-Of course, as the song has multiple sentences and strophes, the value you'll return will have multiple blocks with this format

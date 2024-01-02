@@ -1,0 +1,224 @@
+Sentence: 君は言う「もう楽になれるよ」と
+Translation: You say, "You can become at ease now," and
+Reading: きみ は いう 「もう らく に なれる よ」と
+Grammar: 君 (pronoun) - you, は (particle) - topic marker, 言う (verb) - say, もう (adverb) - already, 楽 (adjective) - at ease, に (particle) - to, なれる (potential verb) - can become, よ (sentence-ending particle) - emphasis
+
+Sentence: 今思えばそれが甘い罠になっていたんだ
+Translation: Looking back now, that became a sweet trap,
+Reading: いま おもえば それ が あまい わな に なって いたん だ
+Grammar: 今 (noun) - now, 思えば (expression) - looking back, それ (pronoun) - that, が (particle) - subject marker, 甘い (adjective) - sweet, 罠 (noun) - trap, に (particle) - to, なって (verb) - became, いたん (contraction) - ita + n (past tense) + da
+
+Sentence: 今日も人の理想で私は具現化されていく
+Translation: Today, too, I am being materialized by others' ideals,
+Reading: きょう も ひと の りそう で わたし は ぐげんか されて いく
+Grammar: 今日 (noun) - today, も (particle) - too, 人 (noun) - people, の (particle) - possessive, 理想 (noun) - ideals, で (particle) - by, 私 (pronoun) - I, は (particle) - topic marker, 具現化されて (passive verb) - being materialized, いく (verb) - go
+
+Sentence: 虚構 虚言 虚像 虚心で作り上げた自分で
+Translation: With fiction, falsehoods, illusions, and a hypocritical heart, I've created myself,
+Reading: きょこう きょげん きょぞう きょしん で つくりあげた じぶん で
+Grammar: 虚構 (noun) - fiction, 虚言 (noun) - falsehoods, 虚像 (noun) - illusions, 虚心 (noun) - hypocritical heart, で (particle) - by, つくりあげた (past tense verb) - created, 自分 (pronoun) - myself
+
+Sentence: 正直者は狼少年
+Translation: An honest person is a wolf boy,
+Reading: しょうじきもの は おおかみ しょうねん
+Grammar: 正直者 (noun) - honest person, は (particle) - subject marker, 狼 (noun) - wolf, 少年 (noun) - boy
+
+Sentence: 嘘つきはそろそろ被害者
+Translation: A liar is soon a victim,
+Reading: うそつき は そろそろ ひがいしゃ
+Grammar: 嘘つき (noun) - liar, は (particle) - subject marker, そろそろ (adverb) - soon, 被害者 (noun) - victim
+
+Sentence: で嘘なき始める時間だ ああ
+Translation: It's time to start without lies, ah,
+Reading: で うそ なき はじめる じかん だ ああ
+Grammar: で (conjunction) - and, 嘘 (noun) - lies, なき (negative verb) - without, 始める (verb) - start, 時間 (noun) - time, だ (copula) - is, ああ (expression) - ah
+
+Sentence: こんな三次元なんて逃げたくなるに決まってんだろ
+Translation: Surely, you want to escape from such a three-dimensional world, right?
+Reading: こんな さんじげん なんて にげたく なる に きまってん だろ
+Grammar: こんな (adjective) - such, 三次元 (noun) - three-dimensional, なんて (particle) - such as, にげたく (verb) - want to escape, なる (verb) - is, に (particle) - to, きまってん (conjugation) - 決まって (to be sure) + ん (short for の) + だろ (questioning expression)
+
+Sentence: とvirtualize a lie
+Translation: And virtualize a lie,
+Reading: と ばーちゃらいず え らい
+Grammar: と (conjunction) - and, virtualize (English loanword), a (English loanword), lie (English loanword)
+
+Sentence: 非科学的現状と確実的原則
+Translation: Unscientific reality and certain principles,
+Reading: ひかがくてき げんじょう と かくじゅうてき げんそく
+Grammar: 非科学的 (adjective) - unscientific, 現状 (noun) - reality, と (particle) - and, 確実的 (adjective) - certain, 原則 (noun) - principles
+
+Sentence: 何でもよかったよ
+Translation: Anything was fine,
+Reading: なんでも よかった よ
+Grammar: 何でも (expression) - anything, よかった (past tense adjective) - was fine, よ (sentence-ending particle) - emphasis
+
+Sentence: 愛をくれよ 愛してくれよ
+Translation: Give me love, love me,
+Reading: あい を くれよ あいしてくれよ
+Grammar: 愛 (noun) - love, を (particle) - direct object marker, くれよ (imperative verb) - give, 愛してくれよ (imperative verb) - love me
+
+Sentence: 言葉はもう私を癒せやしない
+Translation: Words can no longer heal me,
+Reading: ことば は もう わたし を いやせ や しない
+Grammar: 言葉 (noun) - words, は (particle) - topic marker, もう (adverb) - no longer, 私 (pronoun) - me, を (particle) - direct object marker, 癒せ (potential verb) - can heal, や しない (negative verb) - not
+
+Sentence: もうちょっとそばにいてよ
+Translation: Just a bit, stay by my side,
+Reading: もう ちょっと そば に いて よ
+Grammar: もう (adverb) - just a bit, ちょっと (adverb) - a bit, そば (noun) - side, に (particle) - by, いて (verb) - stay, よ (sentence-ending particle) - emphasis
+
+Sentence: 足りない生きてきた証は傷 傷変わりになって
+Translation: The proof of living with insufficiency is scars, scars that have turned into something different,
+Reading: たりない いきてきた あかし は きず きず かわり に なって
+Grammar: 足りない (adjective) - insufficient, 生きてきた (verb) - have lived, 証 (noun) - proof, は (particle) - topic marker, 傷 (noun) - scars, 傷変わり (noun) - scars that have turned, に (particle) - into
+
+Sentence: お願い鏡の中のドッペルゲンガー
+Translation: Please, the doppelganger in the mirror,
+Reading: おねがい かがみ の なか の どっぺるげんがー
+Grammar: お願い (expression) - please, 鏡 (noun) - mirror, の (particle) - possessive, 中 (noun) - inside, の (particle) - possessive, ドッペルゲンガー (German loanword) - doppelganger
+
+Sentence: ずっとなんてほど儚いものはなかった
+Translation: It was never as transient as forever,
+Reading: ずっと なんて ほど はかない もの は なかった
+Grammar: ずっと (adverb) - forever, なんて (particle) - such as, ほど (particle) - extent, 儚い (adjective) - transient, もの (noun) - thing, は (particle) - topic marker, なかった (negative past tense) - was not
+
+Sentence: 全部、そう、フィクションでいい
+Translation: Everything, yes, it's fine as fiction,
+Reading: ぜんぶ そう ふぃくしょん で いい
+Grammar: 全部 (pronoun) - everything, そう (adverb) - yes, フィクション (English loanword) - fiction, で (particle) - as, いい (adjective) - fine
+
+Sentence: それや瞳も閉じたくもなるだろう
+Translation: Even those eyes, you'll probably want to close them,
+Reading: それ や ひとみ も とじたく も なる だろう
+Grammar: それ (pronoun) - that, や (conjunction) - and, 瞳 (noun) - eyes, も (particle) - also, 閉じたく (potential verb) - want to close, も (particle) - also, なる (verb) - will, だろう (expression) - probably
+
+Sentence: 傾いてしまった
+Translation: It has tilted,
+Reading: かたむいて しまった
+Grammar: 傾いて (verb) - has tilted, しまった (past tense expression) - has done
+
+Sentence: 天秤の横で私に笑った
+Translation: Laughing at me beside the scales,
+Reading: てんびん の よこ で わたし に わらった
+Grammar: 天秤 (noun) - scales, の (particle) - possessive, よこ (noun) - beside, で (particle) - at, 私 (pronoun) - me, に (particle) - to, わらった (past tense verb) - laughed
+
+Sentence: もう君の場所はないと
+Translation: There is no longer a place for you,
+Reading: もう きみ の ばしょ は ない と
+Grammar: もう (adverb) - no longer, 君 (pronoun) - you, の (particle) - possessive, 場所 (noun) - place, は (particle) - topic marker, ない (negative verb) - not
+
+Sentence: 帰りたくてももう帰れなくなって
+Translation: Even if you want to go back, you can't anymore,
+Reading: かえりたく て も もう かえれなく なって
+Grammar: 帰りたくて (conjunction) - even if you want to go back, も (particle) - even, もう (adverb) - anymore, 帰れなく (potential verb) - can't go back, なって (conjugation) - has become
+
+Sentence: 言葉ひとつの重さも知らなかったんだ
+Translation: I didn't know the weight of a single word,
+Reading: ことば ひとつ の おもさ も しらなかった ん だ
+Grammar: 言葉 (noun) - words, ひとつ (counter) - one, の (particle) - possessive, 重さ (noun) - weight, も (particle) - also, 知らなかった (negative past tense) - didn't know, ん (explanatory particle) - explanation, だ (sentence-ending particle) - emphasis
+
+Sentence: 私の犠牲になってくれよ理想郷はどこへ消えた
+Translation: Become my sacrifice, where has the utopia disappeared to?
+Reading: わたし の ぎせい に なって くれよ りそうきょう は どこ へ きえた
+Grammar: 私 (pronoun) - I, の (particle) - possessive, 犠牲 (noun) - sacrifice, に (particle) - become, なって (conjugation) - has become, くれよ (imperative verb) - become, 理想郷 (noun) - utopia, は (particle) - topic marker, どこ (pronoun) - where, へ (particle) - to, 消えた (past tense verb) - disappeared
+
+Sentence: 変わり果てた姿で
+Translation: In a completely changed appearance,
+Reading: かわりはてた すがた で
+Grammar: 変わり果てた (expression) - completely changed, 姿 (noun) - appearance, で (particle) - in
+
+Sentence: 私に偽りの笑みを浮かべていた
+Translation: You had a false smile on your face for me,
+Reading: わたし に いつわり の えみ を うかべていた
+Grammar: 私 (pronoun) - me, に (particle) - to, 偽り (noun) - falsehood, の (particle) - possessive, 笑み (noun) - smile, を (particle) - direct object marker, 浮かべていた (verb) - had on your face
+
+Sentence: また嘘を吸い込んで
+Translation: Inhaling lies once again,
+Reading: また うそ を すいこんで
+Grammar: また (adverb) - once again, 嘘 (noun) - lies, を (particle) - direct object marker, 吸い込んで (verb) - inhaling
+
+Sentence: 君は新しい嘘を作って吐くのでしょう
+Translation: You will probably create and spit out new lies,
+Reading: きみ は あたらしい うそ を つくって はく の でしょう
+Grammar: 君 (pronoun) - you, は (particle) - topic marker, 新しい (adjective) - new, 嘘 (noun) - lies, を (particle) - direct object marker, 作って (verb) - create, 吐く (verb) - spit out, のでしょう (expression) - probably
+
+Sentence: 器に過ぎないアイツにはなれない
+Translation: I can't become someone who is just a vessel,
+Reading: うつわ に すぎない あいつ に は なれない
+Grammar: 器 (noun) - vessel, に (particle) - to, 過ぎない (expression) - not just, アイツ (pronoun) - that person, に (particle) - to, は (particle) - topic marker, なれない (potential verb) - can't become
+
+Sentence: 全て作り上げた理想郷
+Translation: The utopia that I created,
+Reading: すべて つくりあげた りそうきょう
+Grammar: 全て (pronoun) - everything, 作り上げた (verb) - created, 理想郷 (noun) - utopia
+
+Sentence: 壊したかったが
+Translation: I wanted to destroy it, but
+Reading: こわしたかった が
+Grammar: 壊したかった (expression) - wanted to destroy, が (conjunction) - but
+
+Sentence: 壊せなかった
+Translation: I couldn't destroy it,
+Reading: こわせなかった
+Grammar: 壊せなかった (expression) - couldn't destroy
+
+Sentence: 私の理想郷はここしかなくて
+Translation: My utopia is only here,
+Reading: わたし の りそうきょう は ここ しか なくて
+Grammar: 私 (pronoun) - my, の (particle) - possessive, 理想郷 (noun) - utopia, は (particle) - topic marker, ここ (pronoun) - here, しか (particle) - only, なくて (conjugation) - not
+
+Sentence: 意味もなく手を差し伸べてしまった
+Translation: Without meaning, I reached out my hand,
+Reading: いみ も なく て を さしのべてしまった
+Grammar: 意味 (noun) - meaning, も (particle) - also, なくて (conjugation) - without, 手 (noun) - hand, を (particle) - direct object marker, 差し伸べてしまった (verb) - reached out
+
+Sentence: 鏡の奥へ
+Translation: Into the depths of the mirror,
+Reading: かがみ の おく へ
+Grammar: 鏡 (noun) - mirror, の (particle) - possessive, 奥 (noun) - depths, へ (particle) - to
+
+Sentence: とvirtualize a lie
+Translation: And virtualize a lie,
+Reading: と ばーちゃらいず え らい
+Grammar: と (conjunction) - and, virtualize (English loanword), a (English loanword), lie (English loanword)
+
+Sentence: 非現実的現状
+Translation: Unreal reality,
+Reading: ひげんじつてき げんじょう
+Grammar: 非現実的 (adjective) - unreal, 現状 (noun) - reality
+
+Sentence: ありもしない虚像
+Translation: Nonexistent imaginary,
+Reading: あり も しない きょぞう
+Grammar: ありもしない (expression) - nonexistent, 虚像 (noun) - imaginary
+
+Sentence: 消えていく境界線を
+Translation: The disappearing boundary line,
+Reading: きえていく きょうかいせん を
+Grammar: 消えていく (expression) - disappearing, 境界線 (noun) - boundary line, を (particle) - direct object marker
+
+Sentence: 返してくれよ 返してくれよと
+Translation: Give it back, give it back,
+Reading: かえして くれよ かえして くれよ と
+Grammar: 返して (imperative verb) - give it back, くれよ (imperative verb) - give, と (quotation particle) - quoting
+
+Sentence: もう一度やり直させて欲しくて
+Translation: I want to redo it once more,
+Reading: もう いちど やりなおさせて ほしく て
+Grammar: もう (adverb) - once more, 一度 (counter) - once, やり直させて (causative verb) - let redo, 欲しくて (conjunction) - want
+
+Sentence: 本物はここにいるんだ それは違う、違うんだ
+Translation: The real one is here, it's different, it's different,
+Reading: ほんもの は ここ に いる ん だ それ は ちがう ちがう ん だ
+Grammar: 本物 (noun) - real one, は (particle) - topic marker, ここ (pronoun) - here, に (particle) - at, いる (verb) - is, ん (explanatory particle) - explanation, だ (sentence-ending particle) - emphasis, それ (pronoun) - it, は (particle) - topic marker, 違う (adjective) - different, ん (explanatory particle) - explanation, だ (sentence-ending particle) - emphasis
+
+Sentence: 幻影の私を愛さないで忘れないでお願い
+Translation: Please don't love my illusion and don't forget me,
+Reading: げんえい の わたし を あいさないで わすれないで おねがい
+Grammar: 幻影 (noun) - illusion, の (particle) - possessive, 私 (pronoun) - me, を (particle) - direct object marker, 愛さないで (negative imperative verb) - don't love, 忘れないで (negative imperative verb) - don't forget, お願い (expression) - please
+
+Sentence: 思いを馳せて誓うよ
+Translation: I swear i'll give it more thought
+Reading: おもい を はせて ちかう よ
+Grammar: 思い (noun) - thoughts, を (particle) - direct object marker, 馳せて (verb) - send, 誓う (verb) - vow, よ (sentence-ending particle) - emphasis
