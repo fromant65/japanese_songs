@@ -1,352 +1,232 @@
-Sentence: 未熟無情されど美しくあれ
+Sentence: 未熟　無ジョウ　されど　美しくあれ
+Translation: Inexperienced, heartless, yet, be beautiful,
+Reading: みじゅく　むじょう　されど　うつくしく あれ
+Grammar: 未熟 (adjective) - inexperienced, 無 (adjective) - heartless, されど (conjunction) - yet, 美しく (adverb) - beautifully, あれ (verb) - be
 
-Translation: Be inexperienced and heartless yet beautiful,
+Sentence: No Destiny　ふさわしく無い
+Translation: No Destiny, not suitable,
+Reading: ふさわしくない
+Grammar: ふさわしく (adverb) - suitable, 無い (adjective) - not
 
-Reading: みじゅく むじょう されど うつくしく あれ
-
-Grammar: 未熟 (adjective) - inexperienced, 無情 (noun) - heartless, されど (conjunction) - yet, 美しく (adverb) - beautifully, あれ (verb) - be
-
-Sentence: のdestiny不沢式ない
-
-Translation: Destiny is not unfortunate,
-
-Reading: の ですてぃに ふさわしく ない
-
-Grammar: の (possessive particle) - of, destiny (loanword) - destiny, 不沢式 (adjective) - unfortunate, ない (adjective) - not
-
-Sentence: 困難じゃきっと物足りない
-
-Translation: Surely difficulties alone are not enough,
-
+Sentence: こんなんじゃきっと物足りない
+Translation: Surely, it's not enough like this,
 Reading: こんなん じゃ きっと ものたりない
+Grammar: こんなん (expression) - like this, じゃ (conjunction) - surely, きっと (adverb) - surely, 物足りない (adjective) - not enough
 
-Grammar: 困難 (noun) - difficulties, じゃ (conjunction) - if, きっと (adverb) - surely, 物足りない (adjective) - not enough
+Sentence: くらい語っとけばうまくいく
+Translation: If you talk about it like this, it'll work out,
+Reading: くらい ことっとけば うまく いく
+Grammar: くらい (expression) - like this, 語っとけば (verb expression) - if you talk about it, うまく (adverb) - well, いく (verb) - work out
 
-Sentence: 暗いかたっとけばうまくいく
+Sentence: 物、金、愛、言、もう自己顕示飽きた
+Translation: Things, money, love, words, I'm already tired of self-display,
+Reading: もの、かね、あい、こと、もう じこけんじあきた
+Grammar: 物 (noun) - things, 金 (noun) - money, 愛 (noun) - love, 言 (noun) - words, もう (adverb) - already, 自己顕示 (noun) - self-display, 飽きた (adjective) - tired
 
-Translation: If you embrace the darkness, things will go well,
+Sentence: デジャヴ　何がそんな不満なんだ？
+Translation: Deja vu, what's that dissatisfaction about?
+Reading: でじゃゔ　なにが そんな ふまん なんだ？
+Grammar: デジャヴ (loanword) - deja vu, 何 (pronoun) - what, が (particle) - subject marker, そんな (expression) - that, 不満 (noun) - dissatisfaction, なんだ (expression) - what is
 
-Reading: くらい かたっとけば うまく いく
+Sentence: 散々ワガママ語っといて　これ以上他に何がいる？
+Translation: After being so selfish, what else do you need?
+Reading: さんざん わがまま ことっといて　これいじょう ほかに なにが いる？
+Grammar: 散々 (adverb) - after, ワガママ (noun) - selfish, 語っといて (verb expression) - after talking, これ以上 (expression) - what else, 他に (expression) - other than, 何が (pronoun) - what, いる (verb) - need
 
-Grammar: 暗い (adjective) - dark, かたっとけば (expression) - if you embrace, うまく (adverb) - well, いく (verb) - go
+Sentence: そんなところも割と嫌いじゃ無い
+Translation: I don't really hate even that kind of thing,
+Reading: そんなところ も わりと きらい じゃない
+Grammar: そんなところ (expression) - that kind of thing, も (particle) - even, わりと (adverb) - really, きらい (adjective) - hate, じゃない (expression) - not
 
-Sentence: もの、金、愛、事、もう自己検知明方
+Sentence: もう「聞き飽きたんだよ、そのセリフ。」
+Translation: I'm already tired of hearing that line,
+Reading: もう ききあきたんだよ、そのせりふ。
+Grammar: もう (adverb) - already, 聞き飽きた (verb expression) - tired of hearing, だよ (expression) - it is, その (pronoun) - that, セリフ (noun) - line
 
-Translation: Material, money, love, things, it's already self-detected in the open,
-
-Reading: もの、かね、あい、こと、もう じこ けんち あきらか
-
-Grammar: もの (noun) - material, かね (noun) - money, あい (noun) - love, こと (noun) - things, もう (adverb) - already, 自己検知 (noun) - self-detected, 明方 (noun) - in the open
-
-Sentence: deja vu何がそんな不満なんだ
-
-Translation: Deja vu, what's causing such dissatisfaction?
-
-Reading: でじゃ ぶ なに が そんな ふまん なん だ
-
-Grammar: deja vu (loanword) - deja vu, 何が (pronoun) - what's, そんな (pronoun) - such, 不満 (noun) - dissatisfaction, なん (explanatory particle) - what, だ (copula) - is
-
-Sentence: 散々わがままかたっといてこれ以上他に何がいる
-
-Translation: After being so selfish, having tantrums, what else do you want?
-
-Reading: さんざん わがまま かたっといて これ いじょう ほか に なに が いる
-
-Grammar: 散々 (adverb) - after, わがまま (noun) - selfishness, かたっといて (expression) - having tantrums, これ (pronoun) - this, 以上 (expression) - more than, 他に (pronoun) - what else, なに (pronoun) - what, が (particle) - subject marker, いる (verb) - want
-
-Sentence: そんなところも割と嫌いじゃない
-
-Translation: I don't really dislike that aspect either,
-
-Reading: そんな ところ も わりと きらい じゃない
-
-Grammar: そんな (pronoun) - that, ところ (noun) - aspect, も (particle) - also, わりと (adverb) - really, きらい (adjective) - dislike, じゃない (negative copula) - not
-
-Sentence: もう聞き飽きたんだよ、そのセリフ
-
-Translation: I'm tired of hearing that line already,
-
-Reading: もう ききあきたん だ よ、 その せりふ
-
-Grammar: もう (adverb) - already, ききあきたん (expression) - tired of hearing, だ (copula) - is, よ (sentence-ending particle) - emphasis, その (pronoun) - that, セリフ (noun) - line
-
-Sentence: 中途半端だけはいや
-
-Translation: I can't stand being half-hearted,
-
-Reading: ちゅうと はんぱ だけ は いや
-
-Grammar: 中途半端 (adjective) - half-hearted, だけ (particle) - only, は (particle) - topic marker, いや (adjective) - can't stand
+Sentence: 中途半端だけは嫌
+Translation: I just don't like being half-hearted,
+Reading: ちゅうとはんぱ だけ は いや
+Grammar: 中途半端 (adjective) - half-hearted, だけ (particle) - only, は (particle) - topic marker, いや (adjective) - don't like
 
 Sentence: もういい
-
-Translation: It's enough,
-
+Translation: It's fine,
 Reading: もう いい
-
-Grammar: もう (adverb) - enough, いい (adjective) - good
+Grammar: もう (adverb) - already, いい (adjective) - fine
 
 Sentence: ああしてこうして言ってたって
+Translation: Saying things like this and that,
+Reading: ああして こうして いって たって
+Grammar: ああして (expression) - like this, こうして (expression) - like that, 言ってたって (verb expression) - saying
 
-Translation: Saying this and that, doing this and that,
+Sentence: 愛して　どうして？　言われたって
+Translation: Love, why? Even if you're told to,
+Reading: あいして　どうして？　いわれたって
+Grammar: 愛して (verb) - love, どうして (expression) - why, 言われたって (verb expression) - even if you're told
 
-Reading: ああ して こう して いって たって
+Sentence: 遊びだけなら簡単で　真剣交渉支離滅裂で
+Translation: If it's just a game, it's easy; in serious negotiations, it's chaotic,
+Reading: あそび だけ なら かんたん で　しんけん こうしょう しりめつれつ で
+Grammar: 遊び (noun) - game, だけ (particle) - only, なら (conjunction) - if, 簡単で (adjective) - easy, 真剣 (adjective) - serious, 交渉 (noun) - negotiations, 支離滅裂 (adjective) - chaotic, で (conjunction) - in
 
-Grammar: ああ (expression) - this, して (verb) - doing, こうして (expression) - this and that, 言ってたって (expression) - saying
+Sentence: 思いもしない軽い言葉
+Translation: Unexpected light words,
+Reading: おもい も しない かるい ことば
+Grammar: 思い (noun) - thought, も (particle) - also, しない (verb) - not, 軽い (adjective) - light, 言葉 (noun) - words
 
-Sentence: 愛してどうして？言われたって
-
-Translation: Why love? Even if you say it,
-
-Reading: あいして どうして？ いわれたって
-
-Grammar: 愛して (verb) - love, どうして (expression) - why, 言われたって (expression) - even if you say it
-
-Sentence: 遊びだけなら簡単で真剣口唇無茶苦茶で
-
-Translation: If it's just a game, it's easy; serious lips are reckless,
-
-Reading: あそび だけ なら かんたん で しんけん くちびる むちゃ くちゃ で
-
-Grammar: 遊び (noun) - game, だけ (particle) - only, なら (conjunction) - if, かんたん (adjective) - easy, で (particle) - and, 真剣 (adjective) - serious, 口唇 (noun) - lips, 無茶苦茶 (adjective) - reckless
-
-Sentence: 思いもしない思い言葉
-
-Translation: Unthinkable words and feelings,
-
-Reading: おもい も しない おもい ことば
-
-Grammar: 思い (noun) - thoughts, も (particle) - also, しない (negative verb) - not, 思い (noun) - feelings, 言葉 (noun) - words
-
-Sentence: 何度使い古すのか
-
-Translation: How many times will you reuse them?
-
-Reading: なんど つかいふるす の か
-
-Grammar: 何度 (pronoun) - how many times, 使い古す (verb) - reuse, の (particle) - possessive marker, か (question particle) - question
+Sentence: 何度使い古すのか？
+Translation: How many times will you reuse it?
+Reading: なんど つかいふるす の か？
+Grammar: 何度 (expression) - how many times, 使い古す (verb expression) - reuse, の (particle) - question marker, か (particle) - question marker
 
 Sentence: どうせ
-
 Translation: Anyway,
-
 Reading: どうせ
-
-Grammar: どうせ (adverb) - anyway
+Grammar: どうせ (expression) - anyway
 
 Sentence: 期待してたんだ出来レースでも
+Translation: I was expecting, even if it's a predetermined outcome,
+Reading: きたい してたんだ できれーす でも
+Grammar: 期待してたんだ (verb expression) - I was expecting, 出来レース (noun) - predetermined outcome, でも (conjunction) - even if
 
-Translation: I was expecting it, even if it's a pre-made script,
-
-Reading: きたい してたん だ できれーす でも
-
-Grammar: 期待してたん (expression) - I was expecting, だ (copula) - is, 出来レース (noun) - pre-made script, でも (conjunction) - even if
-
-Sentence: 陰陽だらけのフレーズも
-
-Translation: Even phrases filled with yin and yang,
-
+Sentence: 引用だらけのフレーズも
+Translation: Even phrases full of quotes,
 Reading: いんよう だらけ の ふれーず も
+Grammar: 引用だらけ (noun) - full of quotes, の (particle) - possessive, フレーズ (noun) - phrases, も (particle) - also
 
-Grammar: 陰陽 (noun) - yin and yang, だらけ (suffix) - filled with, の (possessive particle) - of, フレーズ (noun) - phrases, も (particle) - also
+Sentence: 踵上がる癖もう終わりにして
+Translation: Let's put an end to the habit of raising the heels,
+Reading: かかと あがる くせ もう おわり に して
+Grammar: 踵上がる (verb expression) - raising the heels, 癖 (noun) - habit, もう (adverb) - already, 終わりにして (verb expression) - put an end to
 
-Sentence: 踵持ち上がる言葉タブーにして
+Sentence: 空気を読んだ空晴れないでよ
+Translation: Don't clear the air I've read,
+Reading: くうき を よんだ そら はれない で よ
+Grammar: 空気 (noun) - air, を (particle) - object marker, 読んだ (verb) - read, 空 (noun) - air, 晴れないで (verb expression) - don't clear, よ (sentence-ending particle) - emphasis
 
-Translation: Raise your heels and make words taboo,
-
-Reading: かかと もちあがる ことば たぶー に して
-
-Grammar: 踵 (noun) - heels, 持ち上がる (expression) - raise, 言葉 (noun) - words, タブー (noun) - taboo, に (particle) - to, して (verb) - make
-
-Sentence: 空気を読んだ雨降らないでよ
-
-Translation: Read the atmosphere; don't let it rain,
-
-Reading: くうき を よんだ あめ ふらない で よ
-
-Grammar: 空気 (noun) - atmosphere, を (particle) - object marker, 読んだ (verb) - read, 雨 (noun) - rain, 降らないで (expression) - don't let it rain, よ (imperative particle) - emphasis
-
-Sentence: まどろっこしい話はいや
-
-Translation: I don't like confusing stories,
-
+Sentence: まどろっこしい話は嫌
+Translation: I dislike complicated stories,
 Reading: まどろっこしい はなし は いや
+Grammar: まどろっこしい (adjective) - complicated, 話 (noun) - story, は (particle) - topic marker, いや (adjective) - dislike
 
-Grammar: まどろっこしい (adjective) - confusing, 話 (noun) - stories, は (particle) - topic marker, いや (adjective) - don't like
+Sentence: 必要最低限でいい　2文字以内でどうぞ
+Translation: Just the bare minimum is fine; please stay within 2 characters,
+Reading: ひつよう さいていげん で いい　にもじ いない で どうぞ
+Grammar: 必要 (noun) - necessary, 最低限 (noun) - minimum, で (conjunction) - in, いい (adjective) - fine, 2文字 (expression) - 2 characters, 以内 (expression) - within, で (conjunction) - in, どうぞ (expression) - please
 
-Sentence: 必要最低限でいいに文字いないでどうぞ
+Sentence: 紅の蝶は何のメールも送らない
+Translation: The crimson butterfly doesn't send any emails,
+Reading: くれない の ちょう は なん の めーる も おくらない
+Grammar: 紅 (noun) - crimson, の (particle) - possessive, 蝶 (noun) - butterfly, は (particle) - topic marker, 何の (pronoun) - what, メール (noun) - email, も (particle) - also, 送らない (verb) - doesn't send
 
-Translation: It's fine with the bare minimum; no need for unnecessary words, please,
+Sentence: 脆い扇子広げる　その方が魅力的でしょう
+Translation: Spreading a fragile fan; that is more charming, you know,
+Reading: もろい せんす ひろげる　そのほう が みりょくてき でしょう
+Grammar: 脆い (adjective) - fragile, 扇子 (noun) - fan, 広げる (verb) - spreading, その (pronoun) - that, 方が (expression) - more, 魅力的 (adjective) - charming, でしょう (expression) - you know
 
-Reading: ひつよう さいていげん で いい に もじ いないで どうぞ
+Sentence: 迷で
+Translation: Indecision,
+Reading: めい で
+Grammar: 迷 (noun) - indecision, で (conjunction) - in
 
-Grammar: 必要 (noun) - necessity, 最低限 (noun) - bare minimum, で (particle) - with, いい (adjective) - fine, に (particle) - to, 文字 (noun) - words, いないで (expression) - without, どうぞ (expression) - please
+Sentence: 応えられないなら　ほっといてくれ
+Translation: If you can't respond, just leave it,
+Reading: こたえられない なら　ほっといてくれ
+Grammar: 応えられない (verb expression) - can't respond, なら (conjunction) - if, ほっといて (verb expression) - leave it, くれ (imperative) - please
 
-Sentence: 紅の蝶は何のメイルも送らない
+Sentence: 迷えるくらいなら　去っといてくれ
+Translation: If you're lost, just go away,
+Reading: まよえる くらい なら　さっといてくれ
+Grammar: 迷える (verb expression) - if you're lost, くらい (expression) - about, なら (conjunction) - if, 去っといて (verb expression) - go away, くれ (imperative) - please
 
-Translation: The red butterfly doesn't send any mail,
+Sentence: 肝心なとこは筒抜けで　安心だけはさせられるような
+Translation: The crucial part is transparent, making it seem only safety can be achieved,
+Reading: かんじん な とこ は つぶぬけ で　あんしん だけ は させられる ような
+Grammar: 肝心 (adjective) - crucial, な (particle) - attributive, とこ (noun) - part, は (particle) - topic marker, 筒抜け (noun) - transparent, で (conjunction) - in, 安心 (noun) - safety, だけは (expression) - only, させられる (verb expression) - can be achieved, ような (expression) - seems like
 
-Reading: くれない の ちょう は なん の めいる も おくらない
-
-Grammar: 紅 (noun) - red, の (possessive particle) - of, 蝶 (noun) - butterfly, は (particle) - topic marker, 何の (pronoun) - what, メイル (loanword) - mail, も (particle) - any, 送らない (verb) - doesn't send
-
-Sentence: 脆い扇広げるその方が魅力的でしょう
-
-Translation: It's more charming to open fragile fans,
-
-Reading: もろい せん ひろげる その ほう が みりょく てき でしょう
-
-Grammar: もろい (adjective) - fragile, 扇 (noun) - fan, 広げる (verb) - open, その (pronoun) - that, ほう (noun) - way, が (particle) - subject marker, みりょく てき (adjective) - charming, でしょう (expression) - is likely
-
-Sentence: 名で
-
-Translation: With a name,
-
-Reading: なで
-
-Grammar: 名 (noun) - name, で (particle) - with
-
-Sentence: 答えられないならほっといてくれ
-
-Translation: If you can't answer, leave it be,
-
-Reading: こたえられない なら ほっといて くれ
-
-Grammar: 答えられない (expression) - can't answer, なら (conjunction) - if, ほっといて (expression) - leave it be, くれ (imperative particle) - please
-
-Sentence: 迷えるくらいならさっといてくれ
-
-Translation: If you're lost, just stay there,
-
-Reading: まよえる くらい なら さっと いて くれ
-
-Grammar: 迷える (verb) - be lost, くらい (expression) - if, なら (conjunction) - if, さっと (adverb) - just, いて (expression) - stay, くれ (imperative particle) - please
-
-Sentence: 感じんなとこは突っ抜けで安心だけはさせられるような
-
-Translation: Break through the insensitive parts and make only peace possible,
-
-Reading: かんじん な とこ は つっぬけ で あんしん だけ は させられる よう な
-
-Grammar: 感じん (adjective) - insensitive, な (copula) - is, とこ (noun) - parts, は (particle) - topic marker, つっぬけ (expression) - break through, で (particle) - with, あんしん (noun) - peace, だけ (particle) - only, は (particle) - topic marker, させられる (potential verb) - make possible, よう (expression) - like, な (explanatory particle) - makes it seem
-
-Sentence: 甘い雨が降れば
-
+Sentence: 甘いあめが降れば
 Translation: If sweet rain falls,
-
 Reading: あまい あめ が ふれば
+Grammar: 甘い (adjective) - sweet, あめ (noun) - rain, が (particle) - subject marker, ふれば (verb expression) - if falls
 
-Grammar: 甘い (adjective) - sweet, 雨 (noun) - rain, が (particle) - subject marker, ふれば (conditional verb) - if falls
-
-Sentence: 傘も差したくなるだろう
-
-Translation: You'll want to open an umbrella,
-
-Reading: かさ も さしたく なる だろう
-
-Grammar: 傘 (noun) - umbrella, も (particle) - also, さしたく (potential verb) - want to open, なる (verb) - will, だろう (expression) - probably
+Sentence: 傘もさしたくなるだろう？
+Translation: You'd probably want to open an umbrella, right?
+Reading: かさ も さしたく なる だろう？
+Grammar: 傘 (noun) - umbrella, も (particle) - also, さしたく (verb expression) - want to open, なる (verb) - become, だろう (expression) - right?
 
 Sentence: このまま
-
 Translation: Like this,
+Reading: このまま
+Grammar: このまま (expression) - like this
 
-Reading: この まま
+Sentence: 期待したままでよかった　目を瞑った
+Translation: It was fine to keep expecting; I closed my eyes,
+Reading: きたい した まま で よかった　め を つぶった
+Grammar: 期待したまま (verb expression) - keep expecting, で (conjunction) - in, よかった (expression) - fine, 目を瞑った (verb expression) - closed my eyes
 
-Grammar: この (demonstrative pronoun) - this, まま (expression) - like this
+Sentence: 変えたかった　大人ぶった
+Translation: I wanted to change; I pretended to be an adult,
+Reading: かえたかった　おとな ぶった
+Grammar: 変えたかった (verb expression) - wanted to change, 大人ぶった (verb expression) - pretended to be an adult
 
-Sentence: 期待したままでよかった
+Sentence: 無くした　巻き戻せなかった
+Translation: I lost it; I couldn't rewind,
+Reading: なくした　まきもどせなかった
+Grammar: 無くした (verb expression) - lost, 巻き戻せなかった (verb expression) - couldn't rewind
 
-Translation: It's fine to keep expecting,
+Sentence: 今雨、止まないで
+Translation: Now rain, don't stop,
+Reading: いま あめ、とまないで
+Grammar: 今雨 (expression) - now rain, 止まないで (verb expression) - don't stop
 
-Reading: きたい した まま で よかった
+Sentence: コピー、ペースト、デリート　その繰り返し
+Translation: Copy, paste, delete, and repeat that,
+Reading: こーぴー、ぺーすと、でりーと　その くりかえし
+Grammar: コピー (noun) - copy, ペースト (noun) - paste, デリート (noun) - delete, その (pronoun) - that, 繰り返し (noun) - repeat
 
-Grammar: 期待した (expression) - expecting, まま (expression) - like this, で (particle) - with, よかった (adjective) - fine
-
-Sentence: 目をつぶった変えたかった大人ぶった
-
-Translation: Close your eyes and change; pretending to be an adult,
-
-Reading: め を つぶった かえたかった おとな ぶった
-
-Grammar: 目をつぶった (expression) - closed your eyes, 変えたかった (expression) - wanted to change, 大人ぶった (expression) - pretending to be an adult
-
-Sentence: 失くした巻き戻せなかった
-
-Translation: Lost and couldn't rewind,
-
-Reading: なくした まきもどせなかった
-
-Grammar: 失くした (expression) - lost, 巻き戻せなかった (expression) - couldn't rewind
-
-Sentence: 今雨、やまないで
-
-Translation: Rain, don't stop now,
-
-Reading: いま あめ、やまない で
-
-Grammar: 今 (adverb) - now, 雨 (noun) - rain, やまないで (expression) - don't stop
-
-Sentence: copy, paste, deleteその繰り返し
-
-Translation: Copy, paste, delete, the repetition of that,
-
-Reading: こぴー ぺーす でりーと その くりかえし
-
-Grammar: copy (loanword) - copy, paste (loanword) - paste, delete (loanword) - delete, その (pronoun) - that, 繰り返し (noun) - repetition
-
-Sentence: 吸って吐いた
-
-Translation: Inhale and exhale,
-
-Reading: すって はいた
-
+Sentence: 吸って、吐いた
+Translation: Inhale, exhale,
+Reading: すって、はいた
 Grammar: 吸って (verb) - inhale, 吐いた (verb) - exhale
 
 Sentence: だから
-
 Translation: Therefore,
-
 Reading: だから
-
 Grammar: だから (conjunction) - therefore
 
-Sentence: それでもいいからさここいたいよ
-
+Sentence: それでもいいからさ　此処いたいよ
 Translation: Still, it's fine; I want to be here,
-
-Reading: それでも いい から さここ いたい よ
-
-Grammar: それでも (expression) - still, いい (adjective) - fine, から (conjunction) - because, さ (expression) - emphasis, ここ (pronoun) - here, いたい (expression) - want to be, よ (sentence-ending particle) - emphasis
+Reading: それでも いい から さ　ここ いたい よ
+Grammar: それでも (expression) - still, いい (adjective) - fine, から (conjunction) - because, さ (expression) - emphasis, ここ (pronoun) - here, いたい (adjective) - want to be, よ (sentence-ending particle) - emphasis
 
 Sentence: もういい
-Translation: It's enough,
+Translation: It's fine,
 Reading: もう いい
-Grammar: もう (adverb) - already, いい (adjective) - good/enough
+Grammar: もう (adverb) - already, いい (adjective) - fine
 
 Sentence: ああしてこうして言ってたって
-Translation: Saying this and that like that,
-Reading: ああ して こう して いって たって
-Grammar: ああして (expression) - doing like that, こうして (expression) - doing like this, 言ってたって (expression) - even if said
+Translation: Saying things like this and that,
+Reading: ああして こうして いって たって
+Grammar: ああして (expression) - like this, こうして (expression) - like that, 言ってたって (verb expression) - saying
 
-Sentence: 愛してどうして？言われたって
-Translation: "Why love? Even if you're told,"
-Reading: あいして どうして？ いわれたって
-Grammar: 愛して (verb) - love, どうして (expression) - why, 言われたって (expression) - even if told
+Sentence: 愛して　どうして？　言われたって
+Translation: Love, why? Even if you're told to,
+Reading: あいして　どうして？　いわれたって
+Grammar: 愛して (verb) - love, どうして (expression) - why, 言われたって (verb expression) - even if you're told
 
-Sentence: 遊びだけなら簡単で真剣口唇知りめつれつで
-Translation: If it's just a game, it's easy; with serious lips, it's a chaotic rhythm,
-Reading: あそび だけ なら かんたん で しんけん くちびる しりめ つれつ で
-Grammar: 遊び (noun) - play/game, だけ (particle) - only, なら (conjunction) - if, 簡単 (adjective) - easy, で (particle) - with, 真剣 (adjective) - serious, 口唇 (noun) - lips, 知りめつれつで (expression) - chaotic rhythm
+Sentence: 遊びだけなら簡単で　真剣交渉支離滅裂で
+Translation: If it's just a game, it's easy; in serious negotiations, it's chaotic,
+Reading: あそび だけ なら かんたん で　しんけん こうしょう しりめつれつ で
+Grammar: 遊び (noun) - game, だけ (particle) - only, なら (conjunction) - if, 簡単で (adjective) - easy, 真剣 (adjective) - serious, 交渉 (noun) - negotiations, 支離滅裂 (adjective) - chaotic, で (conjunction) - in
 
-Sentence: 思いもしない思い嘘は
-Translation: Unanticipated feelings; lies,
-Reading: おもい も しない おもい うそ は
-Grammar: 思い (noun) - feelings, も (particle) - also, しない (negative verb) - not do, 思い (noun) - feelings, 嘘 (noun) - lies, は (particle) - topic marker
+Sentence: 思いもしない重い真実(うそ)は
+Translation: Unexpected heavy truth (lie),
+Reading: おもい も しない おもい しんじつ (うそ) は
+Grammar: 思い (noun) - thought, も (particle) - also, しない (verb) - not, 重い (adjective) - heavy, 真実 (noun) - truth, (うそ) (expression) - lie
 
-Sentence: タブーにしなくちゃな
-Translation: Make it a taboo, right?
-Reading: たぶー に しなくちゃ な
-Grammar: タブー (noun) - taboo, に (particle) - to, しなくちゃ (contraction) - have to do, な (explanatory particle) - right?
+Sentence: タブーにしなくちゃな？
+Translation: Shouldn't it be taboo?
+Reading: たぶー に しなくちゃ な？
+Grammar: タブー (noun) - taboo, に (particle) - to, しなくちゃ (verb expression) - should, な (sentence-ending particle) - emphasis
 
 Sentence: きっと
 Translation: Surely,
@@ -354,31 +234,31 @@ Reading: きっと
 Grammar: きっと (adverb) - surely
 
 Sentence: 期待してたんだ出来レースでも
-Translation: I was expecting, even if it's a prepared performance,
-Reading: きたい して たんだ できれーす でも
-Grammar: 期待してた (expression) - was expecting, できレース (expression) - prepared performance, でも (conjunction) - even if
+Translation: I was expecting, even if it's a predetermined outcome,
+Reading: きたい してたんだ できれーす でも
+Grammar: 期待してたんだ (verb expression) - I was expecting, 出来レース (noun) - predetermined outcome, でも (conjunction) - even if
 
 Sentence: 公式通りのフレーズも
-Translation: Even the phrases according to the formula,
+Translation: Even phrases according to the official script,
 Reading: こうしき とおり の ふれーず も
-Grammar: 公式通り (expression) - according to the formula, の (particle) - of, フレーズ (noun) - phrases, も (particle) - also
+Grammar: 公式通り (expression) - according to the official script, の (particle) - possessive, フレーズ (noun) - phrases, も (particle) - also
 
-Sentence: 踵上がるくせもう終わりにして
-Translation: The habit of lifting the heels, let's end it,
+Sentence: 踵上がる癖もう終わりにして
+Translation: Let's put an end to the habit of raising the heels,
 Reading: かかと あがる くせ もう おわり に して
-Grammar: 踵 (noun) - heels, 上がる (verb) - to lift, くせ (noun) - habit, もう (adverb) - already, 終わり (noun) - end, に (particle) - to, して (expression) - doing
+Grammar: 踵上がる (verb expression) - raising the heels, 癖 (noun) - habit, もう (adverb) - already, 終わりにして (verb expression) - put an end to
 
 Sentence: 空気を読んだ空晴れないでよ
-Translation: Don't clear the air that was read,
+Translation: Don't clear the air I've read,
 Reading: くうき を よんだ そら はれない で よ
-Grammar: 空気 (noun) - air, を (particle) - direct object marker, 読んだ (past tense verb) - read, 空 (noun) - air, 晴れないで (expression) - don't clear, よ (sentence-ending particle) - emphasis
+Grammar: 空気 (noun) - air, を (particle) - object marker, 読んだ (verb) - read, 空 (noun) - air, 晴れないで (verb expression) - don't clear, よ (sentence-ending particle) - emphasis
 
-Sentence: 今日も、雨
-Translation: Today too, it's raining,
-Reading: きょう も、 あめ
-Grammar: 今日 (noun) - today, も (particle) - also, あめ (noun) - rain
+Sentence: 今日も、雨。
+Translation: Today, too, rain,
+Reading: きょう も、あめ。
+Grammar: 今日も (expression) - today too, 雨 (noun) - rain
 
-Sentence: 傘を閉じて濡れて帰ろうよ
-Translation: Close the umbrella, let's go home getting wet,
-Reading: かさ を とじて ぬれて かえろう よ
-Grammar: 傘 (noun) - umbrella, を (particle) - direct object marker, 閉じて (verb) - close, 濡れて (verb) - getting wet, 帰ろう (verb) - let's go home, よ (sentence-ending particle) - emphasis
+Sentence: 傘を閉じて　濡れて帰ろうよ
+Translation: Close the umbrella; let's go home getting wet,
+Reading: かさ を とじて　ぬれて かえろう よ
+Grammar: 傘 (noun) - umbrella, を (particle) - object marker, 閉じて (verb expression) - close, ぬれて (verb expression) - getting wet, 帰ろう (verb expression) - let's go home, よ (sentence-ending particle) - emphasis

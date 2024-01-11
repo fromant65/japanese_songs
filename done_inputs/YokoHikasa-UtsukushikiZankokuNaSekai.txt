@@ -1,0 +1,169 @@
+Sentence: その夢は こころの居場所
+Translation: That dream is the place of the heart,
+Reading: その ゆめ は こころ の いばしょ
+Grammar: その (pronoun) - that, 夢 (noun) - dream, は (particle) - topic marker, こころ (noun) - heart, の (particle) - possessive, 居場所 (noun) - place
+
+Sentence: 生命より 壊れやすきもの
+Translation: Fragile things more delicate than life,
+Reading: いのち より くわれやすき もの
+Grammar: 生命 (noun) - life, より (particle) - than, 壊れやすき (adjective) - fragile, もの (noun) - things
+
+Sentence: 何度でも 捨てては見つけ
+Translation: Discard and find, again and again,
+Reading: なんど でも すてて は みつけ
+Grammar: 何度でも (expression) - again and again, 捨てて (verb expression) - discard, は (particle) - emphasis, 見つけ (verb) - find
+
+Sentence: 安らかに さぁ眠れ
+Translation: Sleep peacefully now,
+Reading: やすらか に さぁ ねむれ
+Grammar: 安らかに (expression) - peacefully, さぁ (expression) - now, 眠れ (verb) - sleep
+
+Sentence: 脈打つ衝動に 願いは犯され
+Translation: Desires are violated by the pulsating impulses,
+Reading: みゃくうつ しょうどう に ねがい は おかされ
+Grammar: 脈打つ (verb expression) - pulsating, 衝動 (noun) - impulse, に (particle) - in, 願い (noun) - desire, は (particle) - topic marker, 犯され (verb expression) - violated
+
+Sentence: 忘れてしまうほど また想い出すよ
+Translation: To the point of forgetting, I remember again,
+Reading: わすれてしまう ほど また おもいだす よ
+Grammar: 忘れてしまう (verb expression) - to the point of forgetting, ほど (expression) - extent, また (expression) - again, 想い出す (verb expression) - remember
+
+Sentence: この 美しき残酷な世界では
+Translation: In this beautiful yet cruel world,
+Reading: この うつくしき ざんこく な せかい では
+Grammar: この (pronoun) - this, 美しき (adjective) - beautiful, 残酷な (adjective) - cruel, 世界 (noun) - world, では (conjunction) - in
+
+Sentence: まだ生きていること
+Translation: Still being alive,
+Reading: まだ いきている こと
+Grammar: まだ (adverb) - still, 生きている (verb expression) - being alive, こと (noun) - thing
+
+Sentence: 「何故」と問うばかりで
+Translation: Only asking "why,"
+Reading: なぜ と とう ばかり で
+Grammar: 何故 (expression) - why, と (quotation particle) - quoting, 問う (verb) - ask, ばかり (particle) - only, で (conjunction) - in
+
+Sentence: 嗚呼ボクたちは この強さ 弱さで
+Translation: Ah, with this strength and weakness, we,
+Reading: ああ ぼく たちは この つよさ よわさ で
+Grammar: 嗚呼 (expression) - Ah, ボク (pronoun) - I, たちは (pronoun) - we, この (pronoun) - this, 強さ (noun) - strength, 弱さ (noun) - weakness, で (conjunction) - with
+
+Sentence: 何を護るのだろう もう理性など
+Translation: What are we protecting? There's no reason anymore,
+Reading: なに を まもる の だろう もう りせい など
+Grammar: 何を (expression) - what, 護る (verb) - protect, の (particle) - possessive, だろう (expression) - I wonder, もう (adverb) - anymore, 理性 (noun) - reason, など (particle) - such as
+
+Sentence: 無いならば
+Translation: If there isn't,
+Reading: ない ならば
+Grammar: 無い (adjective) - not, ならば (conjunction) - if
+
+Sentence: あの空は 切ないのだろう
+Translation: That sky must be painful,
+Reading: あの そら は せつない の だろう
+Grammar: あの (pronoun) - that, 空 (noun) - sky, は (particle) - topic marker, 切ない (adjective) - painful, の (particle) - emphasis, だろう (expression) - I wonder
+
+Sentence: 舞い上がる 灰と蜃気楼
+Translation: Rising ashes and mirages,
+Reading: まいあがる はい と しんきろう
+Grammar: 舞い上がる (verb expression) - rising, 灰 (noun) - ashes, と (quotation particle) - and, 蜃気楼 (noun) - mirage
+
+Sentence: 温かい 言葉に凍え
+Translation: Freezing in warm words,
+Reading: あたたかい ことば に こごえ
+Grammar: 温かい (adjective) - warm, 言葉 (noun) - words, に (particle) - in, 凍え (verb) - freeze
+
+Sentence: 人知れず さぁ眠れ
+Translation: Sleep discreetly now,
+Reading: ひとしれず さぁ ねむれ
+Grammar: 人知れず (expression) - discreetly, さぁ (expression) - now, 眠れ (verb) - sleep
+
+Sentence: ねばつく幻想に 嘆きは隠され
+Translation: Sorrows are hidden in persistent illusions,
+Reading: ねばつく げんそう に なげき は かくされ
+Grammar: ねばつく (verb) - persist, 幻想 (noun) - illusion, に (particle) - in, 嘆き (noun) - sorrows, は (particle) - topic marker, 隠され (verb expression) - hidden
+
+Sentence: 千切ってしまうほど また絡みつくよ
+Translation: Twisting again to the point of tearing apart,
+Reading: ちぎって しまう ほど また からみつく よ
+Grammar: 千切ってしまう (verb expression) - tearing apart, ほど (expression) - extent, また (expression) - again, 絡みつく (verb expression) - twist
+
+Sentence: この 美しき残酷な世界では
+Translation: In this beautiful yet cruel world,
+Reading: この うつくしき ざんこく な せかい では
+Grammar: この (pronoun) - this, 美しき (adjective) - beautiful, 残酷な (adjective) - cruel, 世界 (noun) - world, では (conjunction) - in
+
+Sentence: ただ死んでゆくこと
+Translation: Simply dying,
+Reading: ただ しんでゆく こと
+Grammar: ただ (adverb) - simply, 死んでゆく (verb expression) - dying, こと (noun) - thing
+
+Sentence: 「待て」と乞うばかりで
+Translation: Only begging "wait,"
+Reading: まて と こう ばかり で
+Grammar: 待て (expression) - wait, と (quotation particle) - quoting, 乞う (verb) - beg, ばかり (particle) - only, で (conjunction) - in
+
+Sentence: 嗚呼ボクたちは 風見鶏 飛べずに
+Translation: Ah, we are weathercocks unable to fly,
+Reading: ああ ぼく たちは かざみどり とべず に
+Grammar: 嗚呼 (expression) - Ah, ボク (pronoun) - I, たちは (pronoun) - we, 風見鶏 (noun) - weathercock, 飛べずに (verb expression) - unable to fly
+
+Sentence: 真実は嘘より 綺麗かどうか
+Translation: Whether the truth is more beautiful than lies,
+Reading: しんじつ は うそ より きれい か どうか
+Grammar: 真実 (noun) - truth, は (particle) - topic marker, 嘘 (noun) - lies, より (particle) - than, 綺麗 (adjective) - beautiful, か (particle) - whether, どうか (expression) - how
+
+Sentence: 分からない
+Translation: I don't know,
+Reading: わからない
+Grammar: 分からない (expression) - I don't know
+
+Sentence: もしもボクら歌ならば
+Translation: If we were songs,
+Reading: もしも ぼく ら うた ならば
+Grammar: もしも (expression) - if, ボクら (pronoun) - we, 歌 (noun) - song, ならば (conjunction) - if
+
+Sentence: あの風に 帆を上げ
+Translation: Hoist the sails in that wind,
+Reading: あの ふう に ほ を あげ
+Grammar: あの (pronoun) - that, 風 (noun) - wind, に (particle) - in, 帆 (noun) - sails, を (particle) - object marker, 上げ (verb) - hoist
+
+Sentence: 迷わずにただ 誰かの元へ
+Translation: Without hesitation, just to someone's side,
+Reading: まよわず に ただ だれか の もと へ
+Grammar: 迷わずに (expression) - without hesitation, ただ (adverb) - just, 誰か (pronoun) - someone, の (particle) - possessive, 元 (noun) - side, へ (particle) - to
+
+Sentence: 希望 届けに行くのに
+Translation: Even though we go to deliver hope,
+Reading: きぼう とどけ に いく の に
+Grammar: 希望 (noun) - hope, 届け (verb) - deliver, に (particle) - to, 行く (verb) - go, の (particle) - possessive, に (particle) - for
+
+Sentence: この 美しき残酷な世界では
+Translation: In this beautiful yet cruel world,
+Reading: この うつくしき ざんこく な せかい では
+Grammar: この (pronoun) - this, 美しき (adjective) - beautiful, 残酷な (adjective) - cruel, 世界 (noun) - world, では (conjunction) - in
+
+Sentence: まだ生きていること
+Translation: Still being alive,
+Reading: まだ いきている こと
+Grammar: まだ (adverb) - still, 生きている (verb expression) - being alive, こと (noun) - thing
+
+Sentence: 「何故」と問うばかりで
+Translation: Only asking "why,"
+Reading: 「なぜ」と とう ばかり で
+Grammar: 「何故」 (quotation) - "why," と (quotation particle) - quoting, 問う (verb) - ask, ばかり (particle) - only, で (conjunction) - in
+
+Sentence: 嗚呼ボクたちは この強さ 弱さで
+Translation: Ah, with this strength and weakness, we,
+Reading: ああ ぼく たちは この つよさ よわさ で
+Grammar: 嗚呼 (expression) - Ah, ボク (pronoun) - I, たちは (pronoun) - we, この (pronoun) - this, 強さ (noun) - strength, 弱さ (noun) - weakness, で (conjunction) - with
+
+Sentence: 何を護るのだろう もう理性など
+Translation: What are we protecting? There's no reason anymore,
+Reading: なに を まもる の だろう もう りせい など
+Grammar: 何を (expression) - what, 護る (verb) - protect, の (particle) - possessive, だろう (expression) - I wonder, もう (adverb) - anymore, 理性 (noun) - reason, など (particle) - such as
+
+Sentence: 無いならば
+Translation: If there isn't,
+Reading: ない ならば
+Grammar: 無い (adjective) - not, ならば (conjunction) - if

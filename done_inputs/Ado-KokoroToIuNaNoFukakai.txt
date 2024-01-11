@@ -1,0 +1,279 @@
+Sentence: 君が瞬きをする音
+Translation: The sound of you blinking,
+Reading: きみ が またたき を する おと
+Grammar: 君 (pronoun) - you, が (particle) - subject marker, またたき (noun) - blinking, を (particle) - object marker, する (verb) - do, おと (noun) - sound
+
+Sentence: 目を逸らした音さえ
+Translation: Even the sound of averting your eyes,
+Reading: め を そらした おと さえ
+Grammar: 目 (noun) - eyes, を (particle) - object marker, そらした (verb) - averted, おと (noun) - sound, さえ (particle) - even
+
+Sentence: こんなにも容易く聞き分けてみせるのに
+Translation: Even though I easily discern,
+Reading: こんな に も たやすく きき わけて みせる のに
+Grammar: こんな (expression) - like this, に (particle) - indicating degree, も (particle) - emphasizing, やさしく (adverb) - easily, きき (verb) - hear, わけて (verb) - discern, みせる (verb) - show, のに (conjunction) - even though
+
+Sentence: 時に、病名を何としましょうか
+Translation: At times, what shall I call this illness?
+Reading: とき に、 びょう めい を なん と しましょう か
+Grammar: 時 (noun) - time, に (particle) - indicating time, やまい めい (noun) - illness name, を (particle) - object marker, なん (expression) - what, と (quotation particle) - quoting, しましょう (verb) - shall do, か (question marker) - question
+
+Sentence: 誰も知りえないはずの
+Translation: It should be something no one can know,
+Reading: だれ も しりえない はず の
+Grammar: 誰も (expression) - no one, 知りえない (verb) - can know, はず (expression) - should be, の (particle) - possessive
+
+Sentence: ココロなんてさ 期待もしないよ
+Translation: As for the heart, I don't expect anything,
+Reading: こころ なん て さ きたい も しない よ
+Grammar: ココロ (noun) - heart, なん (expression) - as for, て (particle) - quoting, さ (expression) - emphasis, 期待 (noun) - expectation, も (particle) - also, しない (verb) - don't do, よ (sentence-ending particle) - emphasis
+
+Sentence: 寸分の狂いだってない
+Translation: There isn't even a slight deviation,
+Reading: すんぶん の くるい だって ない
+Grammar: 寸分 (expression) - even a slight, の (particle) - possessive, くるい (noun) - deviation, だって (conjunction) - even, ない (adjective) - not
+
+Sentence: 正確に記録されたジグザグに
+Translation: In the accurately recorded zigzag,
+Reading: せいかく に きろく された じぐざぐ に
+Grammar: 正確 (noun) - accuracy, に (particle) - indicating manner, きろく (verb) - recorded, された (verb) - passive form, ジグザグ (noun) - zigzag
+
+Sentence: それ以上意味はないはずだもの
+Translation: There shouldn't be any more meaning,
+Reading: それ いじょう いみ は ない はず だ もの
+Grammar: それ (pronoun) - that, いじょう (expression) - any more, いみ (noun) - meaning, は (particle) - topic marker, ない (adjective) - not, はず (expression) - should be, だ (copula) - is, もの (expression) - reason
+
+Sentence: 故にどんな顔して笑おうと
+Translation: Therefore, no matter what face I put on to smile,
+Reading: ゆえに どんな かお して わらおう と
+Grammar: 故に (expression) - therefore, どんな (expression) - what kind of, かお (noun) - face, して (verb) - doing, えらおう (verb) - try to smile, と (quotation particle) - quoting
+
+Sentence: カルテに書かれないことは
+Translation: What is not written in the medical record,
+Reading: かるて に かかれない こと は
+Grammar: カルテ (noun) - medical record, に (particle) - indicating direction, かかれない (verb) - not written, こと (noun) - thing, は (particle) - topic marker
+
+Sentence: 信じるに値しないんだ
+Translation: It's not worth believing,
+Reading: しんじる に あたいしない ん だ
+Grammar: しんじる (verb) - believe, に (particle) - indicating purpose, あたわない (adjective) - not worth, ん (sentence-ending particle) - explanatory particle, だ (copula) - is
+
+Sentence: それが全て
+Translation: That is everything,
+Reading: それ が すべて
+Grammar: それ (pronoun) - that, が (particle) - subject marker, すべて (noun) - everything
+
+Sentence: 心音を吐いている
+Translation: Exhaling the sound of the heartbeat,
+Reading: しんおん を はいて いる
+Grammar: 心音 (noun) - heartbeat, を (particle) - object marker, 吐いて (verb) - exhaling, いる (verb) - is
+
+Sentence: 心音を吐いている
+Translation: Exhaling the sound of the heartbeat,
+Reading: しんおん を はいて いる
+Grammar: 心音 (noun) - heartbeat, を (particle) - object marker, 吐いて (verb) - exhaling, いる (verb) - is
+
+Sentence: それだけ
+Translation: Only that,
+Reading: それ だけ
+Grammar: それ (pronoun) - that, だけ (expression) - only
+
+Sentence: 曖昧なものだ 見えないものだ
+Translation: It's something vague, something invisible,
+Reading: あいまい な もの だ みえない もの だ
+Grammar: 曖昧 (adjective) - vague, な (particle) - attributive, もの (noun) - thing, だ (copula) - is, 見えない (adjective) - invisible
+
+Sentence: 最適な治療法などどこにもない
+Translation: There is no optimal treatment method anywhere,
+Reading: さいてき な ちりょうほう など どこ に も ない
+Grammar: 最適 (noun) - optimal, な (particle) - attributive, 治療法 (noun) - treatment method, など (particle) - such as, どこ (pronoun) - where, に (particle) - indicating direction, も (particle) - emphasizing, ない (adjective) - not
+
+Sentence: 感情の判断はどうしたらいい？
+Translation: What should I do about judging emotions?
+Reading: かんじょう の はんだん は どう したら いい？
+Grammar: 感情 (noun) - emotion, の (particle) - possessive, はんだん (noun) - judgment, は (particle) - topic marker, どう (expression) - how, したら (conditional form of する) - if do, いい (adjective) - good
+
+Sentence: 心境の分別はどうしたらいい？
+Translation: What should I do about the discernment of my state of mind?
+Reading: しんきょう の ぶんべつ は どう したら いい？
+Grammar: 心境 (noun) - state of mind, の (particle) - possessive, ぶんべつ (noun) - discernment, は (particle) - topic marker, どう (expression) - how, したら (conditional form of する) - if do, いい (adjective) - good
+
+Sentence: 証明しようもない不明瞭が
+Translation: The unclear that cannot be proven,
+Reading: しょうめい しよう も ない ふめいりょう が
+Grammar: 証明 (noun) - proof, しよう (verb) - do, も (particle) - indicating impossibility, ない (adjective) - not, 不明瞭 (noun) - unclear, が (particle) - subject marker
+
+Sentence: エラー吐いては脈を打つんだ
+Translation: Errors are vomited, pulsing in response,
+Reading: えらー はいて は みゃく を うつん だ
+Grammar: エラー (noun) - error, 吐いて (verb) - vomit, は (particle) - indicating result, みゃく (noun) - pulse, を (particle) - object marker, うつん (verb) - strike, だ (copula) - is
+
+Sentence: 安寧も安楽もどうだっていい
+Translation: Peace and comfort, it doesn't matter,
+Reading: あんねい も あんらく も どう だって いい
+Grammar: 安寧 (noun) - peace, も (particle) - also, 安楽 (noun) - comfort, も (particle) - also, どう (expression) - how, だって (conjunction) - it doesn't matter, いい (adjective) - good
+
+Sentence: 後悔の人生だとしたっていいからさ
+Translation: Even if it's a life of regret, it's okay,
+Reading: こうかい の じんせい だ と したって いい から さ
+Grammar: 後悔 (noun) - regret, の (particle) - possessive, じんせい (noun) - life, だ (copula) - is, と (quotation particle) - quoting, したって (conjunction) - even if, いい (adjective) - okay, から (conjunction) - because, さ (sentence-ending particle) - emphasizing
+
+Sentence: この目が潤む病の理由は何なの？
+Translation: What is the reason for these eyes to become moist with illness?
+Reading: この め が うるむ やまい の りゆう は なん な の？
+Grammar: この (demonstrative pronoun) - these, め (noun) - eyes, が (particle) - subject marker, うるむ (verb) - become moist, やまい (noun) - illness, の (particle) - possessive, りゆう (noun) - reason, は (particle) - topic marker, なん (expression) - what, な (particle) - explanatory, の (sentence-ending particle) - explanatory
+
+Sentence: 永遠と静寂の 戸をたたいた言伝
+Translation: A message that knocked on the door of eternity and silence,
+Reading: えいえん と せいじゃく の と を たたいた ことづて
+Grammar: 永遠 (noun) - eternity, と (quotation particle) - quoting, 静寂 (noun) - silence, の (particle) - possessive, と (particle) - and, せいじゃく (noun) - silence, の (particle) - possessive, 戸 (noun) - door, を (particle) - object marker, たたいた (verb) - knocked, 言伝 (noun) - message
+
+Sentence: 私はいつまで 忘れているつもりだろう
+Translation: How long do I intend to keep forgetting?
+Reading: わたし は いつ まで わすれて いる つもり だろう
+Grammar: 私 (pronoun) - I, は (particle) - topic marker, いつ (pronoun) - when, まで (particle) - until, わすれて (verb) - forgetting, いる (verb) - am, つもり (expression) - intention, だろう (auxiliary verb) - probably
+
+Sentence: 明日を繋いだ指で 取りこぼしてきたものを数えてしまう
+Translation: With fingers that connected tomorrow, I count the things I've let slip away,
+Reading: あす を つないだ ゆび で とりこぼして きた もの を かぞえて しまう
+Grammar: 明日 (noun) - tomorrow, を (particle) - object marker, つないだ (verb) - connected, ゆび (noun) - finger, で (particle) - indicating means, とりこぼして (verb) - let slip away, きた (verb) - have come, もの (noun) - things, を (particle) - object marker, かぞえて (verb) - count, しまう (verb) - do completely
+
+Sentence: 虚しさのままに
+Translation: With emptiness still lingering,
+Reading: むなしさ の まま に
+Grammar: 虚しさ (noun) - emptiness, の (particle) - possessive, まま (expression) - still, に (particle) - indicating state
+
+Sentence: 心音を吐いている
+Translation: Exhaling the sound of the heartbeat,
+Reading: しんおん を はいて いる
+Grammar: 心音 (noun) - heartbeat, を (particle) - object marker, 吐いて (verb) - exhaling, いる (verb) - is
+
+Sentence: 心音を吐いている
+Translation: Exhaling the sound of the heartbeat,
+Reading: しんおん を はいて いる
+Grammar: 心音 (noun) - heartbeat, を (particle) - object marker, 吐いて (verb) - exhaling, いる (verb) - is
+
+Sentence: 本当は
+Translation: Actually,
+Reading: ほんとう は
+Grammar: 本当 (adjective) - true, は (particle) - topic marker
+
+Sentence: 乱暴に君が触れてくれたら
+Translation: If you touch me roughly,
+Reading: らんぼう に きみ が ふれて くれた ら
+Grammar: 乱暴 (adjective) - rough, に (particle) - indicating manner, きみ (pronoun) - you, が (particle) - subject marker, ふれて (verb) - touch, くれた (verb) - gave, ら (conditional particle) - if
+
+Sentence: ぽっかり覗く空白も埋められる
+Translation: Even the gaping emptiness can be filled,
+Reading: ぽっかり のぞく くうはく も うめられる
+Grammar: ぽっかり (adverb) - gaping, のぞく (verb) - peek, くうはく (noun) - emptiness, も (particle) - also, うめられる (potential form of うめる) - can be filled
+
+Sentence: これが正体？
+Translation: Is this the true nature?
+Reading: これ が しょうたい？
+Grammar: これ (pronoun) - this, が (particle) - subject marker, しょうたい (noun) - true nature
+
+Sentence: 表情にメスを入れてしまう
+Translation: Carving into the expression,
+Reading: ひょうじょう に めす を いれて しまう
+Grammar: 表情 (noun) - expression, に (particle) - indicating target, メス (noun) - scalpel, を (particle) - object marker, いれて (verb) - put in, しまう (verb) - do completely
+
+Sentence: 愛情は投薬と思えてしまう
+Translation: Love seems like medication,
+Reading: あいじょう は とうやく と おもえて しまう
+Grammar: 愛情 (noun) - love, は (particle) - topic marker, 投薬 (noun) - medication, と (quotation particle) - quoting, おもえて (verb) - seem, しまう (verb) - do completely
+
+Sentence: 解剖できない手術台じゃ
+Translation: In an operating table that can't be dissected,
+Reading: かいぼう できない しゅじゅつ だい じゃ
+Grammar: 解剖 (noun) - dissection, できない (adjective) - can't be done, 手術台 (noun) - operating table, じゃ (conjunction) - in
+
+Sentence: 答えなんてさ わかりやしないよ
+Translation: I don't understand things like answers,
+Reading: こたえ なん て さ わかりやしない よ
+Grammar: 答え (noun) - answer, なん (expression) - things like, て (particle) - quoting, さ (sentence-ending particle) - emphasizing, わかりやしない (expression) - don't understand, よ (sentence-ending particle) - emphasis
+
+Sentence: 数式で一切を証明しない
+Translation: Not proving everything with mathematical formulas,
+Reading: すうしき で いっさい を しょうめい しない
+Grammar: 数式 (noun) - mathematical formula, で (particle) - indicating means, いっさい (expression) - everything, を (particle) - object marker, 証明 (noun) - proof, しない (verb) - not do
+
+Sentence: 心という名前の不可解を
+Translation: The inexplicability of the name called "heart,"
+Reading: こころ と いう なまえ の ふかい げん を
+Grammar: 心 (noun) - heart, と (quotation particle) - quoting, いう (verb) - called, なまえ (noun) - name, の (particle) - possessive, ふかい (adjective) - inexplicable, げん (noun) - mystery, を (particle) - object marker
+
+Sentence: 素直になれぬ私のことを
+Translation: About me, who can't become honest,
+Reading: すなお に なれぬ わたし の こと を
+Grammar: 素直 (adjective) - honest, に (particle) - indicating manner, なれぬ (verb) - can't become, わたし (pronoun) - I, の (particle) - possessive, こと (expression) - about, を (particle) - object marker
+
+Sentence: 見抜いてよ
+Translation: See through me,
+Reading: みぬいて よ
+Grammar: 見抜いて (verb) - see through, よ (sentence-ending particle) - emphasis
+
+Sentence: 心音を吐いている
+Translation: Exhaling the sound of the heartbeat,
+Reading: しんおん を はいて いる
+Grammar: 心音 (noun) - heartbeat, を (particle) - object marker, 吐いて (verb) - exhaling, いる (verb) - is
+
+Sentence: 心音を吐いている
+Translation: Exhaling the sound of the heartbeat,
+Reading: しんおん を はいて いる
+Grammar: 心音 (noun) - heartbeat, を (particle) - object marker, 吐いて (verb) - exhaling, いる (verb) - is
+
+Sentence: 覚めない夢なんて
+Translation: Dreams that won't wake up,
+Reading: さめない ゆめ なん て
+Grammar: 覚めない (adjective) - won't wake up, 夢 (noun) - dream, なん (expression) - things like, て (particle) - quoting
+
+Sentence: ここにないと教えて
+Translation: Teach me that they're not here,
+Reading: ここ に ない と おしえて
+Grammar: ここ (pronoun) - here, に (particle) - indicating location, ない (adjective) - not, と (quotation particle) - quoting, おしえて (verb) - teach
+
+Sentence: 感情の判断はどうしたらいい？
+Translation: What should I do about judging emotions?
+Reading: かんじょう の はんだん は どう したら いい？
+Grammar: 感情 (noun) - emotion, の (particle) - possessive, はんだん (noun) - judgment, は (particle) - topic marker, どう (expression) - how, したら (conditional form of する) - if do, いい (adjective) - good
+
+Sentence: 感情の判断はどうしたらいい？
+Translation: What should I do about judging emotions?
+Reading: かんじょう の はんだん は どう したら いい？
+Grammar: 感情 (noun) - emotion, の (particle) - possessive, はんだん (noun) - judgment, は (particle) - topic marker, どう (expression) - how, したら (conditional form of する) - if do, いい (adjective) - good
+
+Sentence: 心境の分別はどうしたらいい？
+Translation: What should I do about the discernment of my state of mind?
+Reading: しんきょう の ぶんべつ は どう したら いい？
+Grammar: 心境 (noun) - state of mind, の (particle) - possessive, ぶんべつ (noun) - discernment, は (particle) - topic marker, どう (expression) - how, したら (conditional form of する) - if do, いい (adjective) - good
+
+Sentence: 証明しようもない不明瞭が
+Translation: The unclear that cannot be proven,
+Reading: しょうめい しよう も ない ふめいりょう が
+Grammar: 証明 (noun) - proof, しよう (verb) - do, も (particle) - indicating impossibility, ない (adjective) - not, 不明瞭 (noun) - unclear, が (particle) - subject marker
+
+Sentence: エラー吐いては脈を打つんだ
+Translation: Errors are vomited, pulsing in response,
+Reading: えらー はいて は みゃく を うつん だ
+Grammar: エラー (noun) - error, 吐いて (verb) - vomit, は (particle) - indicating result, みゃく (noun) - pulse, を (particle) - object marker, うつん (verb) - strike, だ (copula) - is
+
+Sentence: 何回拒んだって 振りほどいたって
+Translation: No matter how many times I refuse, no matter how much I shake off,
+Reading: なん かい こばん だって ふりほどいたって
+Grammar: 何回 (expression) - how many times, 拒んだって (verb) - I refuse, ふりほどいたって (verb) - I shake off
+
+Sentence: そうやって また優しくするのでしょう？
+Translation: Like that, will you be kind again?
+Reading: そう やって また やさしく する の でしょう？
+Grammar: そう (adverb) - like that, やって (verb) - doing, また (adverb) - again, やさしく (adverb) - kindly, する (verb) - do, の (particle) - indicating reason, でしょう (expression) - I wonder
+
+Sentence: この目が潤む病の理由は何なの？
+Translation: What is the reason this eye becomes moist with the disease?
+Reading: この め が うるむ やまい の りゆう は なん なの？
+Grammar: この (pronoun) - this, め (noun) - eye, が (particle) - subject marker, うるむ (verb) - becomes moist, やまい (noun) - disease, の (particle) - possessive, りゆう (noun) - reason, は (particle) - topic marker, なん (expression) - what, なの (sentence-ending particle) - seeking explanation
+
+Sentence: この想いの名前は何なの？
+Translation: What is the name of these feelings?
+Reading: この おもい の なまえ は なん なの？
+Grammar: この (pronoun) - this, おもい (noun) - feelings, の (particle) - possessive, なまえ (noun) - name, は (particle) - topic marker, なん (expression) - what, なの (sentence-ending particle) - seeking explanation
