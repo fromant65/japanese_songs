@@ -1,0 +1,14 @@
+Sentence: 小さな泡きらり
+Translation: Small bubbles twinkle
+Reading: ちいさなあわきらり
+Grammar: 小さな (adjective) - small, 泡 (noun) - bubbles, きらり (adverb) - twinkle
+ 
+Sentence: Hello
+Translation: Hola
+Reading: je-lou
+Grammar: Hello (expresion) - hola
+
+Sentence: How are you?
+Translation: Cómo estás?
+Reading: jau ar iu
+Grammar: How (pregunta) - cómo, are (verbo) - estás, you (pronombre) - tú
