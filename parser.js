@@ -28,8 +28,8 @@ function parseLine(line, card) {
       card.formattedSentence = formattedSentence.trim();
       card.grammar = formattedGrammar.slice(0, -2);
     }
-  } catch (e) {
-    throw new Error(`There was an error in line \n${line}\n${e.message}`);
+  } catch (err) {
+    throw new Error(`There was an error in line \n${line}\n${err.message}`);
   }
 
   return card;
@@ -45,25 +45,28 @@ function parseFile(filename) {
   if (!fs.existsSync(filename)) {
     throw new Error(`The file ${filename} does not exist.`);
   }
+  try {
+    const data = fs.readFileSync(filename, "utf8");
+    const lines = data.split("\n");
+    const cards = [];
+    let card = {};
 
-  const data = fs.readFileSync(filename, "utf8");
-  const lines = data.split("\n");
-  const cards = [];
-  let card = {};
-
-  for (let line of lines) {
-    if (line.startsWith("Sentence: ") && card.sentence) {
-      cards.push(card);
-      card = {};
+    for (let line of lines) {
+      if (line.startsWith("Sentence: ") && card.sentence) {
+        cards.push(card);
+        card = {};
+      }
+      card = parseLine(line, card);
     }
-    card = parseLine(line, card);
-  }
 
-  if (card.sentence) {
-    cards.push(card);
-  }
+    if (card.sentence) {
+      cards.push(card);
+    }
 
-  return cards;
+    return cards;
+  } catch (err) {
+    throw err;
+  }
 }
 
 module.exports = { parseFile };
