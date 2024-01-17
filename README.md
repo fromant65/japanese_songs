@@ -1,4 +1,4 @@
-![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/fromant65/21872732f8434b07c34fa3a1a95c530a/raw/coverage-final.json)
+![Coverage](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/fromant65/21872732f8434b07c34fa3a1a95c530a/raw/japanese_songs_coverage.json)
 
 # Japanese Songs Lyrics to Anki CSV Converter
 
